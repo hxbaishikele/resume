@@ -15,10 +15,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    
-    {% for postTrans in postsTrans %}
-      <link rel="alternate" hreflang="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}"/>
-    {% endfor %}
   </head>
 
   <body>
@@ -32,6 +28,10 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
+        
+        {% for postTrans in postsTrans %}
+          <link rel="alternate" hreflang="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}"/>
+        {% endfor %}
       </footer>
     </div>
 
