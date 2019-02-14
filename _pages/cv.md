@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Department of Civil Engineering, Tsinghua University, 2007-2011
+* Ph.D in Department of Civil Engineering, Tsinghua University, 2011-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Aug, 2011-Jun, 2016: Research Assistant
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Building Information Modeling and Building Lifecycle Management
+  * Supervisor: Professor Jian-Ping Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Spring 2012: Teaching Assistant
+  * Tsinghua University
+  * Course: Computer-Aided Engineering Drawings
+
+* Spring 2013: Teaching Assistant
+  * Tsinghua University
+  * Course: Computer-Aided Engineering Drawings  
 Skills
 ======
 * Skill 1
