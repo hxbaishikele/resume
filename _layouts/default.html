@@ -4,12 +4,6 @@ layout: compress
 
 {% include base_path %}
 
-{% assign postsTrans=site.posts | where:"global-ref", page.global-ref | sort: 'lang' %}
-
-{% if postsTrans.size == 0 %}
-  {% assign postsTrans=site.pages | where:"global-ref", page.global-ref | sort: 'lang' %}
-{% endif %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
@@ -28,10 +22,6 @@ layout: compress
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
-        
-        {% for postTrans in postsTrans %}
-          <link rel="alternate" hreflang="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}"/>
-        {% endfor %}
       </footer>
     </div>
 
