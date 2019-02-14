@@ -241,6 +241,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+#_defaultLanguage
+  - scope:
+      path:""
+  values:
+      lang:zh
+      baseurl:"/"
+  - scope:
+      path:"en"
+  values:
+      lang:en
+      baseurl:"/en/"
 
 # Sass/SCSS
 sass:
