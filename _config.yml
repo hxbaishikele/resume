@@ -246,12 +246,12 @@ defaults:
       path:""
   values:
       lang:zh
-      baseurl:"/"
+      base-url:"/"
   - scope:
       path:"en"
   values:
       lang:en
-      baseurl:"/en/"
+      base-url:"/en/"
 
 # Sass/SCSS
 sass:
