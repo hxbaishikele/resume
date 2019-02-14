@@ -325,3 +325,6 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.en:lang(en),.zh:lang(zh){
+    font-weight: bold;
+}

@@ -1,8 +1,5 @@
 {% include base_path %}
 
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
