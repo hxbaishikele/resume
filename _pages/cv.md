@@ -28,6 +28,7 @@ Work experience
 * Spring 2013: Teaching Assistant
   * Tsinghua University
   * Course: Computer-Aided Engineering Drawings  
+
 Skills
 ======
 * Skill 1
