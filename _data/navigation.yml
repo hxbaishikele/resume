@@ -20,3 +20,47 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+zh:
+  - title: "论著"
+    url: /publications/
+
+  - title: "报告"
+    url: /talks/    
+
+  - title: "教学"
+    url: /teaching/    
+    
+  - title: "资源"
+    url: /portfolio/
+        
+  - title: "随笔"
+    url: /year-archive/
+    
+  - title: "简历"
+    url: /cv/
+    
+  - title: "教程"
+    url: /markdown/
+
+en:
+  - title: "Publications"
+    url: /en/publications/
+
+  - title: "Talks"
+    url: /en/talks/   
+
+  - title: "Teaching"
+    url: /en/teaching/    
+    
+  - title: "Portfolio"
+    url: /en/portfolio/
+        
+  - title: "Blog Posts"
+    url: /en/year-archive/
+    
+  - title: "CV"
+    url: /en/cv/
+    
+  - title: "Guide"
+    url: /en/markdown/

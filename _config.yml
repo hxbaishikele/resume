@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "zh"
 title                    : "Jia-Rui Lin's Page"
 title_separator          : "-"
 name                     : &name "Jia-Rui Lin"
-description              : &description "researcher at Tsinghua University"
+description              : &description "Researcher at Tsinghua University"
 url                      : https://linjiarui.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linjiarui.github.io"
@@ -306,3 +306,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# language
+langNames:
+  en: English
+  zh: Chinese

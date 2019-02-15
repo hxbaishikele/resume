@@ -4,8 +4,13 @@ layout: compress
 
 {% include base_path %}
 
+{% assign lang = site.locale%}
+{% if page.lang %}
+{% assign lang = page.lang%}
+{% endif %}
+
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="{{ lang | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -18,6 +23,15 @@ layout: compress
 
     {{ content }}
 
+    <div class="wrapper" style="text-align: right; line-height: 2em">
+      <p>View this page in: 
+      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ site.langNames[page.lang] }}</a> {% endfor %}
+      </p>
+    </div>
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}

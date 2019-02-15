@@ -1,9 +1,9 @@
 ---
 title: "Archive Layout with Content"
-lang: zh
+lang: en
 ref: archive-layout-with-content
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /en/archive-layout-with-content/
 ---
 
 A variety of common markup showing how the theme styles them.
