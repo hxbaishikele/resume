@@ -22,26 +22,26 @@ main:
     url: /markdown/
 
 zh:
-  - title: "论著"
+  - title: "发表论著"
     url: /publications/
 
-  - title: "报告"
+  - title: "学术报告"
     url: /talks/    
 
-  - title: "教学"
+  - title: "课程教学"
     url: /teaching/    
     
-  - title: "资源"
+  - title: "资源下载"
     url: /portfolio/
         
-  - title: "随笔"
+  - title: "日志/新闻"
     url: /year-archive/
     
-  - title: "简历"
+  - title: "个人简历"
     url: /cv/
     
-  - title: "教程"
-    url: /markdown/
+#  - title: "MD 教程"
+#    url: /markdown/
 
 en:
   - title: "Publications"
@@ -62,5 +62,5 @@ en:
   - title: "CV"
     url: /en/cv/
     
-  - title: "Guide"
-    url: /en/markdown/
+#  - title: "Guide"
+#    url: /en/markdown/

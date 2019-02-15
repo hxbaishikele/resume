@@ -2,14 +2,25 @@
 layout: archive
 lang: zh
 ref: publications
-title: "论著"
+title: "发表论著"
 permalink: /publications/
 author_profile: true
 ---
 
+您可以通过以下学术主页/链接查看我的论著信息：
+<ul>
 {% if site.author.googlescholar %}
-  您也可在<u><a href="{{site.author.googlescholar}}">我的 Google Scholar 个人主页</a>.</u>查看我的论著列表。
+  <li><a href="{{site.author.googlescholar}}">我的 Google Scholar 个人主页</a></li>
 {% endif %}
+
+{% if site.author.researchgate %}
+  <li><a href="{{site.author.researchgate}}">我的 ResearchGate 个人主页</a></li>
+{% endif %}
+
+{% if site.author.orcid %}
+  <li><a href="{{site.author.orcid}}">我的 ORCID 链接</a></li>
+{% endif %}
+</ul>
 
 {% include base_path %}
 

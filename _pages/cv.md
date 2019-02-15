@@ -1,6 +1,8 @@
 ---
 layout: archive
-title: "CV"
+lang: zh
+ref: cv
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,53 +11,47 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in Department of Civil Engineering, Tsinghua University, 2007-2011
-* Ph.D in Department of Civil Engineering, Tsinghua University, 2011-2016
+* 工学学士，清华大学土木工程系，2007-2011
+* 工学博士，清华大学土木工程系，2011-2016
 
-Work experience
+工作经历
 ======
-* Aug, 2011-Jun, 2016: Research Assistant
-  * Github University
-  * Duties included: Building Information Modeling and Building Lifecycle Management
-  * Supervisor: Professor Jian-Ping Zhang
+* 2011年08月-2016年06月，博士生研究助理
+  * 清华大学
+  * 主要方向：建筑信息模型与建筑全生命期管理
+  * 指导老师：张建平 教授
 
-* Spring 2012: Teaching Assistant
-  * Tsinghua University
-  * Course: Computer-Aided Engineering Drawings
+* 2012年春：课程助教
+  * 清华大学
+  * 课程名称：工程计算机制图
 
-* Spring 2013: Teaching Assistant
-  * Tsinghua University
-  * Course: Computer-Aided Engineering Drawings  
+* 2013年春：课程助教
+  * 清华大学
+  * 课程名称：工程计算机制图
 
-Skills
+发表论著
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
+  {% assign publications = site.publications | where:"lang", page.lang %}
+  <ul>{% for post in publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+学术报告
 ======
-  <ul>{% for post in site.talks %}
+  {% assign talks = site.talks | where:"lang", page.lang %}
+  <ul>{% for post in talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+课程教学
 ======
-  <ul>{% for post in site.teaching %}
+  {% assign teaching = site.teaching | where:"lang", page.lang %}
+  <ul>{% for post in teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+社会服务
 ======
-* Currently signed in to 43 different slack teams
+* 中国图学学会 BIM 专委会委员

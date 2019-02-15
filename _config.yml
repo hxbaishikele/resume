@@ -7,10 +7,14 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "Jia-Rui Lin's Page"
+title                    : 
+  en: "Jia-Rui Lin's Page"
+  zh: "林佳瑞的个人网站"
 title_separator          : "-"
 name                     : &name "Jia-Rui Lin"
-description              : &description "Researcher at Tsinghua University"
+description              : 
+  en: &description "Researcher at Tsinghua University"
+  zh: &description "清华大学助理研究员"
 url                      : https://linjiarui.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linjiarui.github.io"
@@ -80,11 +84,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jia-Rui Lin"
+  name             : 
+    en: "Jia-Rui Lin"
+    zh: "林佳瑞"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor"
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  bio              : 
+    en: "Research Assistant Professor"
+    zh: "助理研究员"
+  location         : 
+    en: "Beijing, China"
+    zh: "中国北京"
+  employer         : 
+    en: "Civil Eng, Tsinghua Univ."
+    zh: "清华大学土木系"
   googlescholar    : "https://scholar.google.com/citations?user=asGD5xgAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jia-Rui_Lin"
