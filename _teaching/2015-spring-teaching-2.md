@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 lang: en
-ref: teaching-2015-spring-teaching-1
+ref: teaching/2015-spring-teaching-1
 collection: teaching
 type: "Workshop"
 permalink: /en/teaching/2015-spring-teaching-1
