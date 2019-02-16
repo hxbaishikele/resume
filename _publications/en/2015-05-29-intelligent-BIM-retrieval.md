@@ -1,10 +1,10 @@
 ---
 title: "A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM"
-lang: zh
+lang: en
 ref: publication/2015-05-29-intelligent-BIM-retrieval
 collection: publications
 permalink: /publication/2015-05-29-intelligent-BIM-retrieval
-excerpt: '本研究面向非专业人士，提出一种基于自然语言的用户输入理解、BIM数据查询与可视化方法。'
+excerpt: 'This paper proposes a NLP-based user query understanding, BIM data query and visualization method for non-experts.'
 date: 2015-05-29
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12151'
