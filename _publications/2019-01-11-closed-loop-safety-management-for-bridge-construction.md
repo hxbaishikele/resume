@@ -8,7 +8,7 @@ excerpt: 'This paper proposes an integrated framework automates closed-loop mana
 date: 2019-01-11
 venue: 'Advances in Engineering Software'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0965997818306689'
-citation: 'Lin, J., Zhang, J., Zhang, X. and Hu, Z. (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integration&quot; <i>Advances in Engineering Software</i>. 128: 152-168.'
+citation: 'Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integration&quot; <i>Advances in Engineering Software</i>. 128: 152-168.'
 ---
 
 
@@ -19,4 +19,4 @@ Structural safety during construction is vital to engineering success of large s
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0965997818306689)
 
-Recommended citation: Lin, J., Zhang, J., Zhang, X. and Hu, Z. (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integrationquot; <i>Advances in Engineering Software</i>. 128: 152-168.
+Recommended citation: Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integrationquot; <i>Advances in Engineering Software</i>. 128: 152-168.

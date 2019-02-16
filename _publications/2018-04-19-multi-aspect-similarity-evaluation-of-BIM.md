@@ -8,7 +8,7 @@ excerpt: 'This paper proposes a method that evaluates the similarity of BIM-base
 date: 2018-04-19
 venue: 'Journal of Computing in Civil Engineering'
 paperurl: 'https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000774'
-citation: 'He, T., Zhang, J., Lin, J. and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032.'
+citation: 'He, T., Zhang, J., Lin, J.* and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032.'
 ---
 
 
@@ -19,4 +19,4 @@ The standard dwelling unit (SDU) has been adopted to standardize dwelling units 
 
 [Download paper here](https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000774)
 
-Recommended citation: He, T., Zhang, J., Lin, J. and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032.
+Recommended citation: He, T., Zhang, J., Lin, J.* and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032.
