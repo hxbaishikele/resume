@@ -1,8 +1,17 @@
 {% include base_path %}
 
-{% assign lang = site.locale%}
+{% assign lang = site.locale %}
 {% if page.lang %}
-{% assign lang = page.lang%}
+{% assign lang = page.lang %}
+{% endif %}
+
+{% assign home_path = base_path %}
+{% assign path_end = home_path | slice,-1,1 %}
+{% if lang != site.locale %}
+  {% if path_end != '/' %}
+    {% assign home_path = base_path | append: '/' %}
+  {% endif %}
+  {% assign home_path = base_path | append: lang %}
 {% endif %}
 
 <div class="masthead">
@@ -11,7 +20,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title[lang] }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ home_path }}/">{{ site.title[lang] }}</a></li>
           {%assign links=site.data.navigation[lang]%}
           {% for link in links %}
             {% if link.url contains 'http' %}
