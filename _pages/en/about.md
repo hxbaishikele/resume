@@ -1,5 +1,5 @@
 ---
-permalink: /en
+permalink: /en/
 title: "About me"
 lang: en
 ref: about
