@@ -9,9 +9,9 @@
 {% assign path_end = home_path | slice,-1,1 %}
 {% if lang != site.locale %}
   {% if path_end != '/' %}
-    {% assign home_path = base_path | append: '/' %}
+    {% assign home_path = home_path | append: '/' %}
   {% endif %}
-  {% assign home_path = base_path | append: lang %}
+  {% assign home_path = home_path | append: lang %}
 {% endif %}
 
 <div class="masthead">
