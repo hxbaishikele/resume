@@ -323,3 +323,7 @@ compress_html:
 langNames:
   en: English
   zh: Chinese
+
+langSwitch:
+  en: Language
+  zh: 语言

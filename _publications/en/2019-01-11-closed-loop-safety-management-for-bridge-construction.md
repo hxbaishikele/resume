@@ -3,7 +3,7 @@ title: "Automating closed-loop structural safety management for bridge construct
 lang: en
 ref: publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
 collection: publications
-permalink: /publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
+permalink: /en/publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
 excerpt: 'This paper proposes an integrated framework automates closed-loop management of structural safety during bridge construction.'
 date: 2019-01-11
 venue: 'Advances in Engineering Software'

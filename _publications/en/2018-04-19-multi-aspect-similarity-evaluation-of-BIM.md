@@ -3,7 +3,7 @@ title: "Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units f
 lang: en
 ref: publication/2018-04-19-multi-aspect-similarity-evaluation-of-BIM
 collection: publications
-permalink: /publication/2018-04-19-multi-aspect-similarity-evaluation-of-BIM
+permalink: /en/publication/2018-04-19-multi-aspect-similarity-evaluation-of-BIM
 excerpt: 'This paper proposes a method that evaluates the similarity of BIM-based standard dwelling unit from the aspects of attribute, topology, and shape.'
 date: 2018-04-19
 venue: 'Journal of Computing in Civil Engineering'

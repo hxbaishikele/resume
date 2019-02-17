@@ -3,7 +3,7 @@ title: "A hybrid data mining approach on BIM-based building operation and mainte
 lang: en
 ref: publication/2017-10-12-hybrid-data-mining-for-operation-maintenance
 collection: publications
-permalink: /publication/2017-10-12-hybrid-data-mining-for-operation-maintenance
+permalink: /en/publication/2017-10-12-hybrid-data-mining-for-operation-maintenance
 excerpt: 'This paper proposes a BIM-based hybrid data mining approach for building operation and maintenance.'
 date: 2017-10-12
 venue: 'Building and Environment'
