@@ -13,8 +13,11 @@ citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;Monitoring Framework f
 category: conference
 
 tags: 
-  - proceedings
+  - IoT
   - ICCCBE
+  - monitoring
+  - maintenance
+  - utility tunnels
 ---
 
 

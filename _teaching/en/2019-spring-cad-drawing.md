@@ -8,5 +8,10 @@ permalink: /en/teaching/2019-spring-cad-drawing
 venue: "Department of Civil Engineering, Tsinghua University"
 date: 2019-03-01
 location: "Beijing, China"
+
+category: teaching
+tags: 
+  - CAD
+  - undergraduate
 ---
 

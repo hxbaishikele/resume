@@ -13,8 +13,10 @@ citation: 'Wen, Q., Lin, J., Zhang, J.*, Wang, X. and Qiu, C. (2016). &quot;BIM 
 category: conference
 
 tags: 
-  - proceedings
+  - collaboration
   - CIB W78
+  - construction
+  - application
 ---
 
 

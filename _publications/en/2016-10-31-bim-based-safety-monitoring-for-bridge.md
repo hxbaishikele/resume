@@ -13,8 +13,12 @@ citation: 'Zhou, Y., Hu, Z.*, Zhang, X. and Lin, J. (2016). &quot; A BIM-based S
 category: conference
 
 tags: 
-  - proceedings
+  - safety
   - CIB W78
+  - monitoring
+  - analysis
+  - bridge
+  - construction
 ---
 
 

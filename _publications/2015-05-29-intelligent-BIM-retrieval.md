@@ -13,8 +13,11 @@ citation: 'Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Lang
 category: journal
 
 tags: 
-  - journal
+  - NLP
   - SCI
+  - IFC
+  - IFD
+  - retrieval
 ---
 
 

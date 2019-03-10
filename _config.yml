@@ -319,11 +319,14 @@ compress_html:
   ignore:
     envs: development
 
+# enable pagination
+enable_pagination: false
+
 # TODO the following should be moved to data folder
 # language
 langNames:
   en: English
-  zh: Chinese
+  zh: 中文
 
 langSwitch:
   zh: Language

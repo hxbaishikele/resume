@@ -13,8 +13,11 @@ citation: 'Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2012). &quot;Visuali
 category: conference
 
 tags: 
-  - proceedings
+  - verification
   - CONVR
+  - schedule
+  - 4D model
+  - spatial
 ---
 
 

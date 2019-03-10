@@ -13,8 +13,11 @@ citation: 'Xiao, Y., Hu, Z.*and  Lin, J. (2019). &quot;Ontology-Based Semantic R
 category: conference
 
 tags: 
-  - proceedings
+  - ontology
   - CIB W78
+  - semantic
+  - retrieval
+  - energy
 ---
 
 

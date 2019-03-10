@@ -8,4 +8,9 @@ permalink: /en/teaching/2018-spring-cad-drawing
 venue: "Department of Civil Engineering, Tsinghua University"
 date: 2018-09-01
 location: "Beijing, China"
+
+category: teaching
+tags: 
+  - BIM
+  - undergraduate
 ---

@@ -13,8 +13,11 @@ citation: 'Zhang, X., Lin, J.*, Hu, Z., Zhang, J., Fang, J. and Du, S. (2016). &
 category: conference
 
 tags: 
-  - proceedings
+  - safety
   - ICCCBE
+  - integration
+  - analysis
+  - constructiion
 ---
 
 

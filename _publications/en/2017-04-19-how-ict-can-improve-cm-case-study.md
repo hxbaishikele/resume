@@ -13,9 +13,11 @@ citation: 'Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;Resea
 category: conference
 
 tags: 
-  - proceedings
+  - construction
   - ICCBEI
   - CACHE
+  - case study
+  - ICT
 ---
 
 

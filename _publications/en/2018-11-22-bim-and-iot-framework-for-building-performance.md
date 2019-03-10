@@ -13,8 +13,11 @@ citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;BIM- and IoT-based mon
 category: journal
 
 tags: 
-  - journal
+  - IoT
   - ESCI
+  - monitoring
+  - performance
+  - framework
 ---
 
 

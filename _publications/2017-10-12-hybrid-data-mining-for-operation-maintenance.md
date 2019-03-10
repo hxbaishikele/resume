@@ -13,8 +13,10 @@ citation: 'Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data 
 category: journal
 
 tags: 
-  - journal
+  - data mining
   - SCI
+  - maintenance
+  - operation
 ---
 
 

@@ -13,8 +13,12 @@ citation: 'Lin, J.*, Zhang, J., Wen, Q. and Wang, F. (2015). &quot;Leveraging BI
 category: conference
 
 tags: 
-  - proceedings
+  - settlement
   - CIB W78
+  - monitoring
+  - construction
+  - impact
+  - safety
 ---
 
 

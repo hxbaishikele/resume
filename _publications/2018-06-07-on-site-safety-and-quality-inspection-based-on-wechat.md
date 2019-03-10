@@ -13,8 +13,11 @@ citation: 'Lin, J.*, Zhang, J., Wu, D., Li, B. and Gao, H. (2018). &quot;Applica
 category: conference
 
 tags: 
-  - proceedings
+  - framework
   - ICCCBE
+  - construction
+  - inspection
+  - mobile
 ---
 
 

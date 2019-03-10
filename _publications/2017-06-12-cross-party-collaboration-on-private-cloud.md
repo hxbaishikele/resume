@@ -13,8 +13,12 @@ citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi
 category: journal
 
 tags: 
-  - journal
+  - collaboration
   - SCI
+  - privacy
+  - construction
+  - cloud
+  - integration
 ---
 
 

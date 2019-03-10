@@ -13,8 +13,13 @@ citation: 'He, T., Zhang, J., Lin, J.* and Li, Y. (2018). &quot;Multiaspect Simi
 category: journal
 
 tags: 
-  - journal
+  - residential design
   - SCI
+  - similarity
+  - topology
+  - semantic
+  - spatial
+  - retrieval
 ---
 
 

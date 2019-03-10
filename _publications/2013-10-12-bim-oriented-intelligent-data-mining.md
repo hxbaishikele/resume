@@ -13,8 +13,11 @@ citation: 'Lin, J.*, Hu, Z. and Zhang, J. (2013). &quot;BIM oriented intelligent
 category: conference
 
 tags: 
-  - proceedings
+  - NLP
   - CIB W78
+  - retrieval
+  - IFC
+  - IFD
 ---
 
 

@@ -13,8 +13,11 @@ citation: 'He, T., Zhang, J., Lin, J.*, Jia, W. and Hu, Z. (2016). &quot;A Topol
 category: conference
 
 tags: 
-  - proceedings
+  - topology
   - ICCCBE
+  - semantic
+  - integration
+  - residential design
 ---
 
 

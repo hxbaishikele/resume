@@ -13,8 +13,13 @@ citation: 'Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating cl
 category: journal
 
 tags: 
-  - journal
+  - safety
   - SCI
+  - monitoring
+  - integration
+  - analysis
+  - construction
+  - bridge
 ---
 
 

@@ -13,8 +13,11 @@ citation: 'Wang, H., Lin, J.* and Zhang, J. (2017). &quot; Operation-level 4D Mo
 category: conference
 
 tags: 
-  - proceedings
+  - 4D model
   - CIB W78
+  - standard library
+  - visualization
+  - modular
 ---
 
 

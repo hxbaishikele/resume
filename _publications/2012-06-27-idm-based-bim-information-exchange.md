@@ -13,8 +13,9 @@ citation: 'Zhang, J., Lin, J.*, Hu, Z. and Yu, F. (2012). &quot;Research on IDM-
 category: conference
 
 tags: 
-  - proceedings
+  - IDM
   - ICCCBE
+  - information exchange
 ---
 
 

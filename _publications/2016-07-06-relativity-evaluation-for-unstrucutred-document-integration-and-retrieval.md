@@ -13,8 +13,11 @@ citation: 'Zhang, Y., Zhang, J.*, Liu, Q. and Lin, J. (2016). &quot;A Relativity
 category: conference
 
 tags: 
-  - proceedings
+  - integration
   - ICCCBE
+  - relativity
+  - unstructured document
+  - retrieval
 ---
 
 
