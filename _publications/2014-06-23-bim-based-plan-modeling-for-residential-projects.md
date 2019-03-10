@@ -19,7 +19,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 The  preliminary  stage  of  a  residential  real  estate  project  is  of  great importance but also is known to be with poor efficiency. However, residential real 

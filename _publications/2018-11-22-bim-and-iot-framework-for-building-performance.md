@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 During the operation and maintenance period of buildings, a monitoring system established to monitor the internal environment can be very helpful to ensure that buildings are in good condition. However, the existing monitoring systems still need improvements in data interoperability and smart sensing. This paper established a new monitoring framework based on Building Information Modeling (BIM) and IoT (Internet of Things) Technology. In this proposed framework, BIM is used to maintain the 3D data of the building, while a time-series database called In ﬂ uxDB is introduced for storage of monitoring data. Then, a monitoring server based on Message Queuing Telemetry Transport protocol is established, providing a low-cost and reliable communication. Meanwhile, Arduino microcontrollers with some sensors are adopted as the nodes of the monitoring network, aiming to collect real-time data of the environment and upload the data to the server. Finally, a prototype system is developed to demonstrate the proposed framework. Testing of the developed system and corresponding IoT sensors shows that combination of BIM and IoT technology provides a comprehensive view of the status of the buildings and improves the e ﬃ ciency of information utilization.

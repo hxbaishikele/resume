@@ -19,7 +19,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 Information technology such as Building Information Modeling, 3D-printing provides an innovative approach for construction project management, aiming at increasing efficiency, improving quality and reducing cost. Construction corporations in mainland China are making active attempts to increase the informatization level in construction projects. This paper discusses Beijing Headquarter building project of Tencent as a case study for the information technology application in the construction phase in terms of how information technology can improve construction management for general contractor. 

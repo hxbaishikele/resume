@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 A large amount of construction project data is stored in unstructured documents, which are difficult to handle with highly structured Building Information Models (BIMs). This paper aims at proposing a method for unstructured information integration and retrieval based on Industry Foundation Classes (IFC) standard, thus increasing the efficiency of information utilization.  

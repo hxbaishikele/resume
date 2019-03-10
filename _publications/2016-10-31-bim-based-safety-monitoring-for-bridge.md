@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 Safety monitoring remains a challenging issue in engineering construction although the demand for safety monitoring has reached its peak. This study investigates the innovative application of building information modeling/model (BIM) technology in the safety monitoring of engineering projects. BIM technology provides the design and development of monitoring data interface, the visualization and dynamic integration of monitoring data, security monitoring management, dynamic security analysis, safety prediction, and early warning system for engineering projects. Through the successful implementation in the Xu Huaiyan  Bridge project, the validity and feasibility of BIM-based safety monitoring and management in guaranteeing safety and quality in construction were confirmed, thereby proving that it would worthy of further application and promotion. 

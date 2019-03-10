@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 The standard dwelling unit (SDU) has been adopted to standardize dwelling units and to reuse them in residential design, especially in the floor-plan design of multifloor buildings. However, conventional attribute-based search methods fail to represent important features, such as topology and shape, making it difficult to fully utilize the previously obtained information. Because building information models (BIMs) are replacing drawings and documents in storing and managing SDUs, this paper proposes a multiaspect similarity evaluation method to provide a more comprehensive way to search SDUs in residential design. The proposed approach introduced six similarities and their corresponding evaluation methods from the aspects of attribute, topology, and shape. Furthermore, a combined similarity was proposed to combine different similarities to reflect designers’ search intentions. Finally, a database with 170 SDUs and a prototype design tool were developed and tested in two projects. The application showed that the proposed method is capable of evaluating the similarity of SDUs in a more comprehensive manner and increasing the efficiency and quality of the search for SDU alternatives in the residential design process.

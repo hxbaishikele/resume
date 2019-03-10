@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 This paper descirbes a detailed BIM application in a large-scale public building project which is under EPC(Engineering Proceurement Construction) contract. This paper firstly introduces the basic information about this project and owner's unique demand. The owner of this large-scale building project sets up its own PM (Project Management) system, and wants to directly monitor general contractor's daily management activities. Secondly, the authors propose a cooperative mode for owner and general contractor (GC) collaborative management. Data synchronization between GC and owner is the key for the collaboration. Thirdly, two PM systems are developed for owner and GC respectively. At last, applications of this large-scale public building project show that: owner can keep the control ability while transfer risks to GC. Thanks to owner's deep involvement during construction phase, data transfer from construction phase to operation phase can go smoothly. 

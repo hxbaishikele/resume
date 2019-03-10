@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
  By integrating physical 3D elements with time, 4D technology provides a comprehensive tool to visualize  construction  sequences  as  part  of  an  interactive  experience.  With  years  of  development,  4D technologies were adopted in more and more projects, to improve crew coordination, shorten the construction period, and to reduce request for information. Though research that improves the productivity of 4D tools exists, most studies so far failed to keep synchronization between work schedules and animations and are not capable to verify the 4D model automatically. By evaluating commonly used 4D visualization tools, the pros and cons are concluded  in  this  article.  Then,  a  schedule-driven  4D  model  is  proposed,  which  consists  of  physical  element model,  geometry  model,  schedule  model  and  visualization  model.  With  this  model,  different  construction operations  can  be  represented  by  colors,  textures,  and  transformations.  What’s  more,  processes  for  model verification  and  frame  rendering  were  proposed  in  this  research.  Finally,  demonstration  of  this  model  was implemented in the construction of a cable-stayed truss bridge over the Yangtze River. It is illustrated that with automatic model verification and a better visualization, the proposed model can reduce rework and mistakes. Future improvements of the model are also discussed in this article. .

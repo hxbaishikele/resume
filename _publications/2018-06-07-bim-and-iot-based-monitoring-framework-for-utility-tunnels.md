@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 During the operation and maintenance period of the urban underground utility tunnels (UTs), a monitoring system should be established to monitor the internal environment and the corresponding utilities for ensuring that the tunnels are running in good condition. However, existing monitoring for UTs still need improvements in data interoperability and smart sensing. This paper established a new monitoring framework for UTs based on Building Information Modeling (BIM) and IoT (Internet of Things) technology. In the proposed framework, BIM was used to maintain the 3D data of the UT, while a time series database called InfluxDB was introduced for storage of monitoring data. Then, a monitoring server based on the MQTT protocol was established, providing a low-cost and reliable communication. Meanwhile, Arduino microcontrollers with some sensors were adopted as the nodes of the monitoring network, aiming to collected real time data of the environment as well as the utilities in the UT and upload the data to the server. Finally, a prototype system was developed to demonstrate the proposed framework. Testing of the developed system and corresponding IoT sensors shows that combination of BIM and IoT technology provides a comprehensive view of the status of the UTs and improves the efficiency of information utilization.

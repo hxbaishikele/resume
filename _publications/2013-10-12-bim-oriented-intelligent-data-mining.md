@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 Building Information Model (BIM) encompasses mass of data specified by Industry Foundation Classes (IFC) from multiple fields during the whole lifecycle of the Architecture, Engineering and Construction (AEC) project. Recently, a large international initiative is launched to provide extensive support that will facilitate the creation, sharing and integration for BIM through all professions in the AEC industry, while few bend their mind to intelligent BIM data mining, which will improve the value of BIM. As the Information becoming increasingly rich and complicated, utilization of the data is getting harder, particularly for personnel without extensive knowledge of IFC specifications. 

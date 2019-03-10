@@ -319,6 +319,7 @@ compress_html:
   ignore:
     envs: development
 
+# TODO the following should be moved to data folder
 # language
 langNames:
   en: English

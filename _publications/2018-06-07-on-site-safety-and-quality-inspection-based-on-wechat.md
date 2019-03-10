@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Abstract
+摘要
 ====
 
 Nowadays, almost everyone has a smart mobile phone or tablet, which brings a new paradigm for on-site inspection. Generally, standalone Apps or websites were utilized for inspection data collection. However, too much effort in App development/maintenance and obstacles to guarantee opening rate have a significant impact on their application. To address these problems, a new framework for on-site inspection based on the widely used mobile App WeChat was established. In the proposed framework, built-in support like quick response code scanning, photo taking and communication in WeChat was fully utilized to reduce the efforts for application development. Meanwhile, the whole process of inspection was also considered in the framework, that is to say, it is possible to track the recording, forwarding, and resolving process of an inspection issue. Based on the proposed framework, a prototype micro-App was developed and tested in a real project. Validation results illustrate that standardize interfaces and modules from WeChat can reduce the time for mobile app development and deployment, therefore improving the work efficiency. Furthermore, such an application makes it possible to track, discuss and resolve safety or quality issues with high efficiency and flexibility. Finally, it is concluded that the proposed application framework for inspection is feasible and useful for safety and quality management during construction.
