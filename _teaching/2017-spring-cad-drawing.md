@@ -1,5 +1,5 @@
 ---
-title: "工程计算机制图 教师"
+title: "2017年春 工程计算机制图 教师"
 lang: zh
 ref: teaching/2017-spring-cad-drawing
 collection: teaching

@@ -1,5 +1,5 @@
 ---
-title: "Instructor of Building Information Modeling Technology"
+title: "Autumn, 2018 Instructor of Building Information Modeling Technology"
 lang: en
 ref: teaching/2018-autumn-bim-basic
 collection: teaching

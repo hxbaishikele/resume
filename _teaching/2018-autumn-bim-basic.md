@@ -1,5 +1,5 @@
 ---
-title: "建筑信息模型技术基础 教师"
+title: "2018年秋 建筑信息模型技术基础 教师"
 lang: zh
 ref: teaching/2018-autumn-bim-basic
 collection: teaching

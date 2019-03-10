@@ -9,6 +9,10 @@ date: 2015-05-29
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12151'
 citation: 'Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM&quot; <i>Computer‐Aided Civil and Infrastructure Engineering</i>. 31: 18-33.'
+
+tags: 
+  - journal
+  - SCI
 ---
 
 

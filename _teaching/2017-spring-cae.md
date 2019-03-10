@@ -1,5 +1,5 @@
 ---
-title: "土木工程CAE 教师"
+title: "2017年春 土木工程CAE 教师"
 lang: zh
 ref: teaching/2017-spring-cae
 collection: teaching

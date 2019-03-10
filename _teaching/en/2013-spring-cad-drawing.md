@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of Computer-aided Engineering Drawing"
+title: "Spring, 2013 Teaching Assistant of Computer-aided Engineering Drawing"
 lang: en
 ref: teaching/2013-spring-cad-drawing
 collection: teaching

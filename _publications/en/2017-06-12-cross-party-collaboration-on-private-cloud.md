@@ -9,6 +9,10 @@ date: 2017-06-12
 venue: 'Automation in Construction'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517302042'
 citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195.'
+
+tags: 
+  - journal
+  - SCI
 ---
 
 

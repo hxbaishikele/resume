@@ -1,5 +1,5 @@
 ---
-title: "Instructor of Computer-aided Engineering"
+title: "Spring, 2017 Instructor of Computer-aided Civil Engineering"
 lang: en
 ref: teaching/2017-spring-cae
 collection: teaching

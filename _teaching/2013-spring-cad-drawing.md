@@ -1,5 +1,5 @@
 ---
-title: "工程计算机制图 助教"
+title: "2013年春 工程计算机制图 助教"
 lang: zh
 ref: teaching/2013-spring-cad-drawing
 collection: teaching
