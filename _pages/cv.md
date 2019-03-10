@@ -2,7 +2,7 @@
 layout: archive
 lang: zh
 ref: cv
-title: "简历"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,7 +33,16 @@ redirect_from:
 发表论著
 ====
   {% assign publications = site.publications | where:"lang", page.lang %}
-  <ul>{% for post in publications %}
+  {% assign journals = publications | where:"category", 'journal' %}
+  {% assign proceedings = publications | where:"category", 'conference' %}
+
+<h2>期刊论文</h2>
+  <ul>{% for post in journals %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<h2>会议论文</h2>
+  <ul>{% for post in proceedings %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

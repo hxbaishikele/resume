@@ -10,6 +10,8 @@ venue: '3rd International Conference on Civil and Building Engineering Informati
 paperurl: 'https://linjiarui.net/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf'
 citation: 'Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;Research on IDM-based BIM process information exchange technology&quot; <i>in Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>. 22-25. Taipei, Taiwan.'
 
+category: conference
+
 tags: 
   - proceedings
   - ICCBEI
@@ -26,6 +28,6 @@ The project for case study is designed as a large public building located in Bei
 
 The paper also discusses the value and challenges appeared during the application of information technology in the case. Information technology application can result in resource and workload reduction, problem solving in advance and realizing precise management, thus improving construction management for general contractor. However, promoting information technology application can be challenging at first, given the management team is not familiar enough with the techniques. Countermeasures are proposed regarding the challenges and difficulties arose in the case.
 
-[Download paper here]({{ site.baseurl }}/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf)
+[论文下载地址]({{ site.baseurl }}/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf)
 
-Recommended citation: Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;Research on IDM-based BIM process information exchange technology&quot; <i>in Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>. 22-25. Taipei, Taiwan.
+引用方式: Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;Research on IDM-based BIM process information exchange technology&quot; <i>in Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>. 22-25. Taipei, Taiwan.

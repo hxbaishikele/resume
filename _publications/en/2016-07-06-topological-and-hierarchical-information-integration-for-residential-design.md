@@ -10,6 +10,8 @@ venue: '16th International Conference on Computing in Civil and Building Enginee
 paperurl: 'https://linjiarui.net/files/2016-07-06-topological-and-hierarchical-information-integration-for-residential-design.pdf'
 citation: 'He, T., Zhang, J., Lin, J.*, Jia, W. and Hu, Z. (2016). &quot;A Topological and Hierarchical Information Integration Approach for Standard-unit-based Residential Planning&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 381-388. Osaka, Japan.'
 
+category: conference
+
 tags: 
   - proceedings
   - ICCCBE

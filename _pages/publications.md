@@ -25,6 +25,15 @@ author_profile: true
 {% include base_path %}
 
 {% assign publications = site.publications | where:"lang", page.lang %}
-{% for post in publications reversed %}
+{% assign journals = publications | where:"category", 'journal' %}
+{% assign proceedings = publications | where:"category", 'conference' %}
+
+<h2>期刊论文</h2>
+{% for post in journals reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>会议论文</h2>
+{% for post in proceedings reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -10,6 +10,8 @@ venue: '15th International Conference on Construction Applications of Virtual Re
 paperurl: 'https://linjiarui.net/files/2015-10-05-visualization-and-verification-of-4d-model.pdf'
 citation: 'Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2012). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.'
 
+category: conference
+
 tags: 
   - proceedings
   - CONVR

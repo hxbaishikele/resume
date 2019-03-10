@@ -10,6 +10,8 @@ venue: '33rd CIB W78 International Conference on Information technology for Cons
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2016-paper-020'
 citation: 'Wen, Q., Lin, J., Zhang, J.*, Wang, X. and Qiu, C. (2016). &quot;BIM Application in Owner and EPC Contractor Collaborative Management of a Large-Scale Public Building Project&quot; <i>in Proceedings of the 33rd CIB W78 International Conference on Information Technology for Construction</i>. Brisbane, Australia.'
 
+category: conference
+
 tags: 
   - proceedings
   - CIB W78

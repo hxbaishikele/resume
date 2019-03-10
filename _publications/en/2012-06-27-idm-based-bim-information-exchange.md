@@ -10,6 +10,8 @@ venue: '14th International Conference on Computing in Civil and Building Enginee
 paperurl: 'https://linjiarui.net/files/2012-06-27-idm-based-bim-information-exchange.pdf'
 citation: 'Zhang, J., Lin, J.*, Hu, Z. and Yu, F. (2012). &quot;Research on IDM-based BIM process information exchange technology&quot; <i>in Proceedings of the 14th International Conference on Computing in Civil and Building Engineering</i>. Moscow, Russia.'
 
+category: conference
+
 tags: 
   - proceedings
   - ICCCBE

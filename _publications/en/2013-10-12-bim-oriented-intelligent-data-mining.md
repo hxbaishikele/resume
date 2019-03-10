@@ -10,6 +10,8 @@ venue: '30th CIB W78 International Conference on Information technology for Cons
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2013-paper-112'
 citation: 'Lin, J.*, Hu, Z. and Zhang, J. (2013). &quot;BIM oriented intelligent data mining and representation&quot; <i>in Proceedings of the 30th CIB W78 International Conference on Information Technology for Construction</i>. 280-289. Beijing, China.'
 
+category: conference
+
 tags: 
   - proceedings
   - CIB W78

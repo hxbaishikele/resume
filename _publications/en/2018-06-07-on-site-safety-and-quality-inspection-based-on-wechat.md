@@ -10,6 +10,8 @@ venue: '17th International Conference on Computing in Civil and Building Enginee
 paperurl: 'http://programme.exordo.com/icccbe2018/delegates/presentation/285/'
 citation: 'Lin, J.*, Zhang, J., Wu, D., Li, B. and Gao, H. (2018). &quot;Application Framework for On-Site Safety and Quality Inspection based on WeChat&quot; <i>in Proceedings of the 17th International Conference on Computing in Civil and Building Engineering</i>. Tampere, Finland.'
 
+category: conference
+
 tags: 
   - proceedings
   - ICCCBE

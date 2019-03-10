@@ -10,6 +10,8 @@ venue: '30th CIB W78 International Conference on Information technology for Cons
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2013-paper-112'
 citation: 'Lin, J.*, Hu, Z. and Zhang, J. (2013). &quot;BIM oriented intelligent data mining and representation&quot; <i>in Proceedings of the 30th CIB W78 International Conference on Information Technology for Construction</i>. 280-289. Beijing, China.'
 
+category: conference
+
 tags: 
   - proceedings
   - CIB W78
@@ -26,8 +28,8 @@ entities (or properties) through IFD-driven mapping mechanism, providing informa
 
 Practical application results in construction management illustrates that with semantic understanding of his/her intention in natural language, user concerned data will be automatically retrieved, analyzed and represented in a suitable form, which is of great benefit for corporations without requiring extremely technological users, facilitating BIM application and enhancing the value of BIM.  
 
-[Download paper here]({{ site.baseurl }}/files/2013-10-12-bim-oriented-intelligent-data-mining.pdf)
+[论文下载地址]({{ site.baseurl }}/files/2013-10-12-bim-oriented-intelligent-data-mining.pdf)
 
-[Download paper here](http://itc.scix.net/cgi-bin/works/Show?w78-2013-paper-112)
+[论文下载地址](http://itc.scix.net/cgi-bin/works/Show?w78-2013-paper-112)
 
-Recommended citation: Lin, J.*, Hu, Z. and Zhang, J. (2013). &quot;BIM oriented intelligent data mining and representation&quot; <i>in Proceedings of the 30th CIB W78 International Conference on Information Technology for Construction</i>. 280-289. Beijing, China.
+引用方式: Lin, J.*, Hu, Z. and Zhang, J. (2013). &quot;BIM oriented intelligent data mining and representation&quot; <i>in Proceedings of the 30th CIB W78 International Conference on Information Technology for Construction</i>. 280-289. Beijing, China.

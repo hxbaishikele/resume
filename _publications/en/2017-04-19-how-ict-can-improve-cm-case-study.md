@@ -10,6 +10,8 @@ venue: '3rd International Conference on Civil and Building Engineering Informati
 paperurl: 'https://linjiarui.net/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf'
 citation: 'Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;Research on IDM-based BIM process information exchange technology&quot; <i>in Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>. 22-25. Taipei, Taiwan.'
 
+category: conference
+
 tags: 
   - proceedings
   - ICCBEI

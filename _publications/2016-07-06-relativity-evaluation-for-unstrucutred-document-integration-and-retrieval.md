@@ -10,6 +10,8 @@ venue: '16th International Conference on Computing in Civil and Building Enginee
 paperurl: 'https://linjiarui.net/files/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval.pdf'
 citation: 'Zhang, Y., Zhang, J.*, Liu, Q. and Lin, J. (2016). &quot;A Relativity Evaluation Approach to Unstructured Document Integration and Retrieval for Building Information Modeling&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 936-942. Osaka, Japan.'
 
+category: conference
+
 tags: 
   - proceedings
   - ICCCBE
@@ -29,6 +31,6 @@ Furthermore, to improve document retrieval, related documents are analyzed and s
 
 Finally, an illustrative application shows that the correlation between documents and model entities can be established with the above-mentioned approach, and well-named BIM entities and statements of the documents will improve the accuracy of the method. Hence, unstructured information can be well integrated and retrieved based on the proposed method, thus increasing the efficiency of project information utilization. 
 
-[Download paper here]({{ site.baseurl }}/files/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval.pdf)
+[论文下载地址]({{ site.baseurl }}/files/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval.pdf)
 
-Recommended citation: Zhang, Y., Zhang, J.*, Liu, Q. and Lin, J. (2016). &quot;A Relativity Evaluation Approach to Unstructured Document Integration and Retrieval for Building Information Modeling&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 936-942. Osaka, Japan.
+引用方式: Zhang, Y., Zhang, J.*, Liu, Q. and Lin, J. (2016). &quot;A Relativity Evaluation Approach to Unstructured Document Integration and Retrieval for Building Information Modeling&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 936-942. Osaka, Japan.

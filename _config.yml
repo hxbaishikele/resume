@@ -327,3 +327,20 @@ langNames:
 langSwitch:
   zh: Language
   en: 语言
+
+uiData:
+  pub:
+    zh: 发表于
+    en: Published
+  pubIn:
+    zh: 发表于
+    en: Published in
+  citation:
+    zh: 引用方式
+    en: Recommended citation
+  download:
+    zh: 下载地址
+    en: download
+  readMore:
+    zh: 更多内容
+    en: Read more

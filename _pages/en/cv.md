@@ -2,7 +2,7 @@
 layout: archive
 lang: en
 ref: cv
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /en/cv/
 author_profile: true
 redirect_from:
@@ -25,7 +25,7 @@ Work experience
 * Jan, 2018-Jun, 2018: Visiting Scholar, Stanford University
 * Nov, 2016-Dec, 2016: Visiting Scholar, RWTH-Aachen University
 * Aug, 2011-Jun, 2016: Research Assistant, Tsinghua University
-  * Duties included: Building Information Modeling and Building Lifecycle Management
+  * Research area: Building Information Modeling and Building Lifecycle Management
   * Supervisor: Professor Jian-Ping Zhang
 * Jul, 2015-Aug, 2015: Visiting Scholar, University of Southern  California
 * Jul, 2010-Sept, 2010: Structural Engineer Internship, Singapore CPG Co. Ltd.
@@ -33,7 +33,16 @@ Work experience
 Publications
 ====
   {% assign publications = site.publications | where:"lang", page.lang %}
-  <ul>{% for post in publications %}
+  {% assign journals = publications | where:"category", 'journal' %}
+  {% assign proceedings = publications | where:"category", 'conference' %}
+
+<h2>Journal Publications</h2>
+  <ul>{% for post in journals %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<h2>Conference Publications</h2>
+  <ul>{% for post in proceedings %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

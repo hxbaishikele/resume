@@ -17,3 +17,12 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+
+{% for category in site.categories %}
+  <h2>{{ category[0] }}</h2>
+  <ul>
+    {% for post in category[1] %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </ul>
+{% endfor %}
