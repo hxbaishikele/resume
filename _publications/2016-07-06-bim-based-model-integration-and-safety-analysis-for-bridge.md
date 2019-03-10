@@ -10,6 +10,7 @@ venue: '16th International Conference on Computing in Civil and Building Enginee
 paperurl: 'https://linjiarui.net/files/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge.pdf'
 citation: 'Zhang, X., Lin, J.*, Hu, Z., Zhang, J., Fang, J. and Du, S. (2016). &quot;Towards BIM-based model integration and safety analysis for bridge construction&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 1091-1097. Osaka, Japan.'
 
+comment: true
 category: conference
 
 tags: 

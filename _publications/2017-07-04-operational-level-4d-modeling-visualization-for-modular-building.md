@@ -10,6 +10,7 @@ venue: '2017 Lean & Computing in Construction Congress (LC3)'
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?_id=lc3-2017-287'
 citation: 'Wang, H., Lin, J.* and Zhang, J. (2017). &quot; Operation-level 4D Modeling and Visualization for Modular Building based on Standard Activity Library&quot; <i>in LC3 2017: Proceedings of the Joint Conference on Computing in Construction (JC3)</i>. 841-848. Heraklion, Crete, Greece. https://doi.org/10.24928/JC3-2017/0287'
 
+comment: true
 category: conference
 
 tags: 

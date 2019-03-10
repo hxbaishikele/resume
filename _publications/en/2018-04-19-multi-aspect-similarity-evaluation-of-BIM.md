@@ -10,6 +10,7 @@ venue: 'Journal of Computing in Civil Engineering'
 paperurl: 'https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000774'
 citation: 'He, T., Zhang, J., Lin, J.* and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032.'
 
+comment: true
 category: journal
 
 tags: 

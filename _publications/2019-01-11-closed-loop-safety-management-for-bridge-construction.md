@@ -10,6 +10,7 @@ venue: 'Advances in Engineering Software'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0965997818306689'
 citation: 'Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integration&quot; <i>Advances in Engineering Software</i>. 128: 152-168.'
 
+comment: true
 category: journal
 
 tags: 

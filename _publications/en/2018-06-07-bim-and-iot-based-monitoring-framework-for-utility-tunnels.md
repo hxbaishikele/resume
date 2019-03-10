@@ -10,6 +10,7 @@ venue: '17th International Conference on Computing in Civil and Building Enginee
 paperurl: 'http://programme.exordo.com/icccbe2018/delegates/presentation/346/'
 citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;Monitoring Framework for Utility Tunnels based on BIM and IoT Technology&quot; <i>in Proceedings of the 17th International Conference on Computing in Civil and Building Engineering</i>. Tampere, Finland.'
 
+comment: true
 category: conference
 
 tags: 

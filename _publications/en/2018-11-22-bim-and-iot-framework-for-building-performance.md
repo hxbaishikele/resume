@@ -10,6 +10,7 @@ venue: 'Journal of Structural Integrity and Maintenance'
 paperurl: 'https://doi.org/10.1080/24705314.2018.1536318'
 citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;BIM- and IoT-based monitoring framework for building performance management&quot; <i>Journal of Structural Integrity and Maintenance</i>. 3(4): 254-261.'
 
+comment: true
 category: journal
 
 tags: 

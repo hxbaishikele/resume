@@ -10,6 +10,7 @@ venue: '33rd CIB W78 International Conference on Information technology for Cons
 paperurl: 'http://itc.scix.net/cgi-bin/works/Show?w78-2016-paper-024'
 citation: 'Zhou, Y., Hu, Z.*, Zhang, X. and Lin, J. (2016). &quot; A BIM-based Safety Monitoring and Analysis System for a High-speed Railway Bridge&quot; <i>in Proceedings of the 33rd CIB W78 International Conference on Information Technology for Construction</i>. Brisbane, Australia.'
 
+comment: true
 category: conference
 
 tags: 

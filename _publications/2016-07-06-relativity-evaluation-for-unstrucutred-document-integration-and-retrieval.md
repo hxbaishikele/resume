@@ -10,6 +10,7 @@ venue: '16th International Conference on Computing in Civil and Building Enginee
 paperurl: 'https://linjiarui.net/files/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval.pdf'
 citation: 'Zhang, Y., Zhang, J.*, Liu, Q. and Lin, J. (2016). &quot;A Relativity Evaluation Approach to Unstructured Document Integration and Retrieval for Building Information Modeling&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 936-942. Osaka, Japan.'
 
+comment: true
 category: conference
 
 tags: 
