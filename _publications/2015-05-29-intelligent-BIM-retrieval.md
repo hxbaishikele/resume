@@ -8,7 +8,7 @@ excerpt: '本研究面向非专业人士，提出一种基于自然语言的用�
 date: 2015-05-29
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12151'
-citation: 'Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM&quot; <i>Computer‐Aided Civil and Infrastructure Engineering</i>. 31: 18-33.'
+citation: 'Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM&quot; <i>Computer‐Aided Civil and Infrastructure Engineering</i>. 31: 18-33. doi: 10.1111/mice.12151'
 
 comment: true
 category: journal
@@ -29,4 +29,4 @@ As the information from diverse disciplines continues to integrate during the wh
 
 [论文下载地址](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12151)
 
-引用方式: Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM&quot; <i>Computer‐Aided Civil and Infrastructure Engineering</i>. 31: 18-33.
+引用方式: Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM&quot; <i>Computer‐Aided Civil and Infrastructure Engineering</i>. 31: 18-33. doi: 10.1111/mice.12151

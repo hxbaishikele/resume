@@ -8,7 +8,7 @@ excerpt: '本研究提出一种基于BIM的混合式数据挖掘方法，用于�
 date: 2017-10-12
 venue: 'Building and Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360132317304444'
-citation: 'Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495.'
+citation: 'Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495. doi: 10.1016/j.buildenv.2017.09.030'
 
 comment: true
 category: journal
@@ -28,4 +28,4 @@ Huge amounts of data are generated daily during the operation and maintenance (O
 
 [论文下载地址](https://www.sciencedirect.com/science/article/pii/S0360132317304444)
 
-引用方式: Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495.
+引用方式: Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495. doi: 10.1016/j.buildenv.2017.09.030

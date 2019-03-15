@@ -8,7 +8,7 @@ excerpt: 'This paper proposes a multi-server environment for cross-party collabo
 date: 2017-06-12
 venue: 'Automation in Construction'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517302042'
-citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195.'
+citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195. doi: 10.1016/j.autcon.2017.06.021'
 
 comment: true
 category: journal
@@ -30,4 +30,4 @@ Interoperability remains the key problem in multi-discipline collaboration based
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0926580517302042)
 
-Recommended citation: Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195.
+Recommended citation: Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195. doi: 10.1016/j.autcon.2017.06.021
