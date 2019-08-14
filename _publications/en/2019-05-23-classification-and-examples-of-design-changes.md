@@ -4,7 +4,7 @@ lang: en
 ref: publication/2019-05-23-classification-and-examples-of-design-changes
 collection: publications
 permalink: /en/publication/2019-05-23-classification-and-examples-of-design-changes
-excerpt: 'This research provides a new method on classifying design changes from an engineer's view, and estalished a few exemplary BIM models for validation relevant design change detection methods'
+excerpt: 'This research provides a new method on classifying design changes from an engineers view, and estalished a few exemplary BIM models for validation relevant design change detection methods'
 date: 2019-05-24
 venue: '2019 Proceedings of the 36th ISARC'
 paperurl: 'https://doi.org/10.22260/ISARC2019/0017'
