@@ -8,7 +8,7 @@ excerpt: 'This research proposes an approach to AR-based CFD visualization on mo
 date: 2019-03-12
 venue: 'Automation in Construction'
 paperurl: 'https://doi.org/10.1016/j.autcon.2019.02.007'
-citation: 'Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007'
+citation: 'Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics&quot; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007'
 
 comment: true
 category: journal
@@ -31,4 +31,4 @@ Augmented reality (AR) based visualization of computational fluid dynamics (CFD)
 
 [Source code and test data here](https://github.com/LinJiarui/ARvis-CFD/)
 
-Recommended citation: Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007
+Recommended citation: Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics&quot; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007

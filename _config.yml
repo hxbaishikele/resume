@@ -13,7 +13,7 @@ title                    :
 title_separator          : "-"
 name                     : &name "Jia-Rui Lin"
 description              : 
-  en: &description "Researcher at Tsinghua University"
+  en: &description "Faculty of Tsinghua University"
   zh: &description "清华大学助理研究员"
 url                      : https://linjiarui.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ author:
     zh: "林佳瑞"
   avatar           : "profile.png"
   bio              : 
-    en: "Research Assistant Professor"
+    en: "Assistant Professor"
     zh: "助理研究员"
   location         : 
     en: "Beijing, China"

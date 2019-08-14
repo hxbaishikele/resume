@@ -1,11 +1,17 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+  
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
+  - title: "Honors"
+    url: /honors/ 
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -18,38 +24,50 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
 
 zh:
-  - title: "发表论著"
+  - title: "项目"
+    url: /projects/
+    
+  - title: "论著"
     url: /publications/
 
-  - title: "学术报告"
+  - title: "报告"
     url: /talks/    
 
-  - title: "课程教学"
+  - title: "获奖"
+    url: /honors/ 
+    
+  - title: "教学"
     url: /teaching/    
     
-  - title: "资源下载"
+  - title: "资源"
     url: /portfolio/
         
-  - title: "日志/新闻"
+  - title: "新闻"
     url: /year-archive/
     
-  - title: "个人简历"
+  - title: "简历"
     url: /cv/
     
 #  - title: "MD 教程"
 #    url: /markdown/
 
 en:
+  - title: "Projects"
+    url: /en/projects/
+  
   - title: "Publications"
     url: /en/publications/
 
   - title: "Talks"
-    url: /en/talks/   
+    url: /en/talks/    
 
+  - title: "Honors"
+    url: /en/honors/ 
+    
   - title: "Teaching"
     url: /en/teaching/    
     
