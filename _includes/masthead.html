@@ -43,6 +43,9 @@
               {% assign posts=site.publications  | where:"ref", page.ref | sort: 'lang' %}
               {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
               
+              {% assign posts=site.projects  | where:"ref", page.ref | sort: 'lang' %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              
               {% assign posts=site.teaching  | where:"ref", page.ref | sort: 'lang' %}
               {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
               
