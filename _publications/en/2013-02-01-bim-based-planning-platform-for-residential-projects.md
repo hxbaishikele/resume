@@ -1,9 +1,9 @@
 ---
 title: "Research and Development of BIM-based Housing Project Planning System"
-lang: zh
+lang: en
 ref: publication/2013-02-01-bim-based-planning-platform-for-residential-projects
 collection: publications
-permalink: /publication/2013-02-01-bim-based-planning-platform-for-residential-projects
+permalink: /en/publication/2013-02-01-bim-based-planning-platform-for-residential-projects
 excerpt: 'This paper proposes a BIM- and 4D-based planning and evaluation method and prototype system for planning of residential projects'
 date: 2013-02-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
