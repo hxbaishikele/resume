@@ -94,3 +94,11 @@ Honors&Awards
 Service and leadership
 ====
 * Member of building information modeling committee of China Graphics Society
+* Reviewer of _Automation in Construction_
+* Reviewer of _Journal of Computing in Civil Engineer_
+* Reviewer of _Journal of Structural Integrity and Maintenance_
+* Reviewer of _Journal of Tsinghua University (Science & Technology)_
+* Reviewer of _China Civil Engineering Journal_
+* Reviewer of _Journal of Graphics_
+* Reviewer of _Construction Technology_
+* Reviewer of _Journal of Information Technology in Civil Engineering and Architecture_

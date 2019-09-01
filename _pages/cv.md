@@ -94,3 +94,11 @@ redirect_from:
 社会服务
 ====
 * 中国图学学会 BIM 专委会委员
+* Automation in Construction 审稿人
+* Journal of Computing in Civil Engineer 审稿人
+* Journal of Structural Integrity and Maintenance 审稿人
+* 《清华大学学报（自然科学版）》 审稿人
+* 《土木工程学报》 审稿人
+* 《图学学报》 审稿人
+* 《施工技术》 审稿人
+* 《土木建筑工程信息技术》 审稿人
