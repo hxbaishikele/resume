@@ -1,9 +1,8 @@
----
 title: "Cloud-based Integration and Mangement of Building Information"
-lang: zh
+lang: en
 ref: publication/2017-11-04-cloud-based-bim-integration-and-management
 collection: publications
-permalink: /publication/2017-11-04-cloud-based-bim-integration-and-management
+permalink: /en/publication/2017-11-04-cloud-based-bim-integration-and-management
 excerpt: 'This paper proposes an approach to integrate and manage heterogeneous building information based on cloud computing with the consideration of data privacy'
 date: 2017-11-04
 venue: 'the 3rd National Conference on Building Information Modeling'

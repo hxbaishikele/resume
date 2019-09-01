@@ -1,9 +1,9 @@
 ---
 title: "Framework of Building Performance Data Sensing and Service Platform"
-lang: zh
+lang: en
 ref: publication/2018-11-24-framework-for-building-performance-monitoring-and-data-management
 collection: publications
-permalink: /publication/2018-11-24-framework-for-building-performance-monitoring-and-data-management
+permalink: /en/publication/2018-11-24-framework-for-building-performance-monitoring-and-data-management
 excerpt: 'This research proposes a scalable framework for building performance data sensing and service'
 date: 2018-11-24
 venue: 'the 4th National Conference on Building Information Modeling'
