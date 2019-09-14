@@ -8,6 +8,7 @@ permalink: /en/project/2013-LCM-based-digital-development-of-residential-project
 venue: " Ministry of Science and Technology"
 date: 2013-10-01
 location: "Beijing, China"
+excerpt: ""
 
 sponsor: government
 category: project
