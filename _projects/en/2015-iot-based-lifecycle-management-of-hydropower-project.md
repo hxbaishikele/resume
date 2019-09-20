@@ -4,7 +4,7 @@ lang: en
 ref: project/2015-iot-based-lifecycle-management-of-hydropower-project
 collection: projects
 type: "Company Sponsored"
-permalink: /en/2015-iot-based-lifecycle-management-of-hydropower-project
+permalink: /en/project/2015-iot-based-lifecycle-management-of-hydropower-project
 venue: "Chengdu Engineering Corporation Limited"
 date: 2015-01-01
 location: "Chengdu, China"

@@ -4,7 +4,7 @@ lang: zh
 ref: project/2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-management
 collection: projects
 type: "青年人才托举工程2016-2018年项目"
-permalink: /2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-management
+permalink: /project/2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-management
 venue: "中国科协"
 date: 2016-7-01
 location: "中国北京"

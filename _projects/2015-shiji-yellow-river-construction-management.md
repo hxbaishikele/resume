@@ -4,7 +4,7 @@ lang: zh
 ref: project/2015-shiji-yellow-river-construction-management
 collection: projects
 type: "企业合作"
-permalink: /2015-shiji-yellow-river-construction-management
+permalink: /project/2015-shiji-yellow-river-construction-management
 venue: "中铁四局钢构公司"
 date: 2015-01-01
 location: "中国济南"

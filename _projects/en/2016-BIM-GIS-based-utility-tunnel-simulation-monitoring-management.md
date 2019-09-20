@@ -4,7 +4,7 @@ lang: en
 ref: project/2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-management
 collection: projects
 type: "Young Elite Scientists Sponsorship Program"
-permalink: /en/2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-management
+permalink: /en/project/2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-management
 venue: "China Association for Science and Technology"
 date: 2016-7-01
 location: "Beijing, China"

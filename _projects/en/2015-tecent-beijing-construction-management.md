@@ -4,7 +4,7 @@ lang: en
 ref: project/2015-tecent-beijing-construction-management
 collection: projects
 type: "Company Sponsored"
-permalink: /en/2015-tecent-beijing-construction-management
+permalink: /en/project/2015-tecent-beijing-construction-management
 venue: "North Group of China Construction Third Bureau First Engineering Co., Ltd."
 date: 2015-01-01
 location: "Beijing, China"

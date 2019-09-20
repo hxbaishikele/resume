@@ -4,7 +4,7 @@ lang: zh
 ref: project/2016-kunming-airport-facility-management
 collection: projects
 type: "企业合作"
-permalink: /2016-kunming-airport-facility-management
+permalink: /project/2016-kunming-airport-facility-management
 venue: "昆明长水国际机场"
 date: 2016-09-01
 location: "中国昆明"

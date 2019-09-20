@@ -4,7 +4,7 @@ lang: en
 ref: project/2016-kunming-airport-facility-management
 collection: projects
 type: "Company Sponsored"
-permalink: /en/2016-kunming-airport-facility-management
+permalink: /en/project/2016-kunming-airport-facility-management
 venue: "Kunming Changshui International Airport"
 date: 2016-09-01
 location: "Kunming, China"

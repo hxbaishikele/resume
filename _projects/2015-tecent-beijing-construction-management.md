@@ -4,7 +4,7 @@ lang: zh
 ref: project/2015-tecent-beijing-construction-management
 collection: projects
 type: "企业合作"
-permalink: /2015-tecent-beijing-construction-management
+permalink: /project/2015-tecent-beijing-construction-management
 venue: "中建三局一公司北方公司"
 date: 2015-01-01
 location: "中国北京"
