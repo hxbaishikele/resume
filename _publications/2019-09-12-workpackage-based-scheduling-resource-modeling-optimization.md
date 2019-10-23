@@ -8,7 +8,7 @@ excerpt: '本研究提出一种基于工作包的进度、资源信息模型及�
 date: 2019-09-12
 venue: 'Automation in Construction'
 paperurl: 'https://doi.org/10.1016/j.autcon.2019.102958'
-citation: 'Wang, H.W., Lin, J.R.*, and Zhang, J.P. (2019). &quot;Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects&quot; <i>Automation in Construction</i>. doi: 10.1016/j.autcon.2019.102958'
+citation: 'Wang, H.W., Lin, J.R.*, and Zhang, J.P. (2020). &quot;Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects&quot; <i>Automation in Construction</i>. 109: 102958. doi: 10.1016/j.autcon.2019.102958'
 
 comment: true
 category: journal
@@ -32,4 +32,4 @@ As an essential problem in construction management, the resource-constrained pro
 
 [论文下载地址](https://doi.org/10.1016/j.autcon.2019.102958)
 
-引用方式: Wang, H.W., Lin, J.R.*, and Zhang, J.P. (2019). &quot;Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects&quot; <i>Automation in Construction</i>. doi: 10.1016/j.autcon.2019.102958
+引用方式: Wang, H.W., Lin, J.R.*, and Zhang, J.P. (2020). &quot;Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects&quot; <i>Automation in Construction</i>. 109: 102958. doi: 10.1016/j.autcon.2019.102958
