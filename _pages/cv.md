@@ -37,26 +37,26 @@ redirect_from:
   {% assign proceedings = publications | where:"category", 'conference' %}
 
 <h2>期刊论文</h2>
-  <ul>{% for post in journals %}
+  <ul>{% for post in journals reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 <h2>会议论文</h2>
-  <ul>{% for post in proceedings %}
+  <ul>{% for post in proceedings reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 学术报告
 ====
   {% assign talks = site.talks | where:"lang", page.lang %}
-  <ul>{% for post in talks %}
+  <ul>{% for post in talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 课程教学
 ====
   {% assign teaching = site.teaching | where:"lang", page.lang %}
-  <ul>{% for post in teaching %}
+  <ul>{% for post in teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -95,8 +95,11 @@ redirect_from:
 ====
 * 中国图学学会 BIM 专委会委员
 * Automation in Construction 审稿人
-* Journal of Computing in Civil Engineer 审稿人
+* Journal of Computing in Civil Engineering 审稿人
+* IEEE Transactions on Systems, Man and Cybernetics: Systems 审稿人
+* Journal of Management in Engineering 审稿人
 * Journal of Structural Integrity and Maintenance 审稿人
+* Frontiers of Engineering Management 审稿人
 * 《清华大学学报（自然科学版）》 审稿人
 * 《土木工程学报》 审稿人
 * 《图学学报》 审稿人

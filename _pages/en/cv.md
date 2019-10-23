@@ -37,26 +37,26 @@ Publications
   {% assign proceedings = publications | where:"category", 'conference' %}
 
 <h2>Journal Publications</h2>
-  <ul>{% for post in journals %}
+  <ul>{% for post in journals reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 <h2>Conference Publications</h2>
-  <ul>{% for post in proceedings %}
+  <ul>{% for post in proceedings reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ====
   {% assign talks = site.talks | where:"lang", page.lang %}
-  <ul>{% for post in talks %}
+  <ul>{% for post in talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ====
   {% assign teaching = site.teaching | where:"lang", page.lang %}
-  <ul>{% for post in teaching %}
+  <ul>{% for post in teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -95,8 +95,11 @@ Service and leadership
 ====
 * Member of building information modeling committee of China Graphics Society
 * Reviewer of _Automation in Construction_
-* Reviewer of _Journal of Computing in Civil Engineer_
+* Reviewer of _Journal of Computing in Civil Engineering_
+* Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
+* Reviewer of _Journal of Management in Engineering_
 * Reviewer of _Journal of Structural Integrity and Maintenance_
+* Reviewer of _Frontiers of Engineering Management_
 * Reviewer of _Journal of Tsinghua University (Science & Technology)_
 * Reviewer of _China Civil Engineering Journal_
 * Reviewer of _Journal of Graphics_
