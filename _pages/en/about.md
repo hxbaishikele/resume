@@ -13,7 +13,6 @@ redirect_from:
 Dr. Jia-Rui Lin is currently a research assistant professor at the Disaster Prevention and Mitigation Institute of Tsinghua University, and concurrently the director of the Mechanics Computing and Simulation Laboratory of the Mechanics Experimental Teaching Center of Tsinghua University. He obtained his bachelor's degree (2011) and Ph.D. (2016) from the Department of Civil Engineering of Tsinghua University. After finished his postdoctoral research in 2018, he joined the New Technologies for Disaster Prevention and Mitigation Group of Tsinghua University.
 
 His research interests are information technology for building and civil engineering, including building information model (BIM), augmented reality (AR) ,cloud computing and internet of things (IoT). He is committed to optimizing performance and improving decision-making process in the construction, operation, maintenance, and disaster prevention of buildings and infrastructures through advanced information technology.
-![application problem of the AEC area](/images/application-problem.png)
 
 Recently, he was granted by the national key R&D Program, national science foundation of China and other organizations for about 10 projects, and has published more than 40 peer-reviewed journal and conference papers. He also holds 8 software copyrights. Main contributions include:
 
