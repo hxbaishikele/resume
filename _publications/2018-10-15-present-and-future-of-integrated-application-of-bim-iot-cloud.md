@@ -30,4 +30,6 @@ tags:
 
 [论文下载地址](http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018050806)
 
+[预印本下载地址]({{ site.baseurl }}/files/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud.pdf)
+
 引用方式: 张云翼, 林佳瑞*, 张建平. (2018). &quot;BIM 与云、大数据、物联网等技术的集成应用现状与未来&quot; <i>图学学报</i>. 39(5): 806-816. doi: 10.11996/JG.j.2095-302X.2018050806

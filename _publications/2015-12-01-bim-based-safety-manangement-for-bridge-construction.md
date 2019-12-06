@@ -29,4 +29,6 @@ tags:
 
 [论文下载地址](http://doi.org/10.19550/j.issn.1672-061x.2015.06.016)
 
+[预印本下载地址]({{ site.baseurl }}/files/2015-12-01-bim-based-safety-manangement-for-bridge-construction.pdf)
+
 引用方式: 张晓洋, 林佳瑞*, 方继, 杜伸云, 胡振中, 张建平, 梁崇双 (2015). &quot;BIM 技术在石济黄河桥施工安全管理中的应用&quot; <i>铁路技术创新</i>. 6: 74-76. doi: 10.19550/j.issn.1672-061x.2015.06.016

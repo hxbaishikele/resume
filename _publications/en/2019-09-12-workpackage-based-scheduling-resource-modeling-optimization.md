@@ -32,4 +32,6 @@ As an essential problem in construction management, the resource-constrained pro
 
 [Download paper here](https://doi.org/10.1016/j.autcon.2019.102958)
 
+[download preprint here]({{ site.baseurl }}/files/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization.pdf)
+
 Recommend citation: Wang, H.W., Lin, J.R.*, and Zhang, J.P. (2020). &quot;Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects&quot; <i>Automation in Construction</i>. 109: 102958. doi: 10.1016/j.autcon.2019.102958

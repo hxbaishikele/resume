@@ -28,4 +28,6 @@ tags:
 
 [论文下载地址](http://doi.org/10.13991/j.cnki.jem.2017.04.024)
 
+[预印本下载地址]({{ site.baseurl }}/files/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects.pdf)
+
 引用方式: 张志伟, 王珩玮, 林佳瑞, 冯奕, 张建平*. (2017). &quot;面向全生命期管理的水电工程信息分类编码研究&quot; <i>工程管理学报</i>. 31(4): 131-136. doi: 10.13991/j.cnki.jem.2017.04.024

@@ -28,4 +28,6 @@ Huge amounts of data are generated daily during the operation and maintenance (O
 
 [论文下载地址](https://www.sciencedirect.com/science/article/pii/S0360132317304444)
 
+[预印本下载地址]({{ site.baseurl }}/files/2017-10-12-hybrid-data-mining-for-operation-maintenance.pdf)
+
 引用方式: Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495. doi: 10.1016/j.buildenv.2017.09.030

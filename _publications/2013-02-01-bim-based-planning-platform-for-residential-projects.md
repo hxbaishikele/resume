@@ -28,4 +28,6 @@ tags:
 
 [论文下载地址](http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.01.004)
 
+[预印本下载地址]({{ site.baseurl }}/files/2013-02-01-bim-based-planning-platform-for-residential-projects.pdf)
+
 引用方式: 林佳瑞*, 张建平, 何田丰, 贾卫东, 吴峥 (2013). &quot;基于 BIM 的住宅项目策划系统研究与开发&quot; <i>土木建筑工程信息技术</i>. 5(1): 22-26. doi: 10.16670/j.cnki.cn11-5823/tu.2013.01.004

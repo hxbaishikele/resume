@@ -29,4 +29,6 @@ According to the key requirements in schedule and resource management during con
 
 [Download paper here](http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009)
 
+[download preprint here]({{ site.baseurl }}/files/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim.pdf)
+
 Recommended citation: Lin, J.*, Zhang, J., Zhong, Y. (2014). &quot;Schedule-resource Trade-off Modeling and Application based on 4D-BIM&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 6(6): 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009 (in Chinese)

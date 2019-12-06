@@ -28,4 +28,6 @@ According to the actual demand of housing project，by integrating BIM and 4D te
 
 [Download paper here](http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.01.004)
 
+[download preprint here]({{ site.baseurl }}/files/2013-02-01-bim-based-planning-platform-for-residential-projects.pdf)
+
 Recommended citation: Lin, J.*, Zhang, J., He, T., Jia, W., Wu, Z. (2013). &quot;Research and Development of BIM-based Housing Project Planning System&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 5(1): 22-26. doi: 10.16670/j.cnki.cn11-5823/tu.2013.01.004 (in Chinese)

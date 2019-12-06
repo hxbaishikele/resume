@@ -31,4 +31,6 @@ The standard dwelling unit (SDU) has been adopted to standardize dwelling units 
 
 [论文下载地址](https://ascelibrary.org/doi/10.1061/%28ASCE%29CP.1943-5487.0000774)
 
+[预印本下载地址]({{ site.baseurl }}/files/2018-04-19-multi-aspect-similarity-evaluation-of-BIM.pdf)
+
 引用方式: He, T., Zhang, J., Lin, J.* and Li, Y. (2018). &quot;Multiaspect Similarity Evaluation of BIM-Based Standard Dwelling Units for Residential Design&quot; <i>Journal of Computing in Civil Engineering</i>. 32(5): 04018032. doi: 10.1061/(ASCE)CP.1943-5487.0000774

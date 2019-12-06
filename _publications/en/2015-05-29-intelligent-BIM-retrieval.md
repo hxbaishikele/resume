@@ -29,4 +29,6 @@ As the information from diverse disciplines continues to integrate during the wh
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12151)
 
+[download preprint here]({{ site.baseurl }}/files/2015-05-29-intelligent-BIM-retrieval.pdf)
+
 Recommended citation: Lin, J., Hu, Z.*, Zhang, J. and Yu, F. (2016). &quot;A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM&quot; <i>Computer‐Aided Civil and Infrastructure Engineering</i>. 31: 18-33. doi: 10.1111/mice.12151

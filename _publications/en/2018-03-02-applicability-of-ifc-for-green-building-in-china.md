@@ -28,4 +28,6 @@ Various data fragmented in different data formats are involved in green building
 
 [Download paper here](http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018040765)
 
+[download preprint here]({{ site.baseurl }}/files/2018-03-02-applicability-of-ifc-for-green-building-in-china.pdf)
+
 Recommended citation: Lin, J.*, Zhang, J. (2018). &quot;Towards the Applicability of IFC for Green Building Evaluation in China&quot; <i>Journal of Graphics</i>. 39(4): 765-770. doi: 10.11996/JG.j.2095-302X.2018040765 (in Chinese)

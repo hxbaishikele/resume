@@ -30,4 +30,6 @@ To eliminate effort needed in data conversion and sharing for building performan
 
 [Download paper here](http://doi.org/10.16511/j.cnki.qhdxxb.2016.21.057)
 
+[download preprint here]({{ site.baseurl }}/files/2016-05-17-ifc-based-data-conversion-for-building-performance.pdf)
+
 Recommended citation: Lin, J., Zhang, J.* (2016). &quot;Data conversion and sharing for building performance analyses based on IFC&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 56(9): 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057 (in Chinese)

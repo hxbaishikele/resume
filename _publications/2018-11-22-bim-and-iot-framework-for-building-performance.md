@@ -29,4 +29,6 @@ During the operation and maintenance period of buildings, a monitoring system es
 
 [论文下载地址](https://doi.org/10.1080/24705314.2018.1536318)
 
+[预印本下载地址]({{ site.baseurl }}/files/2018-11-22-bim-and-iot-framework-for-building-performance.pdf)
+
 引用方式: Kang, K., Lin, J.* and Zhang, J. (2018). &quot;BIM- and IoT-based monitoring framework for building performance management&quot; <i>Journal of Structural Integrity and Maintenance</i>. 3(4): 254-261.
