@@ -1,3 +1,4 @@
+---
 title: "Cloud-based Integration and Mangement of Building Information"
 lang: en
 ref: publication/2017-11-04-cloud-based-bim-integration-and-management
