@@ -72,6 +72,7 @@ Honors&Awards
 * Nov, 2014, Best Presentation of Tsinghua University Doctoral Academic Forum
 
 <h2>Teaching</h2>
+* Dec, 2019, Excellent Advisor (First Prize) of Student Research Trainning Program of Tsinghua University
 * Jul, 2019, Third Prize of the 11th Teaching Competition for Young Faculties in Beijing
 * Dec, 2018, First Prize of 8th Teaching Competition for Young Faculties in Tsinghua
 * Oct, 2017, Second Prize of Teaching Competition in School of Civil Engineering
@@ -94,12 +95,14 @@ Honors&Awards
 Service and leadership
 ====
 * Member of building information modeling committee of China Graphics Society
+* Special Expert of building information modeling center of Beijing City Planning Society
 * Reviewer of _Automation in Construction_
 * Reviewer of _Journal of Computing in Civil Engineering_
 * Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
 * Reviewer of _Journal of Management in Engineering_
 * Reviewer of _Journal of Structural Integrity and Maintenance_
 * Reviewer of _Frontiers of Engineering Management_
+* Reviewer of _Mobile Information Systems_
 * Reviewer of _Journal of Tsinghua University (Science & Technology)_
 * Reviewer of _China Civil Engineering Journal_
 * Reviewer of _Journal of Graphics_

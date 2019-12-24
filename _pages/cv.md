@@ -72,6 +72,7 @@ redirect_from:
 * 2014年11月，清华大学博士生学术论坛优秀报告奖
 
 <h2>教育教学</h2>
+* 2019年12月，清华大学2019年大学生研究训练（SRT）计划优秀指导教师一等奖
 * 2019年07月，北京市高校第十一届青年教师教学基本功大赛（工科A）三等奖
 * 2018年12月，清华大学第八届青年教师教学大赛（工科组）一等奖
 * 2017年10月，清华大学土水学院青年教师教学基本功大赛二等奖
@@ -94,12 +95,14 @@ redirect_from:
 社会服务
 ====
 * 中国图学学会 BIM 专委会委员
+* 北京城市规划学会BIM研究与应用中心特聘专家
 * Automation in Construction 审稿人
 * Journal of Computing in Civil Engineering 审稿人
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 审稿人
 * Journal of Management in Engineering 审稿人
 * Journal of Structural Integrity and Maintenance 审稿人
 * Frontiers of Engineering Management 审稿人
+* Mobile Information Systems 审稿人
 * 《清华大学学报（自然科学版）》 审稿人
 * 《土木工程学报》 审稿人
 * 《图学学报》 审稿人
