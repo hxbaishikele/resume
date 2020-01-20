@@ -24,6 +24,15 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+## To run locally based on WSL
+
+1. Install Ubuntu
+2. Install jekyll, ref to: https://jekyllrb.com/docs/installation/windows/
+3. Run `sudo apt-get install libpng-dev` and `sudo apt-get install --reinstall zlibc zlib1g zlib1g-dev` if encounter errors at step 2
+4. Clone the repository, and run `bundle install` or `bundle clean` if needed
+5. Run `bundle exec jekyll serve`
+6. Add `gem “faraday”, “< 1.0”` if needed
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
