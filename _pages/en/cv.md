@@ -100,6 +100,7 @@ Service and leadership
 * Reviewer of _Journal of Computing in Civil Engineering_
 * Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
 * Reviewer of _Journal of Management in Engineering_
+* Reviewer of _Engineering, Construction and Architectural Management_
 * Reviewer of _Journal of Structural Integrity and Maintenance_
 * Reviewer of _Frontiers of Engineering Management_
 * Reviewer of _Mobile Information Systems_

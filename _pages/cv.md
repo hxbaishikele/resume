@@ -100,6 +100,7 @@ redirect_from:
 * Journal of Computing in Civil Engineering 审稿人
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 审稿人
 * Journal of Management in Engineering 审稿人
+* Engineering, Construction and Architectural Management 审稿人
 * Journal of Structural Integrity and Maintenance 审稿人
 * Frontiers of Engineering Management 审稿人
 * Mobile Information Systems 审稿人
