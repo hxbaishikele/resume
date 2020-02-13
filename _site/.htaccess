@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule (resume)$ $1.html
+RewriteRule (project|teaching|publication|talk)/([-a-zA-Z0-9]{1,})$ $1/$2.html
