@@ -1,3 +1,5 @@
 RewriteEngine on
-RewriteRule (resume)$ $1.html
-RewriteRule (project|teaching|publication|talk)/([-a-zA-Z0-9]{1,})$ $1/$2.html
+RewriteRule "en/(resume)$" "en/$1.html"
+RewriteRule "(resume)$" "$1.html"
+RewriteRule "en/(project|teaching|publication|talk)/([-a-zA-Z0-9]{1,})$" "en/$1/$2.html"
+RewriteRule "(project|teaching|publication|talk)/([-a-zA-Z0-9]{1,})$" "$1/$2.html"
