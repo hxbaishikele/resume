@@ -328,10 +328,14 @@ tag_archive:
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
-  clippings: all
+  clippings: []
+  comments: ["<!-- ", " -->"]
+  endings: []
   ignore:
-    envs: development
-
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
 # enable pagination
 enable_pagination: false
 
