@@ -1,9 +1,9 @@
 ---
 title: "Research on IDM-based BIM process information exchange technology"
 lang: en
-ref: publication/2012-06-27-idm-based-bim-information-exchange
+ref: publications/2012-06-27-idm-based-bim-information-exchange
 collection: publications
-permalink: /en/publication/2012-06-27-idm-based-bim-information-exchange
+permalink: /en/publications/2012-06-27-idm-based-bim-information-exchange
 excerpt: 'This research proposes a method for IDM-based BIM data exchange.'
 date: 2012-06-27
 venue: '14th International Conference on Computing in Civil and Building Engineering'
@@ -17,13 +17,14 @@ tags:
   - IDM
   - ICCCBE
   - information exchange
+  - model view
 ---
 
 
 Abstract
 ====
 
-As the information from diverse disciplines continues to integrate during the whole life cycle of an Architecture, Engineering, and Construction (AEC) project, the BIM (Building Information Model/Modeling) becomes increasingly large. This condition will cause users difficulty in acquiring the information they truly desire on a mobile device with limited space for interaction. The situation will be even worse for personnel without extensive knowledge of Industry Foundation Classes (IFC) or for nonexperts of the BIM software. To improve the value of the big data of BIM, an approach to intelligent data retrieval and representation for cloud BIM applications based on natural language processing was proposed. First, strategies for data storage and query acceleration based on the popular cloud‐based database were explored to handle the large amount of BIM data. Then, the concepts “keyword” and “constraint” were proposed to capture the key objects and their specifications in a natural‐language‐based sentence that expresses the requirements of the user. Keywords and constraints can be mapped to IFC entities or properties through the International Framework for Dictionaries (IFD). The relationship between the user's requirement and the IFC‐based data model was established by path finding in a graph generated from the IFC schema, enabling data retrieval and analysis. Finally, the analyzed and summarized results of BIM data were represented based on the structure of the retrieved data. A prototype application was developed to validate the proposed approach on the data collected during the construction of the terminal of Kunming Airport, the largest single building in China. The case study illustrated the following: (1) relationships between the user requirements and the data users concerned are established, (2) user‐concerned data can be automatically retrieved and aggregated based on the cloud for BIM, and (3) the data are represented in a proper form for a visual view and a comprehensive report. With this approach, users can significantly benefit from requesting for information and the value of BIM will be enhanced.
+IFC (Industry Foundation Classes) laid the foundation for interoperability with different applications. However, the IFC lacked the specifications for the process, such as where and when the information was created, edited, and exchanged. Determining what and when to share is difficult. Thus, IDM (Information Delivery Manual) was introduced to capture the business process while providing detailed user-defined specifications on the information that need to be exchanged at particular points within a project. However, the development of IDM needs the widespread support of participants who have high professionalism. Thus, the development of IDM lasts long, and the model view of the exchange requirement is difficult to modify, which obstructs BIM (Building Information Modeling) information sharing. In this paper, the technical framework of the BIM process information exchange was proposed based on the relationships among IDM, IFC, and IFD (International Framework for Dictionaries). According to the framework, the basic method for BIM process information exchange, which is composed of process modelling and exchange requirement extraction based on IDM, model view auto-generation depending on natural specification of exchange requirement, exchanging data by the requirement view in a linear sequence, was established. The exchange requirement model view auto-generation application was also developed. Actual practice in the 4D (4-Dimensional) construction management system of the information specified by the exchange requirement view was presented. Application results illustrate that the framework and the method for BIM process information exchange is effective, and helps in the safe, accurate, and highly efficient exchange, sharing, and integration of data. 
 
 [Download paper here]({{ site.baseurl }}/files/2012-06-27-idm-based-bim-information-exchange.pdf)
 

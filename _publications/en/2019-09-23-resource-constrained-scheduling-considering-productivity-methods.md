@@ -1,9 +1,9 @@
 ---
 title: "Resource-constrained project scheduling problem considering productivity and construction methods"
 lang: en
-ref: publication/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
+ref: publications/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
 collection: publications
-permalink: /en/publication/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
+permalink: /en/publications/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
 excerpt: 'This research proposes a novel method that considers productivity and construction methods in modeling and solving resource-constrained project problem'
 date: 2019-09-23
 venue: 'Journal of Tsinghua University (Science & Technology)'

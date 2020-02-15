@@ -1,9 +1,9 @@
 ---
 title: "Material Management for Bridge Construction Utilizing BIM- and IoT-based Platform"
 lang: en
-ref: publication/2016-11-12-bim-iot-based-material-management-for-bridges
+ref: publications/2016-11-12-bim-iot-based-material-management-for-bridges
 collection: publications
-permalink: /en/publication/2016-11-12-bim-iot-based-material-management-for-bridges
+permalink: /en/publications/2016-11-12-bim-iot-based-material-management-for-bridges
 excerpt: 'This research proposes an approach to material management based on BIM and IoT platform for bridge construction'
 date: 2016-11-12
 venue: 'the 2nd National Conference on Building Information Modeling'

@@ -1,9 +1,9 @@
 ---
 title: "BIM Application in Owner and EPC Contractor Collaborative Management of a Large-Scale Public Building Project"
 lang: en
-ref: publication/2016-10-31-bim-application-in-collaborative-management
+ref: publications/2016-10-31-bim-application-in-collaborative-management
 collection: publications
-permalink: /en/publication/2016-10-31-bim-application-in-collaborative-management
+permalink: /en/publications/2016-10-31-bim-application-in-collaborative-management
 excerpt: 'This paper describes a detailed BIM application for collaboration of owners and general contractors.'
 date: 2016-10-31
 venue: '33rd CIB W78 International Conference on Information technology for Construction'
@@ -18,6 +18,7 @@ tags:
   - CIB W78
   - construction
   - application
+  - management
 ---
 
 

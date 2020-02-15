@@ -1,9 +1,9 @@
 ---
 title: "Ontology-Based Semantic Retrieval Method of Energy Consumption Management"
 lang: zh
-ref: publication/2018-10-01-ontology-based-retrieval-for-energy-consumption
+ref: publications/2018-10-01-ontology-based-retrieval-for-energy-consumption
 collection: publications
-permalink: /publication/2018-10-01-ontology-based-retrieval-for-energy-consumption
+permalink: /publications/2018-10-01-ontology-based-retrieval-for-energy-consumption
 excerpt: '本研究提出面向能耗管理的语义信息提取方法。'
 date: 2018-10-01
 venue: 'Advances in Informatics and Computing in Civil and Construction Engineering'

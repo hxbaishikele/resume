@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2018.12: Research on BIM-based safety management technologies for large public buildings during operation and maintenance"
 lang: en
-ref: project/2015-BIM-based-maintenance-of-large-scale-buildings
+ref: projects/2015-BIM-based-maintenance-of-large-scale-buildings
 collection: projects
 type: "NSFC Project"
-permalink: /en/project/2015-BIM-based-maintenance-of-large-scale-buildings
+permalink: /en/projects/2015-BIM-based-maintenance-of-large-scale-buildings
 venue: "National Natural Science Foundation of China"
 date: 2015-01-01
 location: "Beijing, China"

@@ -1,10 +1,10 @@
 ---
 title: "2014.8-2017.6: Investigation and Development of BIM Platform for Rail Transit"
 lang: en
-ref: project/2014-guangzhou-metro-management-system
+ref: projects/2014-guangzhou-metro-management-system
 collection: projects
 type: "Company Sponsored"
-permalink: /en/project/2014-guangzhou-metro-management-system
+permalink: /en/projects/2014-guangzhou-metro-management-system
 venue: "Guangzhou Rail Transit Construction Supervision Co., Ltd"
 date: 2014-08-01
 location: "Guangzhou, China"

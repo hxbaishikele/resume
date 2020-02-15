@@ -1,10 +1,10 @@
 ---
 title: "2016.9-2018.3：基于BIM和物联网的城市综合管廊运行监测与集成分析"
 lang: zh
-ref: project/2016-BIM-IOT-based-utility-tunnel-monitoring
+ref: projects/2016-BIM-IOT-based-utility-tunnel-monitoring
 collection: projects
 type: "中国博士后基金面上项目"
-permalink: /project/2016-BIM-IOT-based-utility-tunnel-monitoring
+permalink: /projects/2016-BIM-IOT-based-utility-tunnel-monitoring
 venue: "中国博士后基金会"
 date: 2016-09-01
 location: "中国北京"

@@ -1,9 +1,9 @@
 ---
 title: "Automatic MEP Knowledge Acquisition Based on Documents and Natural Language Processing"
 lang: en
-ref: publication/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
+ref: publications/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
 collection: publications
-permalink: /en/publication/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
+permalink: /en/publications/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
 excerpt: 'This paper proposes an automatic approach to knowledge graph construction based on NLP and deep learning'
 date: 2019-09-18
 venue: '36th CIB W78 2019 Conference'

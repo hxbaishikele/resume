@@ -1,9 +1,9 @@
 ---
 title: "基于 4D-BIM 与过程模拟的施工进度—资源均衡"
 lang: zh
-ref: publication/2014-11-14-bim-des-based-schedule-resource-tradeoff
+ref: publications/2014-11-14-bim-des-based-schedule-resource-tradeoff
 collection: publications
-permalink: /publication/2014-11-14-bim-des-based-schedule-resource-tradeoff
+permalink: /publications/2014-11-14-bim-des-based-schedule-resource-tradeoff
 excerpt: '本文提出基于4D-BIM与过程仿真的进度-资源均衡问题解决方案，并对仿真模型构建、求解进行了分析应用验证'
 date: 2014-11-14
 venue: '第十七届全国工程建设计算机应用大会'

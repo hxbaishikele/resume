@@ -1,9 +1,9 @@
 ---
 title: "Visualization and automatic verification of a schedule-driven 4D model"
 lang: zh
-ref: publication/2015-10-05-visualization-and-verification-of-4d-model
+ref: publications/2015-10-05-visualization-and-verification-of-4d-model
 collection: publications
-permalink: /publication/2015-10-05-visualization-and-verification-of-4d-model
+permalink: /publications/2015-10-05-visualization-and-verification-of-4d-model
 excerpt: '本研究提出一种基于进度计划关联与空间位置关系的4D模型可视化与自动校验方法。'
 date: 2015-10-05
 venue: '15th International Conference on Construction Applications of Virtual Reality'

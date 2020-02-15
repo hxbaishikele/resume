@@ -1,9 +1,9 @@
 ---
 title: "Operation-level 4D Modeling and Visualization for Modular Building based on Standard Activity Library"
 lang: zh
-ref: publication/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
+ref: publications/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
 collection: publications
-permalink: /publication/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
+permalink: /publications/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
 excerpt: '本研究介绍了基于BIM的高铁桥梁施工安全监测与分析系统。'
 date: 2017-07-04
 venue: '2017 Lean & Computing in Construction Congress (LC3)'
@@ -18,7 +18,7 @@ tags:
   - CIB W78
   - standard library
   - visualization
-  - modular
+  - modular building
 ---
 
 

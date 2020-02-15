@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2018.12：基于BIM的大型公共建筑运维期安全管理技术研究"
 lang: zh
-ref: project/2015-BIM-based-maintenance-of-large-scale-buildings
+ref: projects/2015-BIM-based-maintenance-of-large-scale-buildings
 collection: projects
 type: "国家自然科学基金面上项目"
-permalink: /project/2015-BIM-based-maintenance-of-large-scale-buildings
+permalink: /projects/2015-BIM-based-maintenance-of-large-scale-buildings
 venue: "国家自然科学基金委"
 date: 2015-01-01
 location: "中国北京"

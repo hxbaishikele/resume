@@ -1,9 +1,9 @@
 ---
 title: "我国 BIM 政策发展现状综述及其文本分析"
 lang: zh
-ref: publication/2018-03-06-bim-policies-in-china
+ref: publications/2018-03-06-bim-policies-in-china
 collection: publications
-permalink: /publication/2018-03-06-bim-policies-in-china
+permalink: /publications/2018-03-06-bim-policies-in-china
 excerpt: '本文收集并分析了2013-2017年间我国 BIM 政策，指出我国 BIM 技术已深度融入行业发展'
 date: 2018-03-06
 venue: '施工技术'

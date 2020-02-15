@@ -1,9 +1,9 @@
 ---
 title: "Classification and Exemplary BIM Models Development of Design Changes"
 lang: en
-ref: publication/2019-05-23-classification-and-examples-of-design-changes
+ref: publications/2019-05-23-classification-and-examples-of-design-changes
 collection: publications
-permalink: /en/publication/2019-05-23-classification-and-examples-of-design-changes
+permalink: /en/publications/2019-05-23-classification-and-examples-of-design-changes
 excerpt: 'This research provides a new method on classifying design changes from an engineers view, and estalished a few exemplary BIM models for validation relevant design change detection methods'
 date: 2019-05-24
 venue: '2019 Proceedings of the 36th ISARC'
@@ -14,9 +14,9 @@ comment: true
 category: conference
 
 tags: 
-  - Design Changes
-  - Validation
-  - Benchmark
+  - design changes
+  - validation
+  - benchmark
   - BIM
 ---
 

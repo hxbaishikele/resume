@@ -1,9 +1,9 @@
 ---
 title: "Web-oriented BIM 3D Viewing and Information Management"
 lang: en
-ref: publication/2013-06-01-web3d-for-bim-visualization
+ref: publications/2013-06-01-web3d-for-bim-visualization
 collection: publications
-permalink: /en/publication/2013-06-01-web3d-for-bim-visualization
+permalink: /en/publications/2013-06-01-web3d-for-bim-visualization
 excerpt: 'This paper proposes a BIM visualization and management framework based on WebGL'
 date: 2013-06-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
@@ -17,7 +17,7 @@ tags:
   - BIM
   - 3D
   - visualization
-  - Web
+  - web
   - WebGL
   - threejs
 ---

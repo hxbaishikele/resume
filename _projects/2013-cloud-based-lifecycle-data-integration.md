@@ -1,10 +1,10 @@
 ---
 title: "2013.1-2016.12：基于云计算的建筑全生命期BIM集成与应用关键技术研究"
 lang: zh
-ref: project/2013-cloud-based-lifecycle-data-integration
+ref: projects/2013-cloud-based-lifecycle-data-integration
 collection: projects
 type: "国家自然科学基金面上项目"
-permalink: /project/2013-cloud-based-lifecycle-data-integration
+permalink: /projects/2013-cloud-based-lifecycle-data-integration
 venue: "国家自然科学基金委"
 date: 2013-01-01
 location: "中国北京"
@@ -15,7 +15,7 @@ category: project
 tags: 
   - BIM
   - integration
-  - life-cycle
+  - lifecycle
   - collaboration
   - cloud
 ---

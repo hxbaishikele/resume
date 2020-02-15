@@ -1,10 +1,10 @@
 ---
 title: "2013.1-2016.12: Technologies of BIM Integration and Application for Building Lifecycle Based on Cloud Computing "
 lang: en
-ref: project/2013-cloud-based-lifecycle-data-integration
+ref: projects/2013-cloud-based-lifecycle-data-integration
 collection: projects
 type: "NSFC Project"
-permalink: /en/project/2013-cloud-based-lifecycle-data-integration
+permalink: /en/projects/2013-cloud-based-lifecycle-data-integration
 venue: "National Natural Science Foundation of China"
 date: 2013-01-01
 location: "Beijing, China"
@@ -15,7 +15,7 @@ category: project
 tags: 
   - BIM
   - integration
-  - life-cycle
+  - lifecycle
   - collaboration
   - cloud
 ---

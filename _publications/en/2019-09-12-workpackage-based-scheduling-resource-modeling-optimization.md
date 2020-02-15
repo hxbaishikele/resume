@@ -1,9 +1,9 @@
 ---
 title: "Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects"
 lang: en
-ref: publication/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
+ref: publicatiosn/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
 collection: publications
-permalink: /en/publication/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
+permalink: /en/publications/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
 excerpt: 'This work proposes a workpackage based information modeling approach for resource-constrained scheduling , which covers most of the information requirements for resouce-schedule optimization and is useful for last planner system.'
 date: 2019-09-12
 venue: 'Automation in Construction'

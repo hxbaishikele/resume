@@ -1,9 +1,9 @@
 ---
 title: "Schedule-Resource Trade-off Based on Construction Process Simulation and Simulated Annealing"
 lang: en
-ref: publication/2014-11-14-bim-des-based-schedule-resource-tradeoff
+ref: publications/2014-11-14-bim-des-based-schedule-resource-tradeoff
 collection: publications
-permalink: /en/publication/2014-11-14-bim-des-based-schedule-resource-tradeoff
+permalink: /en/publications/2014-11-14-bim-des-based-schedule-resource-tradeoff
 excerpt: 'This paper proposes a integrated solution for schedule-resource tradeoff based on 4D-BIM and process simulation'
 date: 2014-11-14
 venue: 'the 17th National Conference on Computer Application in Civil Engineering'

@@ -1,10 +1,10 @@
 ---
 title: "2013.10-2016.10：基于全生命期绿色住宅产品化数字开发技术研究和应用"
 lang: zh
-ref: project/2013-LCM-based-digital-development-of-residential-projects
+ref: projects/2013-LCM-based-digital-development-of-residential-projects
 collection: projects
 type: "国家863计划"
-permalink: /project/2013-LCM-based-digital-development-of-residential-projects
+permalink: /projects/2013-LCM-based-digital-development-of-residential-projects
 venue: "科技部"
 date: 2013-10-01
 location: "中国北京"
@@ -15,7 +15,7 @@ category: project
 tags: 
   - BIM
   - residence
-  - life-cycle
+  - lifecycle
   - collaboration
 ---
 

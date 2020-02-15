@@ -1,9 +1,9 @@
 ---
 title: "Review and Exploratory Text Mining of Building Information Modeling Policies in China"
 lang: en
-ref: publication/2018-03-06-bim-policies-in-china
+ref: publications/2018-03-06-bim-policies-in-china
 collection: publications
-permalink: /en/publication/2018-03-06-bim-policies-in-china
+permalink: /en/publications/2018-03-06-bim-policies-in-china
 excerpt: 'This paper reviews BIM policies from 2013-2017 of China, and shows that BIM has been deeply applied in the industry'
 date: 2018-03-06
 venue: 'Construction Technology'

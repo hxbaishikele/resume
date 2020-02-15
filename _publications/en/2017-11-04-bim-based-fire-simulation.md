@@ -1,9 +1,9 @@
 ---
 title: "BIM-based Fire Simulation"
 lang: en
-ref: publication/2017-11-04-bim-based-fire-simulation
+ref: publications/2017-11-04-bim-based-fire-simulation
 collection: publications
-permalink: /en/publication/2017-11-04-bim-based-fire-simulation
+permalink: /en/publications/2017-11-04-bim-based-fire-simulation
 excerpt: 'This research extends a few parameters of BIM for fire simulation, and an algorithm to automatically generate FDS file is proposed'
 date: 2017-11-04
 venue: 'the 3rd National Conference on Building Information Modeling'

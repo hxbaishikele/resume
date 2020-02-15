@@ -1,9 +1,9 @@
 ---
 title: "Towards the Applicability of IFC for Green Building Evaluation in China"
 lang: en
-ref: publication/2018-03-02-applicability-of-ifc-for-green-building-in-china
+ref: publications/2018-03-02-applicability-of-ifc-for-green-building-in-china
 collection: publications
-permalink: /en/publication/2018-03-02-applicability-of-ifc-for-green-building-in-china
+permalink: /en/publications/2018-03-02-applicability-of-ifc-for-green-building-in-china
 excerpt: 'This research extracts the information requirements  and analyzes the applicability of IFC for green building evaluation in China, which is helpful for creating and updating building codes'
 date: 2018-03-02
 venue: 'Journal of Graphics'

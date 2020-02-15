@@ -1,9 +1,9 @@
 ---
 title: "Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics"
 lang: zh
-ref: publication/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment
+ref: publications/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment
 collection: publications
-permalink: /publication/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment
+permalink: /publications/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment
 excerpt: '本研究提出一种用于在移动终端上基于AR实现室内气流CFD仿真可视化的方法，相比vtk格式数据压缩比高达63.4%，数据加载时间最高节约89.3%，有关源代码和测试数据已在GitHub上传'
 date: 2019-03-12
 venue: 'Automation in Construction'

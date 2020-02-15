@@ -1,9 +1,9 @@
 ---
 title: "Automatic MEP Knowledge Acquisition Based on Documents and Natural Language Processing"
 lang: zh
-ref: publication/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
+ref: publications/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
 collection: publications
-permalink: /publication/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
+permalink: /publications/2019-09-18-automatic-mep-knowledge-acquisition-based-on-nlp
 excerpt: '本研究提出一种基于自然语言处理和深度学习的机电领域知识图谱自动构建方法。'
 date: 2019-09-18
 venue: '36th CIB W78 2019 Conference'

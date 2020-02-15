@@ -1,9 +1,9 @@
 ---
 title: "A Review on 3D Spatial Data Analytics for Building Information Models"
 lang: en
-ref: publication/2019-08-14-review-on-3d-spatial-analytics-for-bim
+ref: publications/2019-08-14-review-on-3d-spatial-analytics-for-bim
 collection: publications
-permalink: /en/publication/2019-08-14-review-on-3d-spatial-analytics-for-bim
+permalink: /en/publications/2019-08-14-review-on-3d-spatial-analytics-for-bim
 excerpt: 'This paper provides a systematic review on 3D spatial data analytics for BIM, state-of-the-art, challenges and potential directions are provided'
 date: 2019-08-14
 venue: 'Archives of Computational Methods in Engineering'
@@ -14,11 +14,11 @@ comment: true
 category: journal
 
 tags: 
-  - Spatial Analytics
+  - spatial analytics
   - SCI
-  - Review
-  - Spatio-Semantic
-  - Interoperability
+  - review
+  - spatio-semantic
+  - interoperability
   - BIM
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Automating closed-loop structural safety management for bridge construction through multisource data integration"
 lang: zh
-ref: publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
+ref: publications/2019-01-11-closed-loop-safety-management-for-bridge-construction
 collection: publications
-permalink: /publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
+permalink: /publications/2019-01-11-closed-loop-safety-management-for-bridge-construction
 excerpt: '本研究提出一种面向桥梁施工的闭环式安全管理方法，实现了时变结构仿真、物联网监测与施工过程控制的集成，可根据监测数据与BIM模型动态生成整体结构或关键节点的有限元模型，用于分析'
 date: 2019-01-11
 venue: 'Advances in Engineering Software'
@@ -21,6 +21,7 @@ tags:
   - analysis
   - construction
   - bridge
+  - management
 ---
 
 

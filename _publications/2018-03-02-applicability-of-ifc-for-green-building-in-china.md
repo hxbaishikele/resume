@@ -1,9 +1,9 @@
 ---
 title: "面向我国绿色建筑评价的 IFC 适用性分析"
 lang: zh
-ref: publication/2018-03-02-applicability-of-ifc-for-green-building-in-china
+ref: publications/2018-03-02-applicability-of-ifc-for-green-building-in-china
 collection: publications
-permalink: /publication/2018-03-02-applicability-of-ifc-for-green-building-in-china
+permalink: /publications/2018-03-02-applicability-of-ifc-for-green-building-in-china
 excerpt: '本研究提取了我国绿色建筑评价的信息需求，并分析了IFC标准对我国绿色建筑评价的适用性，对有关标准编制、完善具有重要意义'
 date: 2018-03-02
 venue: '图学学报'

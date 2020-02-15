@@ -1,9 +1,9 @@
 ---
 title: "基于BIM的施工资源配置仿真模型自动生成及应用"
 lang: zh
-ref: publication/2016-04-25-simulation-model-generation-for-resource-allocation
+ref: publications/2016-04-25-simulation-model-generation-for-resource-allocation
 collection: publications
-permalink: /publication/2016-04-25-simulation-model-generation-for-resource-allocation
+permalink: /publications/2016-04-25-simulation-model-generation-for-resource-allocation
 excerpt: '本研究提出一种基于BIM的资源配置仿真模型自动生成方法，可大幅提升进度资源仿真优化效率'
 date: 2016-04-25
 venue: '施工技术'

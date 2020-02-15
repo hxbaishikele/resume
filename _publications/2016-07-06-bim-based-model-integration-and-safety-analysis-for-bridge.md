@@ -1,9 +1,9 @@
 ---
 title: "Towards BIM-based model integration and safety analysis for bridge construction"
 lang: zh
-ref: publication/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
+ref: publications/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
 collection: publications
-permalink: /publication/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
+permalink: /publications/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
 excerpt: '本研究提出一种基于BIM的桥梁结构分析模型集成与施工安全分析方法。'
 date: 2016-07-06
 venue: '16th International Conference on Computing in Civil and Building Engineering'

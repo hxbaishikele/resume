@@ -1,9 +1,9 @@
 ---
 title: "A multi-server information-sharing environment for cross-party collaboration on a private cloud"
 lang: en
-ref: publication/2017-06-12-cross-party-collaboration-on-private-cloud
+ref: publications/2017-06-12-cross-party-collaboration-on-private-cloud
 collection: publications
-permalink: /en/publication/2017-06-12-cross-party-collaboration-on-private-cloud
+permalink: /en/publications/2017-06-12-cross-party-collaboration-on-private-cloud
 excerpt: 'This paper proposes a multi-server environment for cross-party collaboration with special concern on data ownership and privacy.'
 date: 2017-06-12
 venue: 'Automation in Construction'

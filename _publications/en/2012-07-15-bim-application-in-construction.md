@@ -1,9 +1,9 @@
 ---
 title: "Application of BIM in Engineering Construction"
 lang: en
-ref: publication/2012-07-15-bim-application-in-construction
+ref: publications/2012-07-15-bim-application-in-construction
 collection: publications
-permalink: /en/publication/2012-07-15-bim-application-in-construction
+permalink: /en/publications/2012-07-15-bim-application-in-construction
 excerpt: 'This paper summarizes the technical framework, BIM systems and applications in construction'
 date: 2012-07-15
 venue: 'Construction Technology'

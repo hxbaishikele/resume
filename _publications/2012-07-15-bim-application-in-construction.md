@@ -1,9 +1,9 @@
 ---
 title: "BIM 在工程施工中的应用"
 lang: zh
-ref: publication/2012-07-15-bim-application-in-construction
+ref: publications/2012-07-15-bim-application-in-construction
 collection: publications
-permalink: /publication/2012-07-15-bim-application-in-construction
+permalink: /publications/2012-07-15-bim-application-in-construction
 excerpt: '本文总结了清华大学工程施工 BIM 应用技术架构、实施方案的研究以及平台研发、应用情况'
 date: 2012-07-15
 venue: '施工技术'

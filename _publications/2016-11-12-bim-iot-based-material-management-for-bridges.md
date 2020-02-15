@@ -1,9 +1,9 @@
 ---
 title: "基于 BIM 与物联网的钢构桥梁跨平台物料管理方法研究"
 lang: zh
-ref: publication/2016-11-12-bim-iot-based-material-management-for-bridges
+ref: publications/2016-11-12-bim-iot-based-material-management-for-bridges
 collection: publications
-permalink: /publication/2016-11-12-bim-iot-based-material-management-for-bridges
+permalink: /publications/2016-11-12-bim-iot-based-material-management-for-bridges
 excerpt: '本文针对桥梁钢构件生产，提出一种基于 BIM 和物联网的跨平台物料追踪、管理方法'
 date: 2016-11-12
 venue: '第二届全国 BIM 学术会议'

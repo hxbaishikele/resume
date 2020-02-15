@@ -1,9 +1,9 @@
 ---
 title: "Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects"
 lang: zh
-ref: publication/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
+ref: publications/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
 collection: publications
-permalink: /publication/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
+permalink: /publications/2019-09-12-workpackage-based-scheduling-resource-modeling-optimization
 excerpt: '本研究提出一种基于工作包的进度、资源信息模型及仿真优化模型自动生成求解方法，可满足多种进度资源优化需求，并可用于末位进度计划系统。'
 date: 2019-09-12
 venue: 'Automation in Construction'

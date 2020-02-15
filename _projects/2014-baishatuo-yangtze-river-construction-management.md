@@ -1,10 +1,10 @@
 ---
 title: "2014.8-2015.12：白沙沱长江特大桥工程施工BIM应用系统"
 lang: zh
-ref: project/2014-baishatuo-yangtze-river-construction-management
+ref: projects/2014-baishatuo-yangtze-river-construction-management
 collection: projects
 type: "企业合作"
-permalink: /project/2014-baishatuo-yangtze-river-construction-management
+permalink: /projects/2014-baishatuo-yangtze-river-construction-management
 venue: "中铁大桥局"
 date: 2014-08-01
 location: "中国重庆"

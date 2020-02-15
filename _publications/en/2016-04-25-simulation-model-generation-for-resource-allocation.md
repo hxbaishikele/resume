@@ -1,9 +1,9 @@
 ---
 title: "Simulation Model Generation and Application Based on BIM for Ｒesource Allocation"
 lang: en
-ref: publication/2016-04-25-simulation-model-generation-for-resource-allocation
+ref: publications/2016-04-25-simulation-model-generation-for-resource-allocation
 collection: publications
-permalink: /en/publication/2016-04-25-simulation-model-generation-for-resource-allocation
+permalink: /en/publications/2016-04-25-simulation-model-generation-for-resource-allocation
 excerpt: 'This paper proposes a method for automatic generation of DES model for resource allocation based on BIM'
 date: 2016-04-25
 venue: 'Construction Technology'

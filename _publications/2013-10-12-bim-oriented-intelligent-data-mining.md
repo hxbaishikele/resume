@@ -1,9 +1,9 @@
 ---
 title: "BIM oriented intelligent data mining and representation"
 lang: zh
-ref: publication/2013-10-12-bim-oriented-intelligent-data-mining
+ref: publications/2013-10-12-bim-oriented-intelligent-data-mining
 collection: publications
-permalink: /publication/2013-10-12-bim-oriented-intelligent-data-mining
+permalink: /publications/2013-10-12-bim-oriented-intelligent-data-mining
 excerpt: '本研究提出一种面向非专业人士的BIM数据快速查询与可视化方法。'
 date: 2013-10-12
 venue: '30th CIB W78 International Conference on Information technology for Construction'
@@ -19,6 +19,7 @@ tags:
   - retrieval
   - IFC
   - IFD
+  - data mining
 ---
 
 

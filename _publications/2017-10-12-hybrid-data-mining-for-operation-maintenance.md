@@ -1,9 +1,9 @@
 ---
 title: "A hybrid data mining approach on BIM-based building operation and maintenance"
 lang: zh
-ref: publication/2017-10-12-hybrid-data-mining-for-operation-maintenance
+ref: publications/2017-10-12-hybrid-data-mining-for-operation-maintenance
 collection: publications
-permalink: /publication/2017-10-12-hybrid-data-mining-for-operation-maintenance
+permalink: /publications/2017-10-12-hybrid-data-mining-for-operation-maintenance
 excerpt: '本研究提出一种基于BIM的混合式数据挖掘方法，用于提升建筑运维的效率'
 date: 2017-10-12
 venue: 'Building and Environment'
@@ -18,6 +18,7 @@ tags:
   - SCI
   - maintenance
   - operation
+  - BIM
 ---
 
 

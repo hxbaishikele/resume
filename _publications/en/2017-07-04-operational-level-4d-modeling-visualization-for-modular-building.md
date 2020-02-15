@@ -1,9 +1,9 @@
 ---
 title: "Operation-level 4D Modeling and Visualization for Modular Building based on Standard Activity Library"
 lang: en
-ref: publication/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
+ref: publications/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
 collection: publications
-permalink: /en/publication/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
+permalink: /en/publications/2017-07-04-operational-level-4d-modeling-visualization-for-modular-building
 excerpt: 'This paper presents a operational-level 4D modeling and visualization method for modular construction based on standard activity library.'
 date: 2017-07-04
 venue: '2017 Lean & Computing in Construction Congress (LC3)'
@@ -18,7 +18,7 @@ tags:
   - CIB W78
   - standard library
   - visualization
-  - modular
+  - modular building
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "Present and Future of Integrated Applications of BIM, Cloud Computing, Big Data and Internet of Things"
 lang: en
-ref: publication/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
+ref: publications/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
 collection: publications
-permalink: /en/publication/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
+permalink: /en/publications/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
 excerpt: 'This paper reviews studies on the integration of BIM, IoT, Cloud Computing, and future trends and challenges are summarized'
 date: 2018-10-15
 venue: 'Journal of Graphics'

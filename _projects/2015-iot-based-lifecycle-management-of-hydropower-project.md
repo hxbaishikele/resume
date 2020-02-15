@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2015.12：基于物联网的水电工程全生命期管理理论与系统架构研究"
 lang: zh
-ref: project/2015-iot-based-lifecycle-management-of-hydropower-project
+ref: projects/2015-iot-based-lifecycle-management-of-hydropower-project
 collection: projects
 type: "企业合作"
-permalink: /project/2015-iot-based-lifecycle-management-of-hydropower-project
+permalink: /projects/2015-iot-based-lifecycle-management-of-hydropower-project
 venue: "成都勘测设计院"
 date: 2015-01-01
 location: "中国成都"

@@ -1,9 +1,9 @@
 ---
 title: "Architecture Design of Multi-level BIM Platform for Companies"
 lang: en
-ref: publication/2016-11-12-bim-platform-architecture-for-companies
+ref: publication/s2016-11-12-bim-platform-architecture-for-companies
 collection: publications
-permalink: /en/publication/2016-11-12-bim-platform-architecture-for-companies
+permalink: /en/publications/2016-11-12-bim-platform-architecture-for-companies
 excerpt: 'This paper proposes an platform architecture to share information for collaboration of multi-level organizations of a company'
 date: 2016-11-12
 venue: 'the 2nd National Conference on Building Information Modeling'

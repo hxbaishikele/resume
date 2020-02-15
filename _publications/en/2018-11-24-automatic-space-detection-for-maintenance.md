@@ -1,9 +1,9 @@
 ---
 title: "Space Detection and Reconstruction of BIM for Facility Management"
 lang: en
-ref: publication/2018-11-24-automatic-space-detection-for-maintenance
+ref: publications/2018-11-24-automatic-space-detection-for-maintenance
 collection: publications
-permalink: /en/publication/2018-11-24-automatic-space-detection-for-maintenance
+permalink: /en/publications/2018-11-24-automatic-space-detection-for-maintenance
 excerpt: 'This paper proposes a 3D-voxelization-based approach to detecting and reconstructing spaces from BIM models without space information for facility management'
 date: 2018-11-24
 venue: 'the 4th National Conference on Building Information Modeling'

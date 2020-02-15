@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2016.12：腾讯北京总部大楼工程施工BIM应用系统"
 lang: zh
-ref: project/2015-tecent-beijing-construction-management
+ref: projects/2015-tecent-beijing-construction-management
 collection: projects
 type: "企业合作"
-permalink: /project/2015-tecent-beijing-construction-management
+permalink: /projects/2015-tecent-beijing-construction-management
 venue: "中建三局一公司北方公司"
 date: 2015-01-01
 location: "中国北京"

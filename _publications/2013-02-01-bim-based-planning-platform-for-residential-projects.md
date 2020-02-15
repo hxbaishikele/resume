@@ -1,9 +1,9 @@
 ---
 title: "基于 BIM 的住宅项目策划系统研究与开发"
 lang: zh
-ref: publication/2013-02-01-bim-based-planning-platform-for-residential-projects
+ref: publications/2013-02-01-bim-based-planning-platform-for-residential-projects
 collection: publications
-permalink: /publication/2013-02-01-bim-based-planning-platform-for-residential-projects
+permalink: /publications/2013-02-01-bim-based-planning-platform-for-residential-projects
 excerpt: '本文提出 BIM 和 4D 技术相结合的住宅方案策划与分析评价方法'
 date: 2013-02-01
 venue: '土木建筑工程信息技术'

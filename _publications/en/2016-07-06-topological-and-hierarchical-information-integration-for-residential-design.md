@@ -1,9 +1,9 @@
 ---
 title: "A Topological and Hierarchical Information Integration Approach for Standard-unit-based Residential Planning"
 lang: en
-ref: publication/2016-07-06-topological-and-hierarchical-information-integration-for-residential-design
+ref: publications/2016-07-06-topological-and-hierarchical-information-integration-for-residential-design
 collection: publications
-permalink: /en/publication/2016-07-06-topological-and-hierarchical-information-integration-for-residential-design
+permalink: /en/publications/2016-07-06-topological-and-hierarchical-information-integration-for-residential-design
 excerpt: 'This paper proposes an approach to the integration of topological and hierarchical data for residential design.'
 date: 2016-07-06
 venue: '16th International Conference on Computing in Civil and Building Engineering'

@@ -1,9 +1,9 @@
 ---
 title: "面向建筑运维的 BIM 模型功能空间识别"
 lang: zh
-ref: publication/2018-11-24-automatic-space-detection-for-maintenance
+ref: publications/2018-11-24-automatic-space-detection-for-maintenance
 collection: publications
-permalink: /publication/2018-11-24-automatic-space-detection-for-maintenance
+permalink: /publications/2018-11-24-automatic-space-detection-for-maintenance
 excerpt: '本研究提出一种基于体素生长的 BIM 模型功能空间自动识别与补全方法，对建筑运维具有重要价值'
 date: 2018-11-24
 venue: '第四届全国 BIM 学术会议'
@@ -18,6 +18,7 @@ tags:
   - BIM
   - space
   - voxelization
+  - relationship
 ---
 
 

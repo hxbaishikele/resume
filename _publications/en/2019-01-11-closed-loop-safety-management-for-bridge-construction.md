@@ -1,9 +1,9 @@
 ---
 title: "Automating closed-loop structural safety management for bridge construction through multisource data integration"
 lang: en
-ref: publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
+ref: publications/2019-01-11-closed-loop-safety-management-for-bridge-construction
 collection: publications
-permalink: /en/publication/2019-01-11-closed-loop-safety-management-for-bridge-construction
+permalink: /en/publications/2019-01-11-closed-loop-safety-management-for-bridge-construction
 excerpt: 'This paper proposes an integrated framework automates closed-loop management of structural safety during bridge construction.'
 date: 2019-01-11
 venue: 'Advances in Engineering Software'
@@ -21,6 +21,7 @@ tags:
   - analysis
   - construction
   - bridge
+  - management
 ---
 
 

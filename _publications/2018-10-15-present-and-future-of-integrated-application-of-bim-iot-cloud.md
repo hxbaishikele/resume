@@ -1,9 +1,9 @@
 ---
 title: "BIM 与云、大数据、物联网等技术的集成应用现状与未来"
 lang: zh
-ref: publication/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
+ref: publications/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
 collection: publications
-permalink: /publication/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
+permalink: /publications/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud
 excerpt: '本文综述了BIM、物联网、云等技术的集成应用现状与未来，指出未来仍需深入研究基础理论及多技术融合方法'
 date: 2018-10-15
 venue: '图学学报'

@@ -1,9 +1,9 @@
 ---
 title: "Towards BIM-based model integration and safety analysis for bridge construction"
 lang: en
-ref: publication/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
+ref: publications/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
 collection: publications
-permalink: /en/publication/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
+permalink: /en/publications/2016-07-06-bim-based-model-integration-and-safety-analysis-for-bridge
 excerpt: 'This research proposes an approach to integrating BIM with structural model for safety analysis during bridge constructiion.'
 date: 2016-07-06
 venue: '16th International Conference on Computing in Civil and Building Engineering'
@@ -18,7 +18,8 @@ tags:
   - ICCCBE
   - integration
   - analysis
-  - constructiion
+  - construction
+  - BIM
 ---
 
 

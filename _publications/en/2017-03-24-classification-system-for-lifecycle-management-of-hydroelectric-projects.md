@@ -1,9 +1,9 @@
 ---
 title: "Information Classification System for Lifecycle Management of Hydroelectric Projects"
 lang: en
-ref: publication/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
+ref: publications/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
 collection: publications
-permalink: /en/publication/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
+permalink: /en/publications/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
 excerpt: 'This research established an information classification system for lifecycle management of hydroelectric projects'
 date: 2017-03-24
 venue: ' Journal of Engineering Management'

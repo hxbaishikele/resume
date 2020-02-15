@@ -1,9 +1,9 @@
 ---
 title: "基于IFC的绿色性能分析数据转换与共享"
 lang: zh
-ref: publication/2016-05-17-ifc-based-data-conversion-for-building-performance
+ref: publications/2016-05-17-ifc-based-data-conversion-for-building-performance
 collection: publications
-permalink: /publication/2016-05-17-ifc-based-data-conversion-for-building-performance
+permalink: /publications/2016-05-17-ifc-based-data-conversion-for-building-performance
 excerpt: '本文针对绿色建筑性分析提出一种IFC与gbXML的转换方法，可降低充分建模成本、提高效率'
 date: 2016-05-17
 venue: '清华大学学报（自然科学版）'

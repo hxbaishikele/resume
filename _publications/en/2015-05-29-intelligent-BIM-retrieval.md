@@ -1,9 +1,9 @@
 ---
 title: "A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM"
 lang: en
-ref: publication/2015-05-29-intelligent-BIM-retrieval
+ref: publications/2015-05-29-intelligent-BIM-retrieval
 collection: publications
-permalink: /en/publication/2015-05-29-intelligent-BIM-retrieval
+permalink: /en/publications/2015-05-29-intelligent-BIM-retrieval
 excerpt: 'This paper proposes a NLP-based user query understanding, BIM data query and visualization method for non-experts.'
 date: 2015-05-29
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
@@ -19,6 +19,8 @@ tags:
   - IFD
   - IFC
   - retrieval
+  - BIM
+  - cloud
 ---
 
 

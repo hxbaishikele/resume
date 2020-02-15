@@ -266,6 +266,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -356,6 +357,12 @@ uiData:
   pubIn:
     zh: 发表于
     en: Published in
+  talkAt:
+    zh: 于
+    en: at
+  talkDate:
+    zh: 时间
+    en: Date
   citation:
     zh: 引用方式
     en: Recommended citation

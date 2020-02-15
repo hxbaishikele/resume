@@ -1,9 +1,9 @@
 ---
 title: "BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects"
 lang: zh
-ref: publication/2014-06-23-bim-based-plan-modeling-for-residential-projects
+ref: publications/2014-06-23-bim-based-plan-modeling-for-residential-projects
 collection: publications
-permalink: /publication/2014-06-23-bim-based-plan-modeling-for-residential-projects
+permalink: /publications/2014-06-23-bim-based-plan-modeling-for-residential-projects
 excerpt: '本研究提出一种基于标准户型BIM库的住宅项目快速方案策划方法。'
 date: 2014-06-23
 venue: 'Computing in Civil and Building Engineering'

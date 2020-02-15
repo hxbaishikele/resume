@@ -1,10 +1,10 @@
 ---
 title: "2014.8-2017.6：轨道交通BIM管理平台研究与开发"
 lang: zh
-ref: project/2014-guangzhou-metro-management-system
+ref: projects/2014-guangzhou-metro-management-system
 collection: projects
 type: "企业合作"
-permalink: /project/2014-guangzhou-metro-management-system
+permalink: /projects/2014-guangzhou-metro-management-system
 venue: "广州轨道交通建设监理有限公司"
 date: 2014-08-01
 location: "中国广州"

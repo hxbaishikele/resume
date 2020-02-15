@@ -1,9 +1,9 @@
 ---
 title: "基于 BIM 和日照分析的住宅策划方案楼栋布局优化技术研究"
 lang: zh
-ref: publication/2015-10-31-bim-based-layout-optimization-for-residential-projects
+ref: publications/2015-10-31-bim-based-layout-optimization-for-residential-projects
 collection: publications
-permalink: /publication/2015-10-31-bim-based-layout-optimization-for-residential-projects
+permalink: /publications/2015-10-31-bim-based-layout-optimization-for-residential-projects
 excerpt: '本文提出一种基于改进异常算法的住宅楼宇布局优化算法，可基于日照模拟自动优化楼宇布局，算法具有收敛快、效率高的特点'
 date: 2015-10-31
 venue: '第一届全国 BIM 学术会议'
@@ -15,7 +15,7 @@ category: conference
 
 tags: 
   - BIM
-  - sun light
+  - sunlight
   - optimization
   - residence
   - planning

@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2016.12：基于BIM的济南黄河公铁两用桥工程施工安全监测与4D动态管理系统"
 lang: zh
-ref: project/2015-shiji-yellow-river-construction-management
+ref: projects/2015-shiji-yellow-river-construction-management
 collection: projects
 type: "企业合作"
-permalink: /project/2015-shiji-yellow-river-construction-management
+permalink: /projects/2015-shiji-yellow-river-construction-management
 venue: "中铁四局钢构公司"
 date: 2015-01-01
 location: "中国济南"

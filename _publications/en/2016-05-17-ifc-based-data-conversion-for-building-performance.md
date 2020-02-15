@@ -1,9 +1,9 @@
 ---
 title: "Data conversion and sharing for building performance analyses based on IFC"
 lang: en
-ref: publication/2016-05-17-ifc-based-data-conversion-for-building-performance
+ref: publications/2016-05-17-ifc-based-data-conversion-for-building-performance
 collection: publications
-permalink: /en/publication/2016-05-17-ifc-based-data-conversion-for-building-performance
+permalink: /en/publications/2016-05-17-ifc-based-data-conversion-for-building-performance
 excerpt: 'This paper proposes an algorithm converting IFC to gbXML for building performance analyses'
 date: 2016-05-17
 venue: 'Journal of Tsinghua University (Science & Technology)'

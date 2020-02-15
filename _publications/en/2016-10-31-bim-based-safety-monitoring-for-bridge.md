@@ -1,9 +1,9 @@
 ---
 title: "A BIM-based Safety Monitoring and Analysis System for a High-speed Railway Bridge"
 lang: en
-ref: publication/2016-10-31-bim-based-safety-monitoring-for-bridge
+ref: publications/2016-10-31-bim-based-safety-monitoring-for-bridge
 collection: publications
-permalink: /en/publication/2016-10-31-bim-based-safety-monitoring-for-bridge
+permalink: /en/publications/2016-10-31-bim-based-safety-monitoring-for-bridge
 excerpt: 'This paper proposes a BIM-based safety monitoring and structural analysis system for bridges.'
 date: 2016-10-31
 venue: '33rd CIB W78 International Conference on Information technology for Construction'

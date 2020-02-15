@@ -1,9 +1,9 @@
 ---
 title: "企业 BIM 平台架构研究与设计"
 lang: zh
-ref: publication/2016-11-12-bim-platform-architecture-for-companies
+ref: publications/2016-11-12-bim-platform-architecture-for-companies
 collection: publications
-permalink: /publication/2016-11-12-bim-platform-architecture-for-companies
+permalink: /publications/2016-11-12-bim-platform-architecture-for-companies
 excerpt: '本研究针对企业多级多项目协同、管理需求，提出企业级 BIM 平台的架构及其实现方法'
 date: 2016-11-12
 venue: '第二届全国 BIM 学术会议'

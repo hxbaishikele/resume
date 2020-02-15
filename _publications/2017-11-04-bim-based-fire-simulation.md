@@ -1,9 +1,9 @@
 ---
 title: "基于 BIM 的火灾仿真模拟研究"
 lang: zh
-ref: publication/2017-11-04-bim-based-fire-simulation
+ref: publications/2017-11-04-bim-based-fire-simulation
 collection: publications
-permalink: /publication/2017-11-04-bim-based-fire-simulation
+permalink: /publications/2017-11-04-bim-based-fire-simulation
 excerpt: '本研究提出基于 BIM 的火灾信息扩展及仿真方法'
 date: 2017-11-04
 venue: '第三届全国 BIM 学术会议'

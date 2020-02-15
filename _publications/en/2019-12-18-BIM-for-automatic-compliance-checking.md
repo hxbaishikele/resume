@@ -1,9 +1,9 @@
 ---
 title: "Automatic compliance checking in building and construction area"
 lang: en
-ref: publication/2019-12-18-BIM-for-automatic-compliance-checking
+ref: publications/2019-12-18-BIM-for-automatic-compliance-checking
 collection: publications
-permalink: /en/publication/2019-12-18-BIM-for-automatic-compliance-checking
+permalink: /en/publications/2019-12-18-BIM-for-automatic-compliance-checking
 excerpt: 'This paper reviews state-of-the-art of BIM-based compliance checking, and provides suggestions for future research'
 date: 2019-12-18
 venue: 'Journal of Tsinghua University (Science & Technology)'

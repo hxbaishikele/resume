@@ -1,10 +1,10 @@
 ---
 title: "2012.8-2014.12：英特宜家购物中心大兴项目二期工程BIM应用系统"
 lang: zh
-ref: project/2012-ikea-construction-management
+ref: projects/2012-ikea-construction-management
 collection: projects
 type: "企业合作"
-permalink: /project/2012-ikea-construction-management
+permalink: /projects/2012-ikea-construction-management
 venue: "北京城建集团"
 date: 2012-08-01
 location: "中国北京"

@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2016.12: BIM-based Safety Monitoring and 4D Management System for Construction of Shi-ji Yellow River"
 lang: en
-ref: project/2015-shiji-yellow-river-construction-management
+ref: projects/2015-shiji-yellow-river-construction-management
 collection: projects
 type: "Company Sponsored"
-permalink: /en/project/2015-shiji-yellow-river-construction-management
+permalink: /en/projects/2015-shiji-yellow-river-construction-management
 venue: "Steel Structure Construction Co., Ltd. of China Tiesiju Civil Engineering Group"
 date: 2015-01-01
 location: "Jinan, China"

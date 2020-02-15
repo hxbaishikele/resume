@@ -1,9 +1,9 @@
 ---
 title: "Monitoring Framework for Utility Tunnels based on BIM and IoT Technology"
 lang: zh
-ref: publication/2018-06-07-bim-and-iot-based-monitoring-framework-for-utility-tunnels
+ref: publications/2018-06-07-bim-and-iot-based-monitoring-framework-for-utility-tunnels
 collection: publications
-permalink: /publication/2018-06-07-bim-and-iot-based-monitoring-framework-for-utility-tunnels
+permalink: /publications/2018-06-07-bim-and-iot-based-monitoring-framework-for-utility-tunnels
 excerpt: '本研究提出一种基于BIM和物联网的地下管廊监测框架。'
 date: 2018-06-07
 venue: '17th International Conference on Computing in Civil and Building Engineering'
@@ -18,7 +18,7 @@ tags:
   - ICCCBE
   - monitoring
   - maintenance
-  - utility tunnels
+  - utility tunnel
 ---
 
 

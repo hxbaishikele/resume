@@ -1,9 +1,9 @@
 ---
 title: "基于 4D-BIM 的施工进度-资源均衡模型自动构建与应用"
 lang: zh
-ref: publication/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
+ref: publications/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
 collection: publications
-permalink: /publication/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
+permalink: /publications/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
 excerpt: '本文提出基于 4D-BIM 的进度-资源均衡模型构建、仿真及应用方法，可减少重复建模、提升工作效率'
 date: 2014-12-01
 venue: '土木建筑工程信息技术'

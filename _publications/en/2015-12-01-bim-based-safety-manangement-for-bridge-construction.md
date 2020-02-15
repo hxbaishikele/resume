@@ -1,9 +1,9 @@
 ---
 title: "BIM-based Safety Management for the Construction of Shi-ji Yellow River Bridge"
 lang: en
-ref: publication/2015-12-01-bim-based-safety-manangement-for-bridge-construction
+ref: publications/2015-12-01-bim-based-safety-manangement-for-bridge-construction
 collection: publications
-permalink: /en/publication/2015-12-01-bim-based-safety-manangement-for-bridge-construction
+permalink: /en/publications/2015-12-01-bim-based-safety-manangement-for-bridge-construction
 excerpt: 'This paper proposes a BIM-based safety analysis, monitoring and management approach for bridge construction'
 date: 2015-12-01
 venue: 'Railway Technical Innovation'
@@ -19,6 +19,7 @@ tags:
   - construction
   - safety
   - monitoring
+  - management
 ---
 
 

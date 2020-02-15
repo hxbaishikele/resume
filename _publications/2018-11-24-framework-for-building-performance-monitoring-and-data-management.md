@@ -1,9 +1,9 @@
 ---
 title: "建筑能耗监测大数据存储与服务框架研究"
 lang: zh
-ref: publication/2018-11-24-framework-for-building-performance-monitoring-and-data-management
+ref: publications/2018-11-24-framework-for-building-performance-monitoring-and-data-management
 collection: publications
-permalink: /publication/2018-11-24-framework-for-building-performance-monitoring-and-data-management
+permalink: /publications/2018-11-24-framework-for-building-performance-monitoring-and-data-management
 excerpt: '本研究提出面向建筑能耗监测管理的大数据存储与服务框架'
 date: 2018-11-24
 venue: '第四届全国 BIM 学术会议'
@@ -19,6 +19,7 @@ tags:
   - data management
   - service
   - framework
+  - cloud
 ---
 
 

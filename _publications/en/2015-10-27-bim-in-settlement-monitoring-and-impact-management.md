@@ -1,9 +1,9 @@
 ---
 title: "Leveraging BIM in settlement monitoring and impact management for subway excavation"
 lang: en
-ref: publication/2015-10-27-bim-in-settlement-monitoring-and-impact-management
+ref: publications/2015-10-27-bim-in-settlement-monitoring-and-impact-management
 collection: publications
-permalink: /en/publication/2015-10-27-bim-in-settlement-monitoring-and-impact-management
+permalink: /en/publications/2015-10-27-bim-in-settlement-monitoring-and-impact-management
 excerpt: 'This paper presents a BIM-based method for settlement monitoring and impact management.'
 date: 2015-10-27
 venue: '32nd CIB W78 International Conference on Information technology for Construction'
@@ -21,6 +21,7 @@ tags:
   - impact
   - safety
   - visualization
+  - management
 ---
 
 

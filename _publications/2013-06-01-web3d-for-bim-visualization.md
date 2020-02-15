@@ -1,9 +1,9 @@
 ---
 title: "面向 Web 的 BIM 三维浏览与信息管理"
 lang: zh
-ref: publication/2013-06-01-web3d-for-bim-visualization
+ref: publications/2013-06-01-web3d-for-bim-visualization
 collection: publications
-permalink: /publication/2013-06-01-web3d-for-bim-visualization
+permalink: /publications/2013-06-01-web3d-for-bim-visualization
 excerpt: '本文提出基于 WebGL 的网页端 BIM 模型三维显示与管理方法'
 date: 2013-06-01
 venue: '土木建筑工程信息技术'
@@ -17,7 +17,7 @@ tags:
   - BIM
   - 3D
   - visualization
-  - Web
+  - web
   - WebGL
   - threejs
 ---

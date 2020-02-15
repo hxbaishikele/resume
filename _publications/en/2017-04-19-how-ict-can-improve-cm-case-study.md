@@ -1,9 +1,9 @@
 ---
 title: "How Information Technology Can Improve Construction Management for General Contractor: A Case Study"
 lang: en
-ref: publication/2017-04-19-how-ict-can-improve-cm-case-study
+ref: publications/2017-04-19-how-ict-can-improve-cm-case-study
 collection: publications
-permalink: /en/publication/2017-04-19-how-ict-can-improve-cm-case-study
+permalink: /en/publications/2017-04-19-how-ict-can-improve-cm-case-study
 excerpt: 'This paper discusses how information technologies can improve construction management.'
 date: 2017-04-19
 venue: '3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering'

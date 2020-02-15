@@ -1,10 +1,10 @@
 ---
 title: "2012.8-2014.12: BIM Application in Construction of Ikea Shopping Center II in Daxing, Beijing"
 lang: en
-ref: project/2012-ikea-construction-management
+ref: projects/2012-ikea-construction-management
 collection: projects
 type: "Company Sponsored"
-permalink: /en/project/2012-ikea-construction-management
+permalink: /en/projects/2012-ikea-construction-management
 venue: "Beijing Urban Construction Group Co., Ltd."
 date: 2012-08-01
 location: "Beijing, China"

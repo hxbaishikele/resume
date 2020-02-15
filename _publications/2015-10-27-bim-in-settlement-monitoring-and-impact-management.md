@@ -1,9 +1,9 @@
 ---
 title: "Leveraging BIM in settlement monitoring and impact management for subway excavation"
 lang: zh
-ref: publication/2015-10-27-bim-in-settlement-monitoring-and-impact-management
+ref: publications/2015-10-27-bim-in-settlement-monitoring-and-impact-management
 collection: publications
-permalink: /publication/2015-10-27-bim-in-settlement-monitoring-and-impact-management
+permalink: /publications/2015-10-27-bim-in-settlement-monitoring-and-impact-management
 excerpt: '本研究提出一种基于BIM的地下工程沉降监测与影响管理方法。'
 date: 2015-10-27
 venue: '32nd CIB W78 International Conference on Information technology for Construction'

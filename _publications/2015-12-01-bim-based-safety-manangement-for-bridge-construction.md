@@ -1,9 +1,9 @@
 ---
 title: "BIM 技术在石济黄河桥施工安全管理中的应用"
 lang: zh
-ref: publication/2015-12-01-bim-based-safety-manangement-for-bridge-construction
+ref: publications/2015-12-01-bim-based-safety-manangement-for-bridge-construction
 collection: publications
-permalink: /publication/2015-12-01-bim-based-safety-manangement-for-bridge-construction
+permalink: /publications/2015-12-01-bim-based-safety-manangement-for-bridge-construction
 excerpt: '本文研究了就 BIM 的桥梁施工安全分析、监控及风险可视化方法'
 date: 2015-12-01
 venue: '铁路技术创新'
@@ -19,6 +19,7 @@ tags:
   - construction
   - safety
   - monitoring
+  - management
 ---
 
 

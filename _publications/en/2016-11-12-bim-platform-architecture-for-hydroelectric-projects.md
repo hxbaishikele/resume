@@ -1,9 +1,9 @@
 ---
 title: "Architecture of BIM-based Lifecycle Management Platform for Hydroelectric Projects"
 lang: en
-ref: publication/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
+ref: publications/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
 collection: publications
-permalink: /en/publication/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
+permalink: /en/publications/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
 excerpt: 'This paper establishes an architecture for lifecycle management of hydroelectric projects by integrating BIM, Cloud Computing, and IoT'
 date: 2016-11-12
 venue: 'the 2nd National Conference on Building Information Modeling'

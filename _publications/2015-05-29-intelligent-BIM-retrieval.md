@@ -1,9 +1,9 @@
 ---
 title: "A Natural‐Language‐Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM"
 lang: zh
-ref: publication/2015-05-29-intelligent-BIM-retrieval
+ref: publications/2015-05-29-intelligent-BIM-retrieval
 collection: publications
-permalink: /publication/2015-05-29-intelligent-BIM-retrieval
+permalink: /publications/2015-05-29-intelligent-BIM-retrieval
 excerpt: '本研究面向非专业人士，提出一种基于自然语言的用户输入理解、BIM数据查询与可视化方法。'
 date: 2015-05-29
 venue: 'Computer‐Aided Civil and Infrastructure Engineering'
@@ -19,6 +19,7 @@ tags:
   - IFC
   - IFD
   - retrieval
+  - cloud
 ---
 
 

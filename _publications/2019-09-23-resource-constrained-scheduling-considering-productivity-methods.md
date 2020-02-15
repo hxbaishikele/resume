@@ -1,9 +1,9 @@
 ---
 title: "考虑生产效率与工艺的资源受限项目调度问题"
 lang: zh
-ref: publication/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
+ref: publications/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
 collection: publications
-permalink: /publication/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
+permalink: /publications/2019-09-23-resource-constrained-scheduling-considering-productivity-methods
 excerpt: '本文提出一种考虑生产效率与不同施工工艺的资源首先施工进度优化调度方法'
 date: 2019-09-23
 venue: '清华大学学报（自然科学版）'

@@ -1,10 +1,10 @@
 ---
 title: "2015.6-2017.12：大型建筑工程智慧建造与运维关键技术研究与应用示范"
 lang: zh
-ref: project/2015-BIM-based-lifecycle-management-of-large-scale-buildings
+ref: projects/2015-BIM-based-lifecycle-management-of-large-scale-buildings
 collection: projects
 type: "北京市科技计划课题"
-permalink: /project/2015-BIM-based-lifecycle-management-of-large-scale-buildings
+permalink: /projects/2015-BIM-based-lifecycle-management-of-large-scale-buildings
 venue: "北京市科委"
 date: 2015-06-01
 location: "中国北京"
@@ -14,7 +14,7 @@ sponsor: government
 category: project
 tags: 
   - BIM
-  - life-cycle
+  - lifecycle
   - building
   - management
   - integration

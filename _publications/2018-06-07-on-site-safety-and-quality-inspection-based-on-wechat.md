@@ -1,9 +1,9 @@
 ---
 title: "Application Framework for On-Site Safety and Quality Inspection based on WeChat"
 lang: zh
-ref: publication/2018-06-07-on-site-safety-and-quality-inspection-based-on-wechat
+ref: publications/2018-06-07-on-site-safety-and-quality-inspection-based-on-wechat
 collection: publications
-permalink: /publication/2018-06-07-on-site-safety-and-quality-inspection-based-on-wechat
+permalink: /publications/2018-06-07-on-site-safety-and-quality-inspection-based-on-wechat
 excerpt: '本研究提出一种基于微信的施工现场质量、安全检查方法。'
 date: 2018-06-07
 venue: '17th International Conference on Computing in Civil and Building Engineering'

@@ -1,10 +1,10 @@
 ---
 title: "2014.8-2015.12：BIM Application in the Construction of Baishatuo Yangtze River Bridge"
 lang: en
-ref: project/2014-baishatuo-yangtze-river-construction-management
+ref: projects/2014-baishatuo-yangtze-river-construction-management
 collection: projects
 type: "Company Sponsored"
-permalink: /en/project/2014-baishatuo-yangtze-river-construction-management
+permalink: /en/projects/2014-baishatuo-yangtze-river-construction-management
 venue: "China Railway Major Bridge Engineering Group Co., Ltd."
 date: 2014-08-01
 location: "Chongqing, China"

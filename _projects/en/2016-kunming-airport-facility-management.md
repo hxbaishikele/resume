@@ -1,10 +1,10 @@
 ---
 title: "2016.9-2017.12: Digital Platform for Facility Management of Kunming Airport"
 lang: en
-ref: project/2016-kunming-airport-facility-management
+ref: projects/2016-kunming-airport-facility-management
 collection: projects
 type: "Company Sponsored"
-permalink: /en/project/2016-kunming-airport-facility-management
+permalink: /en/projects/2016-kunming-airport-facility-management
 venue: "Kunming Changshui International Airport"
 date: 2016-09-01
 location: "Kunming, China"

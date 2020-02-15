@@ -1,9 +1,9 @@
 ---
 title: "BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects"
 lang: en
-ref: publication/2014-06-23-bim-based-plan-modeling-for-residential-projects
+ref: publications/2014-06-23-bim-based-plan-modeling-for-residential-projects
 collection: publications
-permalink: /en/publication/2014-06-23-bim-based-plan-modeling-for-residential-projects
+permalink: /en/publications/2014-06-23-bim-based-plan-modeling-for-residential-projects
 excerpt: 'This paper proposes an fast plan modeling system for residential design based standard BIM model library.'
 date: 2014-06-23
 venue: 'Computing in Civil and Building Engineering'

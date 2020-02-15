@@ -1,10 +1,10 @@
 ---
 title: "2015.1-2015.12: Theory and System Framework for IoT-based Lifecycle Management of Hydropower Projects"
 lang: en
-ref: project/2015-iot-based-lifecycle-management-of-hydropower-project
+ref: projects/2015-iot-based-lifecycle-management-of-hydropower-project
 collection: projects
 type: "Company Sponsored"
-permalink: /en/project/2015-iot-based-lifecycle-management-of-hydropower-project
+permalink: /en/projects/2015-iot-based-lifecycle-management-of-hydropower-project
 venue: "Chengdu Engineering Corporation Limited"
 date: 2015-01-01
 location: "Chengdu, China"

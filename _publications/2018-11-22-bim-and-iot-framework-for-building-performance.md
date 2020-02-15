@@ -1,9 +1,9 @@
 ---
 title: "BIM- and IoT-based monitoring framework for building performance management"
 lang: zh
-ref: publication/2018-11-22-bim-and-iot-framework-for-building-performance
+ref: publications/2018-11-22-bim-and-iot-framework-for-building-performance
 collection: publications
-permalink: /publication/2018-11-22-bim-and-iot-framework-for-building-performance
+permalink: /publications/2018-11-22-bim-and-iot-framework-for-building-performance
 excerpt: '本研究提出一种基于BIM和物联网的建筑能耗监测框架'
 date: 2018-11-22
 venue: 'Journal of Structural Integrity and Maintenance'

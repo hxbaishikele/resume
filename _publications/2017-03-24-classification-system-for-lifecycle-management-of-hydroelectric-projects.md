@@ -1,9 +1,9 @@
 ---
 title: "面向全生命期管理的水电工程信息分类编码研究"
 lang: zh
-ref: publication/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
+ref: publications/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
 collection: publications
-permalink: /publication/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
+permalink: /publications/2017-03-24-classification-system-for-lifecycle-management-of-hydroelectric-projects
 excerpt: '本文提出面向水电工程全生命期管理的分类编码标准及其扩展方法'
 date: 2017-03-24
 venue: '工程管理学报'

@@ -1,9 +1,9 @@
 ---
 title: "基于 BIM 的水电工程全生命期管理平台架构研究"
 lang: zh
-ref: publication/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
+ref: publications/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
 collection: publications
-permalink: /publication/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
+permalink: /publications/2016-11-12-bim-platform-architecture-for-hydroelectric-projects
 excerpt: '本文面向水电工程全生命期管理，提出融合 BIM、云计算与物联网的平台架构'
 date: 2016-11-12
 venue: '第二届全国 BIM 学术会议'

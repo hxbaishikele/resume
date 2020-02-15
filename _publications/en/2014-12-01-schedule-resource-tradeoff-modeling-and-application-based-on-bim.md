@@ -1,9 +1,9 @@
 ---
 title: "Schedule-resource Trade-off Modeling and Application based on 4D-BIM"
 lang: en
-ref: publication/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
+ref: publications/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
 collection: publications
-permalink: /en/publication/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
+permalink: /en/publications/2014-12-01-schedule-resource-tradeoff-modeling-and-application-based-on-bim
 excerpt: 'This research proposes an automatic schedule-resource tradeoff modeling and simulation approach for construction, which could avoid rework and improve work efficiency'
 date: 2014-12-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'

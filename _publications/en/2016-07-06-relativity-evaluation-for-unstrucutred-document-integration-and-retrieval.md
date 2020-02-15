@@ -1,9 +1,9 @@
 ---
 title: "A Relativity Evaluation Approach to Unstructured Document Integration and Retrieval for Building Information Modeling"
 lang: en
-ref: publication/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval
+ref: publications/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval
 collection: publications
-permalink: /en/publication/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval
+permalink: /en/publications/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval
 excerpt: 'This research proposes a relativity evaluation method for linking unstructured documents with BIM facilitating the retrieval process.'
 date: 2016-07-06
 venue: '16th International Conference on Computing in Civil and Building Engineering'
@@ -19,6 +19,7 @@ tags:
   - relativity
   - unstructured document
   - retrieval
+  - text mining
 ---
 
 

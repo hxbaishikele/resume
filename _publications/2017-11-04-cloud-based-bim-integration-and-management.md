@@ -1,9 +1,9 @@
 ---
 title: "基于云计算的 BIM 集成管理机制研究"
 lang: zh
-ref: publication/2017-11-04-cloud-based-bim-integration-and-management
+ref: publications/2017-11-04-cloud-based-bim-integration-and-management
 collection: publications
-permalink: /publication/2017-11-04-cloud-based-bim-integration-and-management
+permalink: /publications/2017-11-04-cloud-based-bim-integration-and-management
 excerpt: '本研究提出基于云计算的 BIM 数据集成与管理方法，解决数据分布式存储、所有权控制及信息共享难题'
 date: 2017-11-04
 venue: '第三届全国 BIM 学术会议'
