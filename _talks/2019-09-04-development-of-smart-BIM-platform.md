@@ -8,7 +8,7 @@ type: "大会报告"
 excerpt: ''
 venue: "信息技术在电力工程中的应用交流会"
 date: 2019-09-04
-location: "海南海口, 中国"
+location: "海南省海口市, 中国"
 
 comment: true
 ---

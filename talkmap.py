@@ -11,12 +11,13 @@
 #
 # Requires: glob, getorg, geopy
 
-import glob
+#import glob
 import getorg
 from geopy import Nominatim
+import os
 
-g = glob.glob("*.md")
-
+#g = glob.glob("*.md")
+g = [f for f in os.listdir('.') if os.path.isfile(os.path.join('.', f)) and f.endswith('.md')]
 
 geocoder = Nominatim()
 location_dict = {}

@@ -8,7 +8,7 @@ type: "大会报告"
 excerpt: ''
 venue: "清华-广联达BIM中心第五期BIM大讲堂"
 date: 2019-08-27
-location: "甘肃甘南, 中国"
+location: "甘肃省甘南藏族自治州, 中国"
 
 comment: true
 ---
