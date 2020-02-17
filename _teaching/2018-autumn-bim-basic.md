@@ -7,7 +7,7 @@ type: "本科生选修课"
 permalink: /teaching/2018-autumn-bim-basic
 venue: "清华大学土木系"
 date: 2018-09-01
-location: "中国北京"
+location: "北京, 中国"
 
 category: teaching
 tags: 

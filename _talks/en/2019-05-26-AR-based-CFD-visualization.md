@@ -11,6 +11,13 @@ date: 2019-10-18
 location: "Hubei, Wuhan, China"
 
 comment: true
+
+category: talks
+tags: 
+  - CFD
+  - AR
+  - visualization
+  - mobile
 ---
 
 I attended the first Conference on Computing and Simulation in Civil Engineering of China, and gave a talk on “AR-based CFD Visualization on Mobile Devices” in a seminar whose topic is about Nonlinear Engineering Simulation and Visualization based on VR and Big Data. In this talk, current problems of CFD visualization and limitations of mobile devices are discussed, and then an integrated solution based an a C/S framework is proposed. With introduction of mobile-friendly data format, data services, data cache methods, and interaction methods in AR environment, the proposed solution could improva the efficiency of AR-based CFD visualization on a mobile device dramatically.

@@ -7,7 +7,7 @@ type: "本科生专业基础课"
 permalink: /teaching/2019-spring-cad-drawing
 venue: "清华大学土木系"
 date: 2019-03-01
-location: "中国北京"
+location: "北京, 中国"
 
 category: teaching
 tags:
@@ -15,4 +15,4 @@ tags:
   - undergraduate
 ---
 
-国家精品课《工程计算机制图》教师，主要讲授：建筑施工图、结构施工图及上机辅导等内容
+国家精品课《工程计算机制图》教师，主要讲授：建筑施工图、结构施工图及上机辅导等内容，共有90名左右学生选课并完成课程。

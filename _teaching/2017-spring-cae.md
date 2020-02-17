@@ -7,7 +7,7 @@ type: "研究生选修课"
 permalink: /teaching/2017-spring-cae
 venue: "清华大学土木系"
 date: 2017-03-01
-location: "中国北京"
+location: "北京, 中国"
 
 category: teaching
 tags: 

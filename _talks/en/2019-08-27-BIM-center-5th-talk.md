@@ -11,6 +11,12 @@ date: 2019-08-27
 location: "Gannan, Gansu, China"
 
 comment: true
+
+category: talks
+tags: 
+  - BIM
+  - modular building
+  - platform
 ---
 
 On August 27, 2019, I was invited by the Gansu Province Institute of Civil Engineering and Architecture as well as the Tsinghua-Glodon BIM Center, to give a talk on "Recent development of BIM Platform for Modular Construction". More than 150 people attended the talk, and about 500 watched the live broadcast through 5G network. Recorded video of the talk can be found [here](https://h5.scimall.org.cn/video/detail?id=1106&from=timeline).
