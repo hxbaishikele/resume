@@ -7,7 +7,7 @@ permalink: /en/talks/2019-05-26-AR-based-CFD-visualization
 type: "Talk"
 excerpt: ''
 venue: "Seminar on Nonlinear Engineering Simulation and Visualization based on VR and Big Data"
-date: 2019-10-18
+date: 2019-05-26
 location: "Hubei, Wuhan, China"
 
 comment: true
@@ -24,7 +24,7 @@ I attended the first Conference on Computing and Simulation in Civil Engineering
 
 [Talk slides]({{site.baseurl}}/files/2019-05-26-AR-based-CFD-visualization-slides.pdf).
 
-Published journal paper can be found [here]({{site.baseurl}}/publications/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment).
+Published journal paper can be found [here]({{site.baseurl}}/en/publications/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment).
 
 
 ![Photo]({{ site.baseurl }}/images/2019-05-26-AR-based-CFD-visualization-photo.jpg "Photo")
