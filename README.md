@@ -35,6 +35,7 @@ See more info at https://academicpages.github.io/
 
 ## Tips
 1. Do not use `'` in front matter, it causes strange issues.
+2. Add new collections: a) add collection name and global config in _config.yml, b) add new collection in navigation.yml if needed, for multilingual support purpose, c) add collection name, permalink, etc. of each item in the collection, d) check layout, include template if needed.
 
 # Changelog -- bugfixes and enhancements
 

@@ -21,32 +21,32 @@ redirect_from:
 
 {% include base_path %}
 <h2>新闻</h2>
-{% assign news = site.news | where:"lang", page.lang %}
-{% assign news = news | slice: -2,2 %}
-<ul>{% for post in news reversed%}
+{% assign posts = site.posts | where:"lang", page.lang %}
+{% assign posts = posts | reverse %}
+<ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 <h2>近期论文</h2>
 {% assign publications = site.publications | where:"lang", page.lang %}
-{% assign publications = publications | slice: -4,4 %}
-<ul>{% for post in publications reversed%}
+{% assign publications = publications | reverse %}
+<ul>{% for post in publications limit:4 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 <h2>近期报告</h2>
 {% assign talks = site.talks | where:"lang", page.lang %}
-{% assign talks = talks | slice: -2,2 %}
-<ul>{% for post in talks reversed%}
+{% assign talks = talks | reverse %}
+<ul>{% for post in talks limit:2 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 <h2>近期项目</h2>
 {% assign projects = site.projects | where:"lang", page.lang %}
-{% assign projects = projects | slice: -2,2 %}
-<ul>{% for post in projects reversed%}
+{% assign projects = projects | reverse %}
+<ul>{% for post in projects limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 <h2>近期教学</h2>
 {% assign teaching = site.teaching | where:"lang", page.lang %}
-{% assign teaching = teaching | slice: -2,2 %}
-<ul>{% for post in teaching reversed%}
+{% assign teaching = teaching | reverse %}
+<ul>{% for post in teaching limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>

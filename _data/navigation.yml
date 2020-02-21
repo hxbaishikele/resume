@@ -18,11 +18,11 @@ main:
  # - title: "Honors"
  #   url: /en/honors/ 
         
- # - title: "Blog posts"
- #   url: /en/year-archive/
+  - title: "Posts"
+    url: /en/year-archive/
         
-  - title: "News"
-    url: /en/news/
+ # - title: "News"
+ #   url: /en/news/
     
   - title: "CV"
     url: /en/cv/
@@ -52,11 +52,11 @@ zh:
  # - title: "获奖"
  #   url: /honors/ 
         
- # - title: "日志"
- #   url: /year-archive/
+  - title: "日志"
+    url: /year-archive/
           
-  - title: "新闻"
-    url: /news/
+ # - title: "新闻"
+ #   url: /news/
     
   - title: "简历"
     url: /cv/
@@ -86,11 +86,11 @@ en:
  # - title: "Honors"
  #   url: /en/honors/ 
        
- # - title: "Blog Posts"
- #   url: /en/year-archive/
+  - title: "Posts"
+    url: /en/year-archive/
         
-  - title: "News"
-    url: /en/news/
+ # - title: "News"
+ #   url: /en/news/
     
   - title: "CV"
     url: /en/cv/
