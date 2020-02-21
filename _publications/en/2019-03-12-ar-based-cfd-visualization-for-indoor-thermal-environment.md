@@ -33,4 +33,6 @@ Augmented reality (AR) based visualization of computational fluid dynamics (CFD)
 
 [Source code and test data here](https://github.com/LinJiarui/ARvis-CFD/)
 
+related [talk 1]({{ site.baseurl }}/en/talks/2019-05-26-AR-based-CFD-visualization) and [talk 2]({{ site.baseurl }}/en/talks/2019-04-04-connecting-virtual-and-physical-world-for-aec-projects)
+
 Recommended citation: Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics&quot; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007

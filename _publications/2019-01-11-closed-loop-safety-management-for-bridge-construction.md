@@ -34,4 +34,7 @@ Structural safety during construction is vital to engineering success of large s
 
 [预印本下载地址]({{ site.baseurl }}/files/2019-01-11-closed-loop-safety-management-for-bridge-construction.pdf)
 
+有关[学术报告]({{ site.baseurl }}/talks/2019-04-04-connecting-virtual-and-physical-world-for-aec-projects)
+
+
 引用方式: Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integrationquot; <i>Advances in Engineering Software</i>. 128: 152-168. doi: 10.1016/j.advengsoft.2018.11.013

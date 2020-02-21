@@ -54,6 +54,9 @@
               
               {% assign posts=site.portfolio  | where:"ref", page.ref | sort: 'lang' %}
               {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+			  
+			  {% assign posts=site.news  | where:"ref", page.ref | sort: 'lang' %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
             </div>
           </div>
         </ul>

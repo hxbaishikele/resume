@@ -31,4 +31,6 @@ tags:
 
 [预印本下载地址]({{ site.baseurl }}/files/2018-03-06-bim-policies-in-china.pdf)
 
+有关[学术报告]({{ site.baseurl }}/talks/2019-10-18-policies-practice-trends-of-BIM)
+
 引用方式: 林佳瑞*, 张建平. (2018). &quot;我国 BIM 政策发展现状综述及其文本分析&quot; <i>施工技术</i>. 47(6): 73-78. doi: 10.7672/sgjs2018060073

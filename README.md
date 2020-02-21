@@ -24,7 +24,7 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-## To run locally based on WSL
+## To run locally based on WSL (JR Lin)
 
 1. Install Ubuntu
 2. Install jekyll, ref to: https://jekyllrb.com/docs/installation/windows/
@@ -32,6 +32,9 @@ See more info at https://academicpages.github.io/
 4. Clone the repository, and run `bundle install` or `bundle clean` if needed
 5. Run `bundle exec jekyll serve`
 6. Add `gem “faraday”, “< 1.0”` if needed
+
+## Tips
+1. Do not use `'` in front matter, it causes strange issues.
 
 # Changelog -- bugfixes and enhancements
 

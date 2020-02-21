@@ -27,4 +27,4 @@ tags:
 
 报告PPT下载[链接]({{site.baseurl}}/files/2019-04-04-connecting-virtual-and-physical-world-for-aec-projects-slides.pdf).
 
-有关论文详见[链接1]({{site.baseurl}}/en/publications/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment)和[链接2]({{site.baseurl}}/en/publications/2019-01-11-closed-loop-safety-management-for-bridge-construction).
+有关论文详见[链接1]({{site.baseurl}}/publications/2019-03-12-ar-based-cfd-visualization-for-indoor-thermal-environment)和[链接2]({{site.baseurl}}/publications/2019-01-11-closed-loop-safety-management-for-bridge-construction).

@@ -8,7 +8,7 @@ excerpt: 'This paper reviews state-of-the-art of BIM-based compliance checking, 
 date: 2019-12-18
 venue: 'Journal of Tsinghua University (Science & Technology)'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2020.25.013'
-citation: 'Lin, J.*, Guo J. (2020). &quot;Automatic compliance checking in building and construction area&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. xx(x): xxx-xxxx. doi: 10.16511/j.cnki.qhdxxb.2020.25.013'
+citation: 'Lin, J.*, and Guo J. (2020). &quot;Automatic compliance checking in building and construction area&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. xx(x): xxx-xxxx. doi: 10.16511/j.cnki.qhdxxb.2020.25.013'
 
 comment: true
 category: journal
