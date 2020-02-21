@@ -1,4 +1,8 @@
 {% include base_path %}
+{% assign lang = site.locale%}
+{% if post.lang %}
+{% assign lang = post.lang%}
+{% endif %}
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -34,7 +38,7 @@
       {% endif %}
     </h3>
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} {{ site.uiData.talkAt[page.lang] }} {{ post.venue }},  {{post.location}}</p>{% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} {{ site.data.ui-text[lang].talkAt }} {{ post.venue }},  {{post.location}}</p>{% endif %}
     </li>
   </article>
 </div>

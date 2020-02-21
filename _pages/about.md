@@ -20,7 +20,12 @@ redirect_from:
 * BIM时空-语义数据挖掘方法：综合利用人工智能、语义网、文本挖掘等技术，提出BIM户型相似度计算、质量安全检查文本挖掘、混合运维数据挖掘等系列算法，提升设计、施工与运维决策水平
 
 {% include base_path %}
-
+<h2>新闻</h2>
+{% assign news = site.news | where:"lang", page.lang %}
+{% assign news = news | slice: -2,2 %}
+<ul>{% for post in news reversed%}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 <h2>近期论文</h2>
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign publications = publications | slice: -4,4 %}

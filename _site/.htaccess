@@ -19,5 +19,5 @@ RewriteRule "^publication/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/publicatio
 
 RewriteRule "^en/(resume)$" "en/$1.html"
 RewriteRule "^(resume)$" "$1.html"
-RewriteRule "^en/(projects|teaching|publications|talks)/([-a-zA-Z0-9]{1,})$" "en/$1/$2.html"
-RewriteRule "^(projects|teaching|publications|talks)/([-a-zA-Z0-9]{1,})$" "$1/$2.html"
+RewriteRule "^en/(projects|teaching|publications|talks|news)/([-a-zA-Z0-9]{1,})$" "en/$1/$2.html"
+RewriteRule "^(projects|teaching|publications|talks|news)/([-a-zA-Z0-9]{1,})$" "$1/$2.html"

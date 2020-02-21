@@ -68,6 +68,9 @@ zh:
 #    url: /markdown/
 
 en:
+  - title: "Publications"
+    url: /en/publications/
+
   - title: "Projects"
     url: /en/projects/
      
@@ -77,9 +80,6 @@ en:
   - title: "Team"
     url: /en/team/
   
-  - title: "Publications"
-    url: /en/publications/
-
   - title: "Talks"
     url: /en/talks/    
 

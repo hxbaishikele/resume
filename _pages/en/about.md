@@ -22,6 +22,12 @@ Recently, he was granted by the national natural science foundation, national ke
 
 {% include base_path %}
 
+<h2>News</h2>
+{% assign news = site.news | where:"lang", page.lang %}
+{% assign news = news | slice: -2,2 %}
+<ul>{% for post in news reversed%}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 <h2>Recent Publications</h2>
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign publications = publications | slice: -4,4 %}

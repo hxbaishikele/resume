@@ -1,4 +1,52 @@
 # User interface text and labels
+# Chinese (default)
+# -----------------
+zh: &DEFAULT_ZH
+  page                       : "页面"
+  pagination_previous        : "上一页"
+  pagination_next            : "下一页"
+  breadcrumb_home_label      : "主页"
+  breadcrumb_separator       : "/"
+  toc_label                  : "在本页"
+  ext_link_label             : "Direct Link"
+  less_than                  : "小于"
+  minute_read                : "分钟"
+  share_on_label             : "分享"
+  meta_label                 :
+  tags_label                 : "标签:"
+  categories_label           : "分类:"
+  date_label                 : "发表于:"
+  comments_label             : "发表评论"
+  comments_title             : "评论列表"
+  more_label                 : "了解更多"
+  related_label              : "你可能喜欢"
+  follow_label               : "关注:"
+  feed_label                 : "Feed"
+  powered_by                 : "Powered by"
+  website_label              : "网站"
+  email_label                : "邮箱"
+  recent_posts               : "近期日志"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "你的邮箱地址不会被公开，要求的信息已标记出来"
+  comment_form_comment_label : "评论"
+  comment_form_md_info       : "支持 Markdown 语法"
+  comment_form_name_label    : "名称"
+  comment_form_email_label   : "邮箱地址"
+  comment_form_website_label : "个人网站 (可选)"
+  comment_btn_submit         : "提交评论"
+  comment_btn_submitted      : "提交成功"
+  comment_success_msg        : "感谢您提交评论！经审查后将在本站显示"
+  comment_error_msg          : "抱歉，提交失败，请确保所有必须的信息都已填写，然后再次尝试提交"
+  loading_label              : "加载中..."
+  pubIn                      : "发表于"
+  citation                   : "引用方式"
+  download                   : "下载地址"
+  talkDate                   : "日期"
+  talkAt                     : "于"
+  readMore                   : "阅读更多"
+  icp                        : "京ICP备20003931号"
+  langSwitch                 : "Language"
+  langName                   : "中文"
 
 # English (default)
 # -----------------
@@ -39,6 +87,16 @@ en: &DEFAULT_EN
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
+  pubIn                      : "Published in"
+  citation                   : "Recommended citation"
+  download                   : "download"
+  talkDate                   : "Date"
+  talkAt                     : "at"
+  readMore                   : "Read more"
+  icp                        : "Beijing ICP No. 20003931"
+  langSwitch                 : "语言"
+  langName                   : "English"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

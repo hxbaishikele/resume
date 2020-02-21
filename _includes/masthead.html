@@ -32,31 +32,31 @@
           {% endfor %}
           
           <div class="dropdown">
-            <div class="dropbtn">{{ site.langSwitch[lang] }}</div>
+            <div class="dropbtn">{{ site.data.ui-text[lang].langSwitch }}</div>
             <div class="dropdown-content">
               {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
               
               {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-              {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ site.langNames[page.lang] }}</a> {% endfor %}
+              {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ site.data.ui-text[page.lang].langName }}</a> {% endfor %}
               
               {% assign posts=site.publications  | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
               
               {% assign posts=site.projects  | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
               
               {% assign posts=site.teaching  | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
               
               {% assign posts=site.talks  | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
               
               {% assign posts=site.portfolio  | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
 			  
 			  {% assign posts=site.news  | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.langNames[post.lang] }}</a> {% endfor %}
+              {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ site.data.ui-text[post.lang].langName }}</a> {% endfor %}
             </div>
           </div>
         </ul>
