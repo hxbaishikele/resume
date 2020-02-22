@@ -33,9 +33,11 @@ See more info at https://academicpages.github.io/
 5. Run `bundle exec jekyll serve`
 6. Add `gem “faraday”, “< 1.0”` if needed
 
-## Tips
+## Tips (JR Lin)
 1. Do not use `'` in front matter, it causes strange issues.
 2. Add new collections: a) add collection name and global config in _config.yml, b) add new collection in navigation.yml if needed, for multilingual support purpose, c) add collection name, permalink, etc. of each item in the collection, d) check layout, include template if needed.
+3. Check https://mmistakes.github.io/minimal-mistakes/docs/helpers/ for tutorials
+4. always remember to add a white space after character `:` 
 
 # Changelog -- bugfixes and enhancements
 
