@@ -116,6 +116,9 @@
       {% if author.publons %}
         <li><a href="{{ author.publons }}"><i class="ai ai-publons-square ai-fw"></i> Publons</a></li>
       {% endif %}
+      {% if author.mendeley %}
+        <li><a href="{{ author.mendeley }}"><i class="ai ai-mendeley-square ai-fw"></i> Mendeley</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
