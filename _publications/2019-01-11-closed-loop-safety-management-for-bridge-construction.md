@@ -38,3 +38,13 @@ Structural safety during construction is vital to engineering success of large s
 
 
 引用方式: Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integrationquot; <i>Advances in Engineering Software</i>. 128: 152-168. doi: 10.1016/j.advengsoft.2018.11.013
+
+This research is supported by the National Key R&D Program of China (No. 2016YFC0702107), the National Natural Science Foundation of China (No. 51478249), the China Postdoctoral Science Foundation Grant (No. 2016M601038), the Young Elite Scientists Sponsorship Program by the China Association for Science and Technology (No. 2016QNRC001) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM).
+
+Accession Number: WOS:000465951900012
+
+ISSN: 0965-9978
+
+eISSN: 1873-5339
+
+IDS Number: HV4JF

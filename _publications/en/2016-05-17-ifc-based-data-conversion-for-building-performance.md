@@ -33,3 +33,11 @@ To eliminate effort needed in data conversion and sharing for building performan
 [download preprint here]({{ site.baseurl }}/files/2016-05-17-ifc-based-data-conversion-for-building-performance.pdf)
 
 Recommended citation: Lin, J., Zhang, J.* (2016). &quot;Data conversion and sharing for building performance analyses based on IFC&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 56(9): 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057 (in Chinese)
+
+Funding：National Key R&D Program of China, National Science Foundation of China, Tsinghua-Glodon Joint Research Center for BIM
+
+Accession Number:CSCD:5822107
+
+ISSN:1000-0054
+
+CODEN: QDXKE8

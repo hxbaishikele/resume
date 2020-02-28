@@ -35,3 +35,5 @@ Citation: He, T., Lin, J., Hu, Z., Zhang, J., Jia, W. and Su, J. (2014). &quot;B
 [ASCE出版版本下载](https://ascelibrary.org/doi/10.1061/9780784413616.061)
 
 引用方式: He, T., Lin, J., Hu, Z., Zhang, J., Jia, W. and Su, J. (2014). &quot;BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects&quot; <i>Computing in Civil and Building Engineering</i>. 61: 488-495.
+
+ISBN-13: 9780784413616

@@ -35,3 +35,5 @@ Detection of design changes is essential for collaboration and version managemen
 related [talk 1]({{ site.baseurl }}/en/talks/2019-05-18-classification-and-exemplary-models-of-design-changes) and [talk 2]({{ site.baseurl }}/en/talks/2019-05-23-classification-and-exemplary-models-of-design-changes)
 
 Recommended citation: 'Lin, J.R.*, Zhou, Y.C., Zhang, J.P., Hu, Z.Z. (2019). &quot;Classification and Exemplary BIM Models Development of Design Changes&quot; <i>2019 Proceedings of the 36th ISARC</i>. 122-127. Banff, Alberta, Canada. doi: 10.22260/ISARC2019/0017'
+
+This work was supported by the National Key R&D Program of China (No. 2018YFD1100900), the Beijing Natural Science Foundation (No. 8194067), the Beijing Municipal Science and Technology Project (No. Z181100005918006), the Young Elite Scientists Sponsorship Program by China Association for Science and Technology (No. QNRC2016001) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM).

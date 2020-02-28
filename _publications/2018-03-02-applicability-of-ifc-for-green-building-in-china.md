@@ -31,3 +31,9 @@ tags:
 [预印本下载地址]({{ site.baseurl }}/files/2018-03-02-applicability-of-ifc-for-green-building-in-china.pdf)
 
 引用方式: 林佳瑞*, 张建平. (2018). &quot;面向我国绿色建筑评价的Ifc适用性分析&quot; <i>图学学报</i>. 39(4): 765-770. doi: 10.11996/JG.j.2095-302X.2018040765
+
+Funding：国家重点研发计划项目; 第60批中国博士后科学基金项目; 中国科协青年人才托举工程项目
+
+Accession Number:CSCD:6316645
+
+ISSN:2095-302X

@@ -33,3 +33,9 @@ Recently, increasing attention has been paid to cloud computing, big data and in
 [download preprint here]({{ site.baseurl }}/files/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud.pdf)
 
 Recommended citation: Zhang, Y., Lin, J.*, Zhang, J. (2018). &quot;Present and Future of Integrated Applications of BIM, Cloud Computing, Big Data and Internet of Things&quot; <i>Journal of Graphics</i>. 39(5): 806-816. doi: 10.11996/JG.j.2095-302X.2018050806
+
+Funding：National Key R&D Program of China, Young Elite Scientists Sponsorship Program by China Association for Science and Technology, Tsinghua-Glodon Joint Research Center for BIM
+
+Accession Number:CSCD:6363978
+
+ISSN:2095-302X

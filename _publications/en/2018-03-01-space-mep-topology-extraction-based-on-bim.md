@@ -33,3 +33,11 @@ Topologies of space and Mechanical, Electrical and Plumbing (MEP) are crucial to
 [download preprint here]({{ site.baseurl }}/files/2018-03-01-space-mep-topology-extraction-based-on-bim.pdf)
 
 Recommended citation: Zhang, J., He, T., Lin, J.*, et al. (2018). &quot;Space and MEP topology extraction and application based on BIM&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 58(6): 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018 (in Chinese)
+
+Funding：National Key R&D Program of China, China Postdoctoral Science Foundation Grant, Young Elite Scientists Sponsorship Program by China Association for Science and Technology
+
+Accession Number:CSCD:6381173
+
+ISSN:1000-0054
+
+CODEN: QDXKE8

@@ -37,3 +37,13 @@ As an essential problem in construction management, the resource-constrained pro
 本论文入选Automation in Construction期刊下载排行榜，详见[链接]({{ site.baseurl }}/news/2020-02-20-our-paper-is-one-of-AIC-most-downloaded-papers)
 
 引用方式: Wang, H.W., Lin, J.R.*, and Zhang, J.P. (2020). &quot;Workpackage-based Information Modeling for Resource-Constrained Scheduling of Construction Projects&quot; <i>Automation in Construction</i>. 109: 102958. doi: 10.1016/j.autcon.2019.102958
+
+This work was funded by the National Key R&D Program of China (No. 2018YFD1100900), the National High-tech R&D Program (863 Program) of China (No. 2013AA041307). Dr. Lin is supported by the Beijing Natural Science Foundation (No. 8194067), the Natural Science Foundation of China (No. 51908323) and the Young Elite Scientists Sponsorship Program by China Association for Science and Technology (No. QNRC2016001).
+
+Accession Number: WOS:000501617300005
+
+ISSN: 0926-5805
+
+eISSN: 1872-7891
+
+IDS Number: JU3ZN

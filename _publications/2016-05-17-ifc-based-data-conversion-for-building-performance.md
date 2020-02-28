@@ -33,3 +33,11 @@ tags:
 [预印本下载地址]({{ site.baseurl }}/files/2016-05-17-ifc-based-data-conversion-for-building-performance.pdf)
 
 引用方式: 林佳瑞, 张建平* (2016). &quot;基于IFC的绿色性能分析数据转换与共享&quot; <i>清华大学学报（自然科学版）</i>. 56(9): 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057
+
+Funding：国家八六三高技术项目; 国家自然科学基金面上项目; 清华大学广联达BIM中心项目
+
+Accession Number:CSCD:5822107
+
+ISSN:1000-0054
+
+CODEN: QDXKE8

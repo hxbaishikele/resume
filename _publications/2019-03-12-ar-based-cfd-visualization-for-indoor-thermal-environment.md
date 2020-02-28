@@ -36,3 +36,13 @@ Augmented reality (AR) based visualization of computational fluid dynamics (CFD)
 有关[学术报告1]({{ site.baseurl }}/talks/2019-05-26-AR-based-CFD-visualization)和[学术报告2]({{ site.baseurl }}/talks/2019-04-04-connecting-virtual-and-physical-world-for-aec-projects)
 
 引用方式: Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics&quot; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007
+
+This work was funded by the National Key R&D Program of China (Grant No. 2017YFC0704200) as well as by the Excellence Initiative of the German Federal and State Governments, the Beijing Natural Science Foundation (No. 8194067), the Young Elite Scientists Sponsorship Program by China Association for Science and Technology (No. QNRC2016001) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM).
+
+Accession Number: WOS:000466828500003
+
+ISSN: 0926-5805
+
+eISSN: 1872-7891
+
+IDS Number: HW6VJ

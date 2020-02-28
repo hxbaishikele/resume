@@ -33,3 +33,13 @@ Interoperability remains the key problem in multi-discipline collaboration based
 [预印本下载地址]({{ site.baseurl }}/files/2017-06-12-cross-party-collaboration-on-private-cloud.pdf)
 
 引用方式: Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195. doi: 10.1016/j.autcon.2017.06.021
+
+This work was supported by the National Natural Science Foundation of China (No. 51278274, No. 51478249), the Beijing Municipal Science and Technology Project (No. Z151100002115054), and the Tsinghua-Glodon Joint Research Center for Building Information Model (RCBIM). The authors also thank Kincho H. Law (Stanford University) for his valuable comments and contributions.
+
+Accession Number: WOS:000405536700016
+
+ISSN: 0926-5805
+
+eISSN: 1872-7891
+
+IDS Number: FA6ES
