@@ -20,6 +20,7 @@ tags:
   - monitoring
   - cloud
   - NoSQL
+  - SCI
 ---
 
 
