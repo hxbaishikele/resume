@@ -110,9 +110,11 @@ Service and leadership
 * Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
 * Reviewer of _Journal of Management in Engineering_
 * Reviewer of _Engineering, Construction and Architectural Management_
+* Reviewer of _Mobile Information Systems_
+* Reviewer of _Canadian Journal of Civil Engineering_
 * Reviewer of _Journal of Structural Integrity and Maintenance_
 * Reviewer of _Frontiers of Engineering Management_
-* Reviewer of _Mobile Information Systems_
+* Reviewer of _Energy and Built Environment_
 * Reviewer of _Journal of Tsinghua University (Science & Technology)_
 * Reviewer of _China Civil Engineering Journal_
 * Reviewer of _Journal of Graphics_
