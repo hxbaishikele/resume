@@ -47,6 +47,8 @@ zh: &DEFAULT_ZH
   icp                        : "京ICP备20003931号"
   langSwitch                 : "Language"
   langName                   : "中文"
+  outer_link                 : "相关链接："
+  sitemap                    : "网站地图"
 
 # English (default)
 # -----------------
@@ -96,6 +98,8 @@ en: &DEFAULT_EN
   icp                        : "Beijing ICP No. 20003931"
   langSwitch                 : "语言"
   langName                   : "English"
+  outer_link                 : "Links: "
+  sitemap                    : "Sitemap"
 
 en-US:
   <<: *DEFAULT_EN

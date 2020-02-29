@@ -1,0 +1,21 @@
+university:
+  link: https://www.tsinghua.edu.cn
+  name:
+    zh: "清华大学"
+    en: "Tsinghua University"
+department:
+  link: http://www.civil.tsinghua.edu.cn/ce/index.html
+  name:
+    zh: "清华大学土木系"
+    en: "Department of Civil Engineering, Tsinghua University"
+
+friends:
+  - link: http://www.huzhenzhong.net
+    name:
+      zh: "清华胡振中个人网站"
+      en: "Zhenzhong Hu's Website"
+  - link: http://www.luxinzheng.net
+    name:
+      zh: "清华陆新征个人网站"
+      en: "Xinzhen Lu's Website"
+  

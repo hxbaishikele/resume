@@ -23,6 +23,24 @@
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[lang].feed_label | default: "Feed" }}</a></li>
   </ul>
+  
+    <ul class="social-icons">
+    {% if site.data.ui-text[lang].outer_link %}
+      <li><strong>{{ site.data.ui-text[lang].outer_link }}</strong></li>
+    {% endif %}
+    {% if site.data.outer-link.university %}
+      <li><a href="{{ site.data.outer-link.university.link }}"> {{ site.data.outer-link.university.name[lang] }}</a></li>
+    {% endif %}
+    {% if site.data.outer-link.department %}
+      <li><a href="{{ site.data.outer-link.department.link }}"> {{ site.data.outer-link.department.name[lang] }}</a></li>
+    {% endif %}    
+    
+    {% for friend in site.data.outer-link.friends %}
+      {% if friend.link %}
+        <li><a href="{{ friend.link }}"> {{ friend.name[lang] }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} All Rights Reserved. <a href="http://www.beian.miit.gov.cn">{{site.data.ui-text[lang].icp}}</a>. {{ site.data.ui-text[lang].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

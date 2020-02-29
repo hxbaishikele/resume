@@ -13,4 +13,4 @@ tags:
   - teaching
 ---
 
-本人本人荣获11届北京市高校青年教师教学基本功大赛工科A组三等奖，参赛课程为《工程计算机制图》，课程信息详见[链接]({{ site.baseurl }}/teaching/2019-spring-cad-drawing).
+本人荣获11届北京市高校青年教师教学基本功大赛工科A组三等奖，参赛课程为《工程计算机制图》，课程信息详见[链接]({{ site.baseurl }}/teaching/2019-spring-cad-drawing).
