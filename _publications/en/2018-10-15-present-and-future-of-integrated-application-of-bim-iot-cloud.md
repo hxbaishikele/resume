@@ -32,6 +32,8 @@ Recently, increasing attention has been paid to cloud computing, big data and in
 
 [download preprint here]({{ site.baseurl }}/files/2018-10-15-present-and-future-of-integrated-application-of-bim-iot-cloud.pdf)
 
+In January 2020, this paper was selected as the best paper of Journal of Graphics of the year 2018, see [here]({{ site.baseurl }}/en/posts/2020-03-03-our-paper-is-selected-as-best-paper-of-JoG) for detail. Meanwhile, the paper is also one of the CNKI's most downloaded papers of this journal, see [here]({{ site.baseurl }}/en/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers) for detail.
+
 Recommended citation: Zhang, Y., Lin, J.*, Zhang, J. (2018). &quot;Present and Future of Integrated Applications of BIM, Cloud Computing, Big Data and Internet of Things&quot; <i>Journal of Graphics</i>. 39(5): 806-816. doi: 10.11996/JG.j.2095-302X.2018050806
 
 Funding：National Key R&D Program of China, Young Elite Scientists Sponsorship Program by China Association for Science and Technology, Tsinghua-Glodon Joint Research Center for BIM

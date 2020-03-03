@@ -29,4 +29,6 @@ Based on the characteristics and the actual demand of construction management in
 
 [download preprint here]({{ site.baseurl }}/files/2012-07-15-bim-application-in-construction.pdf)
 
+This paper ranked No.1 among the CNKI's most downloaded and cited papers of this journal, see [here]({{ site.baseurl }}/en/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers) for detail.
+
 Recommended citation: Zhang, J.*, Li, D., Lin, J., Yan, G. (2012). &quot;Application of BIM in Engineering Construction&quot; <i>Construction Technology</i>. 41(16): 10-17. (in Chinese)

@@ -29,4 +29,6 @@ tags:
 
 [预印本下载地址]({{ site.baseurl }}/files/2012-07-15-bim-application-in-construction.pdf)
 
+本文位于本期刊CNKI下载及被引榜单第一位，详见[链接]({{ site.baseurl }}/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers)。
+
 引用方式: 张建平*, 李丁, 林佳瑞, 颜钢文. (2012). &quot;BIM在工程施工中的应用&quot; <i>施工技术</i>. 41(16): 10-17.

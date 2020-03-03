@@ -31,6 +31,8 @@ Taking recent published policies related to information technology and construct
 
 [download preprint here]({{ site.baseurl }}/files/2018-03-06-bim-policies-in-china.pdf)
 
-related [talk]({{ site.baseurl }}/en/talks/2019-10-18-policies-practice-trends-of-BIM)
+Related [talk]({{ site.baseurl }}/en/talks/2019-10-18-policies-practice-trends-of-BIM)
+
+This paper is one of the CNKI's most downloaded papers of this journal, see [here]({{ site.baseurl }}/en/posts/2020-03-03-some-our-papers-are-cnki-most-downloaded-papers) for detail.
 
 Recommended citation: Lin, J.*, Zhang, J. (2018). &quot;Review and Exploratory Text Mining of Building Information Modeling Policies in China&quot; <i>Construction Technology</i>. 47(6): 73-78. doi: 10.7672/sgjs2018060073 (in Chinese)
