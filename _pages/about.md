@@ -22,6 +22,7 @@ redirect_from:
 {% include base_path %}
 <h2>新闻</h2>
 {% assign posts = site.posts | where:"lang", page.lang %}
+{% assign posts = posts | sort: 'date' %}
 {% assign posts = posts | reverse %}
 <ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}

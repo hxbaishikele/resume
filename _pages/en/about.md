@@ -24,6 +24,7 @@ Recently, he was granted by the national natural science foundation, national ke
 
 <h2>News</h2>
 {% assign posts = site.posts | where:"lang", page.lang %}
+{% assign posts = posts | sort: 'date' %}
 {% assign posts = posts | reverse %}
 <ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}
