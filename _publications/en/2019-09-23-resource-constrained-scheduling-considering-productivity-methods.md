@@ -8,7 +8,7 @@ excerpt: 'This research proposes a novel method that considers productivity and 
 date: 2019-09-23
 venue: 'Journal of Tsinghua University (Science & Technology)'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035'
-citation: 'Wang, H., Lin, J.*, and Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. xx(x): xxx-xxxx. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
+citation: 'Wang, H., Lin, J.*, and Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
 
 comment: true
 category: journal
@@ -32,4 +32,4 @@ The multimode resource-constrained project scheduling problem (MRCPSP) is an ess
 
 [download preprint here]({{ site.baseurl }}/files/2019-09-23-resource-constrained-scheduling-considering-productivity-methods.pdf)
 
-Recommended citation: Wang, H., Lin, J.*, Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. xx(x): xxx-xxxx. doi: 10.16511/j.cnki.qhdxxb.2019.21.035
+Recommended citation: Wang, H., Lin, J.*, Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035
