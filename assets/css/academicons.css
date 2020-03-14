@@ -357,4 +357,9 @@
 
 .dropdown:hover .dropdown-content {display: block;}
 
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
+}
 /* .dropdown:hover .dropbtn {background-color: #3e8e41;} */

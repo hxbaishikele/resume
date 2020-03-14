@@ -8,6 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
+Professors
+====
+
+| No. | Name  | Research Interests | Info |
+| --- | ------ | -------- | ---- |
+| 1 | [Prof. Zhen-Zhong Hu](http://www.huzhenzhong.net/) | Civil and building informatics, BIM, construction safety, facility management, diaster prevention |  |
+| 2 | Prof. Jian-Ping Zhang | Civil and building informatics, cloud, BIM, big data, 4D, etc. | My doctoral supervisor |
+
 Collaboration
 ====
 
