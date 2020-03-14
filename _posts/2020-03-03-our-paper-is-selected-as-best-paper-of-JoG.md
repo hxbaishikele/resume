@@ -37,7 +37,7 @@ gallery:
 ![获奖证书]({{ site.baseurl }}/images/2020-03-03-best-paper-awards-JoG.jpg)
 
 
-**图学学报下载排行榜**
+**《图学学报》下载排行榜**
 
 {% include gallery caption="" %}
 
