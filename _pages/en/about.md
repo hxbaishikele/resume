@@ -22,32 +22,32 @@ Recently, he was granted by the national natural science foundation, national ke
 
 {% include base_path %}
 
-<h2>News</h2>
+## News
 {% assign posts = site.posts | where:"lang", page.lang %}
 {% assign posts = posts | sort: 'date' %}
 {% assign posts = posts | reverse %}
 <ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-<h2>Recent Publications</h2>
+## Recent Publications
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign publications = publications | reverse %}
 <ul>{% for post in publications limit:4 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-<h2>Recent Talks</h2>
+## Recent Talks
 {% assign talks = site.talks | where:"lang", page.lang %}
 {% assign talks = talks | reverse %}
 <ul>{% for post in talks limit:2 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
-<h2>Recent Projects</h2>
+## Recent Projects
 {% assign projects = site.projects | where:"lang", page.lang %}
 {% assign projects = projects | reverse %}
 <ul>{% for post in projects limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-<h2>Recent Teaching Activities</h2>
+## Recent Teaching Activities
 {% assign teaching = site.teaching | where:"lang", page.lang %}
 {% assign teaching = teaching | reverse %}
 <ul>{% for post in teaching limit:2 %}

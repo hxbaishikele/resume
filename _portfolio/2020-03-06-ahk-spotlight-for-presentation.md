@@ -21,12 +21,11 @@ AHK Spotlight小程序就是在这样的背景下产生的，它基于AutoHotKey
 
 
 
-A 安装（开机自启动）
-=====
+## A 安装（开机自启动）
 
 1. 把压缩包解压到某个文件夹，右键点击SpotLightStarter.exe，选择“创建快捷方式”
 
-2. 把创建的快捷方式文件，复制到如下路径即可C:\ProgramData\Microsoft\Windows\StartMenu\Programs\StartUp，可以直接复制前面的地址粘贴到文件管理器的地址栏打开相应的文件夹
+2. 把创建的快捷方式文件，复制到如下路径即可`C:\ProgramData\Microsoft\Windows\StartMenu\Programs\StartUp`，可以直接复制前面的地址粘贴到文件管理器的地址栏打开相应的文件夹
 
 3. 重启电脑后，右下角出现绿色框中间一个白色H的图标，表明小程序正常运行
 
@@ -39,14 +38,13 @@ A 安装（开机自启动）
 
 
 
-B 使用
-=====
+## B 使用
 
-1. 运行PPT或其他程序时，点击两次Shift启动Spotlight效果
+1. 运行PPT或其他程序时，点击两次`Shift`启动Spotlight效果
 
-2. Spotlight效果中按Esc键可退出效果
+2. Spotlight效果中按`Esc`键可退出效果
 
-3. Spotlight效果中，按住字母S键的同时按上下箭头可放大或缩小Spotlight的大小
+3. Spotlight效果中，按住字母`S`键的同时按上下箭头可放大或缩小Spotlight的大小
 
 <video poster="/images/2020-03-06-AHK-Spotlight-toturial.jpg" controls preload>
     <source src="/videos/2020-03-06-AHK-Spotlight-toturial.mp4" media="only screen and (min-device-width: 568px)"></source> 

@@ -11,12 +11,12 @@ author_profile: true
 {% assign from_govs = projects | where:"sponsor", 'government' %}
 {% assign from_comps = projects | where:"sponsor", 'company' %}
 
-<h2>Sponsored by Government</h2>
+## Sponsored by Government
 {% for post in from_govs reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Sponsored by Companies</h2>
+## Sponsored by Companies
 {% for post in from_comps reversed %}
   {% include archive-single.html %}
 {% endfor %}

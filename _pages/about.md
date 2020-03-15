@@ -20,32 +20,32 @@ redirect_from:
 * BIM时空-语义数据挖掘方法：综合利用人工智能、语义网、文本挖掘等技术，提出BIM户型相似度计算、质量安全检查文本挖掘、混合运维数据挖掘等系列算法，提升设计、施工与运维决策水平
 
 {% include base_path %}
-<h2>新闻</h2>
+## 新闻
 {% assign posts = site.posts | where:"lang", page.lang %}
 {% assign posts = posts | sort: 'date' %}
 {% assign posts = posts | reverse %}
 <ul>{% for post in posts limit:3 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-<h2>近期论文</h2>
+## 近期论文
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign publications = publications | reverse %}
 <ul>{% for post in publications limit:4 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-<h2>近期报告</h2>
+## 近期报告
 {% assign talks = site.talks | where:"lang", page.lang %}
 {% assign talks = talks | reverse %}
 <ul>{% for post in talks limit:2 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
-<h2>近期项目</h2>
+## 近期项目
 {% assign projects = site.projects | where:"lang", page.lang %}
 {% assign projects = projects | reverse %}
 <ul>{% for post in projects limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-<h2>近期教学</h2>
+## 近期教学
 {% assign teaching = site.teaching | where:"lang", page.lang %}
 {% assign teaching = teaching | reverse %}
 <ul>{% for post in teaching limit:2 %}
