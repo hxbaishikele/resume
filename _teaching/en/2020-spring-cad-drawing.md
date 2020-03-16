@@ -9,7 +9,7 @@ venue: "Department of Civil Engineering, Tsinghua University"
 date: 2019-02-17
 location: "Beijing, China"
 
-category: teaching
+category: undergraduate
 tags: 
   - CAD
   - undergraduate

@@ -27,13 +27,33 @@ author_profile: true
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign journals = publications | where:"category", 'journal' %}
 {% assign proceedings = publications | where:"category", 'conference' %}
+{% assign books = publications | where:"category", 'book' %}
+{% assign chapters = publications | where:"category", 'chapter' %}
 
-<h2>期刊论文</h2>
+{% if journals.size>0 %}
+## 期刊论文
 {% for post in journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
 
-<h2>会议论文</h2>
+{% if books.size>0 %}
+## 专著
+{% for post in books reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
+{% if proceedings.size>0 %}
+## 会议论文
 {% for post in proceedings reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
+
+{% if chapters.size>0 %}
+## 专著章节
+{% for post in chapters reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}

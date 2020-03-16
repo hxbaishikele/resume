@@ -7,12 +7,13 @@ excerpt: "基于AHK模拟罗技Spotlight探照灯功能，让网络教学、演�
 collection: portfolio
 date: 2020-03-06
 
-category: portfolio
+category: tool
 tags:
   - tool
   - spotlight
   - teaching
   - presentation
+  - ahk
 ---
 
 2020年是不平凡的一年，我们度过了不平凡的寒假，迎来了不平凡的开学。新冠肺炎疫情像阴霾一样笼罩全国，清华大学2月3日通过在线直播的形式师生同上一堂课，在全国率先提出“延期开学、如期开课”。网络授课给教师带来各种挑战，从课程内容、组织到交互方式、网络状况等等，不一而足。

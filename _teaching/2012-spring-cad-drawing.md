@@ -9,7 +9,7 @@ venue: "清华大学土木系"
 date: 2012-03-01
 location: "北京, 中国"
 
-category: teaching
+category: undergraduate
 tags: 
   - CAD
   - undergraduate

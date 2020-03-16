@@ -7,12 +7,13 @@ excerpt: "A Spotlight Simulator for Presentation and Online Courses based on AHK
 collection: portfolio
 date: 2020-03-06
 
-category: portfolio
+category: tool
 tags:
   - tool
   - spotlight
   - teaching
   - presentation
+  - ahk
 ---
 
 This winter, COVID-19 spreads all over the world, and seriously affects teaching and learning in universities, and schools. As a result, Tsinghua University,  took the lead in China to propose "deferred back to school while start of classes as scheduled", and encourages all its faculties and students to participant in online courses. And there are lots of challenges to overcome.

@@ -12,10 +12,14 @@ department:
 friends:
   - link: http://www.huzhenzhong.net
     name:
-      zh: "清华胡振中个人网站"
+      zh: "清华胡振中老师"
       en: "Zhenzhong Hu's Website"
   - link: http://www.luxinzheng.net
     name:
-      zh: "清华陆新征个人网站"
-      en: "Xinzhen Lu's Website"
+      zh: "清华陆新征老师"
+      en: "Xinzheng Lu's Website"
+  - link: http://www.jixiaodong.net
+    name:
+      zh: "清华纪晓东老师"
+      en: "Xiaodong Ji's Website"
   

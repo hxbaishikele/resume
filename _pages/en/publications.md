@@ -27,13 +27,33 @@ You can also find my publications on:
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign journals = publications | where:"category", 'journal' %}
 {% assign proceedings = publications | where:"category", 'conference' %}
+{% assign books = publications | where:"category", 'book' %}
+{% assign chapters = publications | where:"category", 'chapter' %}
 
-<h2>Journal Publications</h2>
+{% if journals.size>0 %}
+## Journal Papers
 {% for post in journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
 
-<h2>Conference Publications</h2>
+{% if books.size>0 %}
+## Books
+{% for post in books reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
+{% if proceedings.size>0 %}
+## Conference Papers
 {% for post in proceedings reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endif %}
+
+{% if chapters.size>0 %}
+## Book Chapters
+{% for post in chapters reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endif %}
