@@ -51,8 +51,7 @@ AHK Spotlight is born for online teaching and presentation purpose. It is develo
     <source src="/videos/2020-03-06-AHK-Spotlight-toturial.iphone.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-Acknowledgment
-====
+## Acknowledgment
 This application is modified from MSpot (https://autohotkey.com/board/topic/33038-mspot-mouse-spotlight-example-using-winset-region/), many thanks to the author for sharing the idea.
 
 
