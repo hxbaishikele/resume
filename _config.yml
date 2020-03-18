@@ -134,13 +134,14 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
+#  - .htaccess
   - _pages
   - files
   - videos
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - .htaccess
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
