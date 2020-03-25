@@ -1,5 +1,5 @@
 ---
-title: "Archive Layout with Content"
+title: "页面内容汇总"
 lang: zh
 ref: archive-layout-with-content
 layout: archive
@@ -174,6 +174,7 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 This allows you to denote <var>variables</var>.
 
 {% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
+{% assign pages = site.pages | where:"lang", page.lang %}
+{% for post in pages reversed %}
+  {% include archive-single.html %}
 {% endfor %}

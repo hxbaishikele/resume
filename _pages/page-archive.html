@@ -9,6 +9,6 @@ author_profile: false
 
 {% include base_path %}
 {% assign pages = site.pages | where:"lang", page.lang %}
-{% for post in pages %}
+{% for post in pages reversed %}
   {% include archive-single.html %}
 {% endfor %}
