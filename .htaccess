@@ -14,7 +14,12 @@
 RewriteEngine on
 
 #redirect my site to _site folder
-RewriteRule !(^_site/|^ahk/) /_site%{REQUEST_URI} [L]
+RewriteRule !^(_site/|ahk/) /_site%{REQUEST_URI}
+#the following don't work, not know why
+#RewriteRule "^en/(projects|teaching|publications|talks|news|posts||portfolio|tags|categories|cv)/?" "/_site/en/$1/"
+#RewriteRule "^en/(resume)$" "/_site/en/$1.html"
+#RewriteRule "^(projects|teaching|publications|talks|news|posts||portfolio|tags|categories|cv)/?" "/_site/$1/"
+#RewriteRule "^(resume)$" "/_site/$1.html"
 #note with previous redirect folder rule, do not put ^ at the beginning of the following rules
 
 #redirect old links
@@ -38,5 +43,10 @@ RewriteRule "news/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/posts/$1" [R=301,N
 
 RewriteRule "en/(resume)$" "en/$1.html"
 RewriteRule "(resume)$" "$1.html"
+
+#fix issue caused by redirect folder? doesn't work...
+#RewriteRule "en/(projects|teaching|publications|talks|news|posts||portfolio|tags|categories|cv)$" "en/$1/index.html"
+#RewriteRule "(projects|teaching|publications|talks|news|posts|portfolio|tags|categories|cv)$" "$1/index.html"
+
 RewriteRule "en/(projects|teaching|publications|talks|news|posts||portfolio)/([-a-zA-Z0-9]{1,})$" "en/$1/$2.html"
 RewriteRule "(projects|teaching|publications|talks|news|posts|portfolio)/([-a-zA-Z0-9]{1,})$" "$1/$2.html"
