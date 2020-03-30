@@ -1,0 +1,12 @@
+RewriteRule "^en/project/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/en/projects/$1" [R=301,NC]
+RewriteRule "^en/publication/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/en/publications/$1" [R=301,NC]
+RewriteRule "^en/news/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/en/posts/$1" [R=301,NC]
+RewriteRule "^project/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/projects/$1" [R=301,NC]
+RewriteRule "^publication/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/publications/$1" [R=301,NC]
+RewriteRule "^news/([-a-zA-Z0-9]{1,})$" "https://linjiarui.net/posts/$1" [R=301,NC]
+
+RewriteRule "^en/(resume)$" "en/$1.html"
+RewriteRule "^(resume)$" "$1.html"
+
+RewriteRule "^en/(projects|teaching|publications|talks|news|posts|portfolio)/([-a-zA-Z0-9]{1,})$" "en/$1/$2.html"
+RewriteRule "^(projects|teaching|publications|talks|news|posts|portfolio)/([-a-zA-Z0-9]{1,})$" "$1/$2.html"
