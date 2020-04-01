@@ -34,3 +34,11 @@ Building performance management requires massive data input; however, the releva
 [download preprint here]({{ site.baseurl }}/files/2020-02-20-BIM-based-CPS-for-building-performance-monitoring.pdf)
 
 Recommended citation: Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring; <i>JInternational Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170
+
+This work was funded by the National Key R&D Program of China (grant no.: 2017YFC0704200). Dr. Lin was also supported by the Beijing Natural Science Foundation (no.: 8194067) and the Natural Science Foundation of China (no.: 51908323).
+
+Accession Number: WOS:000517405200001
+
+ISSN: 1550-1477
+
+IDS Number: KR1UX

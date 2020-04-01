@@ -39,7 +39,7 @@ A few days ago, I developed a tool called [AHK Spotlight]({{ site.baseurl }}/en/
     <source src="/videos/2020-03-25-AHK-Spotlight.iphone.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-**​Did you found that the tool supports different applications, Powerpoint, PDF Reader, etc., choose anyone you like ang give it a try ^_^**
+**​Did you found that the tool supports different applications, Powerpoint, PDF Reader, etc., choose anyone you like and give it a try ^_^**
 
 Click [here]({{ site.baseurl }}/files/AHK Spotlight-v1.7.zip) to download the updated version. Please check [previous post]({{ site.baseurl }}/en/portfolio/2020-03-06-ahk-spotlight-for-presentation) for toturials.
 
