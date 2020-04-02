@@ -36,4 +36,9 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ base_path }}/assets/js/html5media.min.js"></script>
 
+{% if site.comments.provider=='custom' %}
+<!-- for comments based on CommentBox -->
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+{% endif %}
+
 <!-- end custom head snippets -->
