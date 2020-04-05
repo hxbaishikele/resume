@@ -8,7 +8,7 @@ excerpt: '本研究提出一种面向建筑能耗监测的可扩展信息物理�
 date: 2020-02-20
 venue: 'International Journal of Distributed Sensor Networks'
 paperurl: 'http://doi.org/10.1177/1550147720908170'
-citation: 'Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., and Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring; <i>JInternational Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170'
+citation: 'Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., and Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring&quot; <i>International Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170'
 
 comment: true
 category: journal
@@ -33,7 +33,7 @@ Building performance management requires massive data input; however, the releva
 
 [预印本下载链接]({{ site.baseurl }}/files/2020-02-20-BIM-based-CPS-for-building-performance-monitoring.pdf)
 
-引用方式: Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring; <i>JInternational Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170
+引用方式: Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., and Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring&quot; <i>International Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170
 
 This work was funded by the National Key R&D Program of China (grant no.: 2017YFC0704200). Dr. Lin was also supported by the Beijing Natural Science Foundation (no.: 8194067) and the Natural Science Foundation of China (no.: 51908323).
 
