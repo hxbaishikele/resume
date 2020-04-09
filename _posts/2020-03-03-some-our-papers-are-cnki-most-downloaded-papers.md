@@ -12,16 +12,16 @@ tags:
   - most downloaded
   - CNKI
 gallery:
-  - url: 2020-03-03-cnki-CT-most-downloaded-paper.png
-    image_path: 2020-03-03-cnki-CT-most-downloaded-paper.png
+  - url: 2020-03-03-cnki-CT-most-downloaded-paper.jpg
+    image_path: 2020-03-03-cnki-CT-most-downloaded-paper.jpg
     alt: "图片 1"
     title: "《施工技术》CNKI下载排行"
-  - url: 2020-03-03-cnki-JoG-most-downloaded-paper.png
-    image_path: 2020-03-03-cnki-JoG-most-downloaded-paper.png
+  - url: 2020-03-03-cnki-JoG-most-downloaded-paper.jpg
+    image_path: 2020-03-03-cnki-JoG-most-downloaded-paper.jpg
     alt: "图片 2"
     title: "《图学学报》CNKI下载排行"
-  - url: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.png
-    image_path: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.png
+  - url: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.jpg
+    image_path: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.jpg
     alt: "图片 3"
     title: "《土木建筑工程信息技术》CNKI下载排行"
 ---

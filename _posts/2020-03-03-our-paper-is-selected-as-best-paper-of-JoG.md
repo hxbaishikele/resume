@@ -16,16 +16,16 @@ tags:
   - BIM
   - IoT
 gallery:
-  - url: 2020-03-03-JoG-3year-most-downloaded-paper.png
-    image_path: 2020-03-03-JoG-3year-most-downloaded-paper.png
+  - url: 2020-03-03-JoG-3year-most-downloaded-paper.jpg
+    image_path: 2020-03-03-JoG-3year-most-downloaded-paper.jpg
     alt: "图片 1"
     title: "近3年下载排行"
-  - url: 2020-03-03-JoG-2year-most-downloaded-paper.png
-    image_path: 2020-03-03-JoG-2year-most-downloaded-paper.png
+  - url: 2020-03-03-JoG-2year-most-downloaded-paper.jpg
+    image_path: 2020-03-03-JoG-2year-most-downloaded-paper.jpg
     alt: "图片 2"
     title: "近2年下载排行"
-  - url: 2020-03-03-JoG-1year-most-downloaded-paper.png
-    image_path: 2020-03-03-JoG-1year-most-downloaded-paper.png
+  - url: 2020-03-03-JoG-1year-most-downloaded-paper.jpg
+    image_path: 2020-03-03-JoG-1year-most-downloaded-paper.jpg
     alt: "图片 3"
     title: "近1年下载排行"
 ---
@@ -43,4 +43,4 @@ gallery:
 
 **知网下载排行榜**
 
-![知网排行]({{ site.baseurl }}/images/2020-03-03-cnki-JoG-most-downloaded-paper.png)
+![知网排行]({{ site.baseurl }}/images/2020-03-03-cnki-JoG-most-downloaded-paper.jpg)

@@ -16,16 +16,16 @@ tags:
   - BIM
   - IoT
 gallery:
-  - url: 2020-03-03-JoG-3year-most-downloaded-paper.png
-    image_path: 2020-03-03-JoG-3year-most-downloaded-paper.png
+  - url: 2020-03-03-JoG-3year-most-downloaded-paper.jpg
+    image_path: 2020-03-03-JoG-3year-most-downloaded-paper.jpg
     alt: "Image 1"
     title: "Most Downloaded Papers in 3 Years"
-  - url: 2020-03-03-JoG-2year-most-downloaded-paper.png
-    image_path: 2020-03-03-JoG-2year-most-downloaded-paper.png
+  - url: 2020-03-03-JoG-2year-most-downloaded-paper.jpg
+    image_path: 2020-03-03-JoG-2year-most-downloaded-paper.jpg
     alt: "Image 2"
     title: "Most Downloaded Papers in 2 Years"
-  - url: 2020-03-03-JoG-1year-most-downloaded-paper.png
-    image_path: 2020-03-03-JoG-1year-most-downloaded-paper.png
+  - url: 2020-03-03-JoG-1year-most-downloaded-paper.jpg
+    image_path: 2020-03-03-JoG-1year-most-downloaded-paper.jpg
     alt: "Image 3"
     title: "Most Downloaded Papers in 1 Year"
 ---
@@ -42,4 +42,4 @@ See [here]({{ site.baseurl }}/en/publications/2018-10-15-present-and-future-of-i
 
 **Most downloaded papers of CNKI**
 
-![CNKI Rank List]({{ site.baseurl }}/images/2020-03-03-cnki-JoG-most-downloaded-paper.png)
+![CNKI Rank List]({{ site.baseurl }}/images/2020-03-03-cnki-JoG-most-downloaded-paper.jpg)

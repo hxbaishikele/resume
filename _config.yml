@@ -90,7 +90,7 @@ author:
   name             : 
     en: "Jia-Rui Lin"
     zh: "林佳瑞"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : 
     en: "Assistant Professor"
     zh: "助理研究员"
@@ -156,6 +156,8 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
+  - Site_Icon.png
+  - Site_Icon.vsdx
   - LICENSE
   - log
   - node_modules

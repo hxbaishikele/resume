@@ -12,16 +12,16 @@ tags:
   - most downloaded
   - CNKI
 gallery:
-  - url: 2020-03-03-cnki-CT-most-downloaded-paper.png
-    image_path: 2020-03-03-cnki-CT-most-downloaded-paper.png
+  - url: 2020-03-03-cnki-CT-most-downloaded-paper.jpg
+    image_path: 2020-03-03-cnki-CT-most-downloaded-paper.jpg
     alt: "Image 1"
     title: "CNKI Most Downloaded Papers of <i>Construction Technology</i>"
-  - url: 2020-03-03-cnki-JoG-most-downloaded-paper.png
-    image_path: 2020-03-03-cnki-JoG-most-downloaded-paper.png
+  - url: 2020-03-03-cnki-JoG-most-downloaded-paper.jpg
+    image_path: 2020-03-03-cnki-JoG-most-downloaded-paper.jpg
     alt: "Image 2"
     title: "CNKI Most Downloaded Papers of <i>Journal of Graphics</i>"
-  - url: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.png
-    image_path: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.png
+  - url: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.jpg
+    image_path: 2020-03-03-cnki-JoCBIT-most-downloaded-paper.jpg
     alt: "Image 3"
     title: "CNKI Most Downloaded Papers of <i>Journal of Information Technology in Civil Engineering and Architecture</i>"
 ---

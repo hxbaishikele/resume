@@ -51,3 +51,6 @@ redirect_from:
 <ul>{% for post in teaching limit:2 %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+## 联系方式
+电话：(010)62789225
+邮箱：lin611(AT)tsinghua.edu.cn (请将`AT`替换为`@`)
