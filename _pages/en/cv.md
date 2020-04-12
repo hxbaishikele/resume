@@ -113,6 +113,8 @@ redirect_from:
 * Reviewer of _Energy and Built Environment_
 * Reviewer of _Journal of Tsinghua University (Science & Technology)_
 * Reviewer of _China Civil Engineering Journal_
+* Reviewer of _Engineering Mechanics_
+* Reviewer of _China Journal of Highway and Transport_
 * Reviewer of _Journal of Graphics_
 * Reviewer of _Construction Technology_
 * Reviewer of _Journal of Information Technology in Civil Engineering and Architecture_

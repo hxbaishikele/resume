@@ -3,7 +3,7 @@ title: "Open Position for Postdoctoral Fellow: Digital Infrastructure Twin"
 lang: en
 ref: posts/2020-04-09-open-position-for-postdoctoral-fellow
 permalink: /en/posts/2020-04-09-open-position-for-postdoctoral-fellow
-excerpt: "The institute of disaster prevention and mitigation at Tsinghuas University invites applications for the position of postdoctoral fellow in the field of digital infrastructure twin. Applicants should hold a Ph.D. degree (Civil Engineering or Construction Informatics) within last three years and under 35 years old. Please submit your application before December 31, 2020."
+excerpt: "The institute of disaster prevention and mitigation at Tsinghua University invites applications for the position of postdoctoral fellow in the field of digital infrastructure twin. Applicants should hold a Ph.D. degree (Civil Engineering or Construction Informatics) within last three years and under 35 years old. Please submit your application before December 31, 2020."
 date: 2020-04-09
 
 category: posts

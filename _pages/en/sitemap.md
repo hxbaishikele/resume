@@ -1,23 +1,23 @@
 ---
 layout: archive
-title: "网站地图"
-lang: zh
+title: "Sitemap"
+lang: en
 ref: sitemap
-permalink: /sitemap/
+permalink: /en/sitemap/
 author_profile: true
 ---
 
 {% include base_path %}
 
-本站所有页面列表如下，用于网络爬虫的XML版本[在这]({{ base_path }}/sitemap.xml)。
+A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-<h2>页面</h2>
+<h2>Pages</h2>
 {% assign pages = site.pages | where:"lang", page.lang %}
 {% for post in pages %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>新闻动态</h2>
+<h2>Posts</h2>
 {% assign posts = site.posts | where:"lang", page.lang %}
 {% for post in posts %}
   {% include archive-single.html %}

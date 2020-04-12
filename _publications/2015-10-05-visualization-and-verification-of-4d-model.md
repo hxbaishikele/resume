@@ -8,7 +8,7 @@ excerpt: '本研究提出一种基于进度计划关联与空间位置关系的4
 date: 2015-10-05
 venue: '15th International Conference on Construction Applications of Virtual Reality'
 paperurl: 'https://linjiarui.net/files/2015-10-05-visualization-and-verification-of-4d-model.pdf'
-citation: 'Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2012). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.'
+citation: 'Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2015). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.'
 
 comment: true
 category: conference
@@ -30,4 +30,4 @@ tags:
 
 [论文下载地址]({{ site.baseurl }}/files/2015-10-05-visualization-and-verification-of-4d-model.pdf)
 
-引用方式: Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2012). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.
+引用方式: Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2015). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.

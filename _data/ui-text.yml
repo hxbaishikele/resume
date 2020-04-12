@@ -51,6 +51,15 @@ zh: &DEFAULT_ZH
   langName                   : "中文"
   outer_link                 : "相关链接："
   sitemap                    : "网站地图"
+  projects                   : "项目列表"
+  publications               : "论著列表"
+  posts                      : "新闻动态"
+  portfolio                  : "资源下载"
+  teaching                   : "课程教学"
+  talks                      : "学术报告"
+  Team                       : "团队"
+  CV                         : "个人简历"
+
 
 # English (default)
 # -----------------
@@ -104,6 +113,14 @@ en: &DEFAULT_EN
   langName                   : "English"
   outer_link                 : "Links: "
   sitemap                    : "Sitemap"
+  projects                   : "Projects"
+  publications               : "Publications"
+  posts                      : "Posts"
+  portfolio                  : "Portfolio"
+  teaching                   : "Teaching"
+  talks                      : "Talks"
+  Team                       : "Team"
+  CV                         : "CV"
 
 en-US:
   <<: *DEFAULT_EN

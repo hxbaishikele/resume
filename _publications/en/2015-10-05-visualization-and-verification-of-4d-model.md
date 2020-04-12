@@ -8,7 +8,7 @@ excerpt: 'This paper presents a visualization and verification method of 4D mode
 date: 2015-10-05
 venue: '15th International Conference on Construction Applications of Virtual Reality'
 paperurl: 'https://linjiarui.net/files/2015-10-05-visualization-and-verification-of-4d-model.pdf'
-citation: 'Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2012). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.'
+citation: 'Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2015). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.'
 
 comment: true
 category: conference
@@ -30,4 +30,4 @@ Abstract
 
 [Download paper here]({{ site.baseurl }}/files/2015-10-05-visualization-and-verification-of-4d-model.pdf)
 
-Recommended citation: Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2012). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.
+Recommended citation: Lin, J.*, Zhang, J., He, T., Hu, Z. and Yao, F. (2015). &quot;Visualization and automatic verification of a schedule-driven 4D model&quot; <i>in Proceedings of the 15th International Conference on Construction Applications of Virtual Reality</i>. Banff, Alberta, Canada.
