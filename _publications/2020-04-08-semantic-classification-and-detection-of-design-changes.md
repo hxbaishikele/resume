@@ -26,15 +26,15 @@ tags:
 ---
 
 
-摘要
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 As the design process of a building or infrastructure is complex with iterative steps and multidisciplinary collaboration, design changes are inevitable and efficient change detection based on Building Information Modeling (BIM) is essential for design collaboration and quality control. Although some detection methods have been proposed to tackle the problem, majority of them regard syntactic data changes as design changes, which always yield incorrect and meaningless results. For instance, exchanging the locations of two identical columns is meaningless from the viewpoint of a designer, which the current methods take it as a design change. Otherwise, additional time is needed to avoid these issues, thus leading to high time consumption. To address this problem, we first propose a semantic classification of design changes with three categories of data changes and three levels of design changes. Then, an efficient detection method considering the proposed semantic classification of design changes is proposed with hash-code-based acceleration. After implementing the proposed and existing methods, the detection performance of our method is compared with the performances of existing methods and invited designers based on 4 groups of BIM models. Results show that our method could: 1) detect semantic changes with 100% correctness while reducing up to 98.1% of the detection time of existing methods, and 2) improve the average detection rate of designers from 81.3% to 100% while saving 99.88% of the design reviewing time (detecting 7 changes from 5800 instances). This research contributes to the body of knowledge a new definition of design changes and an approach to efficient design change detection with hash-code-based acceleration. Meanwhile, the proposed classification of design changes and developed BIM models in this research can also be taken as a baseline for developing and validating new detection methods.
 
-[论文下载链接](http://doi.org/10.1016/j.autcon.2020.103212)
+[{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.1016/j.autcon.2020.103212)
 
-[预印本下载链接]({{ site.baseurl }}/files/2020-04-08-semantic-classification-and-detection-of-design-changes.pdf)
+[{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-04-08-semantic-classification-and-detection-of-design-changes.pdf)
 
-引用方式: Zhou, Y.C., and Lin, J.R.* (2020). &quot;Semantic classification and hash code accelerated detection of design changes in BIM models&quot; <i>Automation in Construction</i>. 115: 103212. doi: 10.1016/j.autcon.2020.103212
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research was funded by the Beijing Natural Science Foundation (No. 8194067), the Natural Science Foundation of China (No. 51908323) , the National Key R&D Program of China (No. 2018YFD1100900) and the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT).

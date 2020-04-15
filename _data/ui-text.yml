@@ -59,6 +59,10 @@ zh: &DEFAULT_ZH
   talks                      : "学术报告"
   Team                       : "团队"
   CV                         : "个人简历"
+  abstract                   : "摘要"
+  rec_citation               : "引用方式"
+  download_paper             : "论文下载链接"
+  download_preprint          : "预印本下载链接"
 
 
 # English (default)
@@ -121,6 +125,10 @@ en: &DEFAULT_EN
   talks                      : "Talks"
   Team                       : "Team"
   CV                         : "CV"
+  abstract                   : "Abstract"
+  rec_citation               : "Recommended citation"
+  download_paper             : "Download paper here"
+  download_preprint          : "Download preprint here"
 
 en-US:
   <<: *DEFAULT_EN

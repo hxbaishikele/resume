@@ -22,7 +22,7 @@ tags:
 ---
 
 
-摘要
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 Information technology such as Building Information Modeling, 3D-printing provides an innovative approach for construction project management, aiming at increasing efficiency, improving quality and reducing cost. Construction corporations in mainland China are making active attempts to increase the informatization level in construction projects. This paper discusses Beijing Headquarter building project of Tencent as a case study for the information technology application in the construction phase in terms of how information technology can improve construction management for general contractor. 
@@ -31,6 +31,6 @@ The project for case study is designed as a large public building located in Bei
 
 The paper also discusses the value and challenges appeared during the application of information technology in the case. Information technology application can result in resource and workload reduction, problem solving in advance and realizing precise management, thus improving construction management for general contractor. However, promoting information technology application can be challenging at first, given the management team is not familiar enough with the techniques. Countermeasures are proposed regarding the challenges and difficulties arose in the case.
 
-[论文下载地址]({{ site.baseurl }}/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf)
+[{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2017-04-19-how-ict-can-improve-cm-case-study.pdf)
 
-引用方式: Zhang, Y., Lin, J.*, Zhang J. Fang, D. and Hu, Z. (2017). &quot;Research on IDM-based BIM process information exchange technology&quot; <i>in Proceedings of the 3rd International Conference on Civil and Building Engineering Informatics & 2017 Conference on Computer Applications in Civil and Hydraulic Engineering (ICCBEI&CCACHE 2017)</i>. 22-25. Taipei, Taiwan.
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

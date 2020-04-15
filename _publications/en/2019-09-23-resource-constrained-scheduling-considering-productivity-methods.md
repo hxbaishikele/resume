@@ -23,13 +23,13 @@ tags:
 ---
 
 
-Abstract
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 The multimode resource-constrained project scheduling problem (MRCPSP) is an essential mathematical model for construction schedule optimization. However, it is difficult for the model to simultaneously represent multiple relationships between activity duration, cost, and resource requirements. For solving this problem, this paper proposes a new MRCPSP model and further solve the model using constraint programming (CP). The problem model represents the relationships between activity duration, cost, and resource requirements by introducing the productivity function and the resource total requirements combinations of activities. It is proved that the new problem model can simulate the change of productivity in construction, and enable considering the influence of the construction methods selection to solution results. Compared with the traditional MRCPSP, the solution results have a more explicit engineering meaning to be able to contribute to actual projects.
 
-[Download paper here](http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035)
+[{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035)
 
-[download preprint here]({{ site.baseurl }}/files/2019-09-23-resource-constrained-scheduling-considering-productivity-methods.pdf)
+[{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-09-23-resource-constrained-scheduling-considering-productivity-methods.pdf)
 
-Recommended citation: Wang, H., Lin, J.*, Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

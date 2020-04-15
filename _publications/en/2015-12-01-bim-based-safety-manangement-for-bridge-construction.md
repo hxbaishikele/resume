@@ -23,13 +23,13 @@ tags:
 ---
 
 
-Abstract
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 NA 
 
-[download paper here](http://doi.org/10.19550/j.issn.1672-061x.2015.06.016)
+[{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.19550/j.issn.1672-061x.2015.06.016)
 
-[download preprint here]({{ site.baseurl }}/files/2015-12-01-bim-based-safety-manangement-for-bridge-construction.pdf)
+[{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2015-12-01-bim-based-safety-manangement-for-bridge-construction.pdf)
 
-Recommended citation: Zhang, X., Lin, J.*, Fang, J., Du, S., Hu, Z., Zhang, J., Liang, C. (2015). &quot;BIM-based Safety Management for the Construction of Shi-ji Yellow River Bridge&quot; <i>Railway Technical Innovation</i>. 6: 74-76. doi: 10.19550/j.issn.1672-061x.2015.06.016 (in Chinese)
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

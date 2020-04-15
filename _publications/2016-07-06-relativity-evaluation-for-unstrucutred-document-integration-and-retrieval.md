@@ -22,7 +22,7 @@ tags:
 ---
 
 
-摘要
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 A large amount of construction project data is stored in unstructured documents, which are difficult to handle with highly structured Building Information Models (BIMs). This paper aims at proposing a method for unstructured information integration and retrieval based on Industry Foundation Classes (IFC) standard, thus increasing the efficiency of information utilization.  
@@ -35,6 +35,6 @@ Furthermore, to improve document retrieval, related documents are analyzed and s
 
 Finally, an illustrative application shows that the correlation between documents and model entities can be established with the above-mentioned approach, and well-named BIM entities and statements of the documents will improve the accuracy of the method. Hence, unstructured information can be well integrated and retrieved based on the proposed method, thus increasing the efficiency of project information utilization. 
 
-[论文下载地址]({{ site.baseurl }}/files/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval.pdf)
+[{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2016-07-06-relativity-evaluation-for-unstrucutred-document-integration-and-retrieval.pdf)
 
-引用方式: Zhang, Y., Zhang, J.*, Liu, Q. and Lin, J. (2016). &quot;A Relativity Evaluation Approach to Unstructured Document Integration and Retrieval for Building Information Modeling&quot; <i>in Proceedings of the 16th International Conference on Computing in Civil and Building Engineering</i>. 936-942. Osaka, Japan.
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

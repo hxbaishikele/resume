@@ -21,15 +21,15 @@ tags:
 ---
 
 
-摘要
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 本文针对住宅项目策划的实际需求,综合应用BIM和4D技术,研究并提出了基于既有标准户型的住宅方案BIM建模和方案分析与评价的方法。通过解决户型三维模型与各种经济及绿色性能指标信息的关联、存储、编辑与管理,基于户型组装生成住宅标准层和建筑单体方案,以及基于经济指标与绿色性能分析进行方案评价等关键技术,以Autodesk Revit2012和清华大学4D项目管理系统为平台,开发了基于BIM的住宅项目策划系统。应用表明,本研究为住宅项目策划的方案创建、分析评价、比选决策提供了新的途径和方法,促进了BIM在住宅项目策划阶段的应用。
 
-[论文下载地址](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFD0914&filename=OGTY201211004054&v=MTU3MDNLdWhkaG5qOThUbmpxcXhkRWVNT1VLcmlmWnU5dkh5bmxVNzNOSWxzV0tpcmZkN0c0SDlQTnJvOUZZT3NLQ0JO)
+[{{site.data.ui-text[page.lang].download_paper}}](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFD0914&filename=OGTY201211004054&v=MTU3MDNLdWhkaG5qOThUbmpxcXhkRWVNT1VLcmlmWnU5dkh5bmxVNzNOSWxzV0tpcmZkN0c0SDlQTnJvOUZZT3NLQ0JO)
 
-[预印本下载地址]({{ site.baseurl }}/files/2012-11-22-bim-based-planning-platform-for-residential-projects.pdf)
+[{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2012-11-22-bim-based-planning-platform-for-residential-projects.pdf)
 
 本文同时收录于[土木建筑工程信息技术]({{ site.baseurl }}/publication/2013-02-01-bim-based-planning-platform-for-residential-projects)。
 
-引用方式: 林佳瑞*, 张建平, 何田丰, 贾卫东, 吴峥 (2012). &quot;基于 BIM 的住宅项目策划系统研究与开发&quot; <i>第十六届全国工程建设计算机应用大会论文集</i>. 355-362. 中国土木工程学会. 中国, 广州.
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}

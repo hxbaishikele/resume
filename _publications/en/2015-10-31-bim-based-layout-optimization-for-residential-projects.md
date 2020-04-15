@@ -24,11 +24,11 @@ tags:
 ---
 
 
-Abstract
+{{site.data.ui-text[page.lang].abstract}}
 ====
 
 NA
 
-[Download paper here]({{ site.baseurl }}/files/2015-10-31-bim-based-layout-optimization-for-residential-projects.pdf)
+[{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2015-10-31-bim-based-layout-optimization-for-residential-projects.pdf)
 
-Recommended citation: Ruan, Y., He, T.*, Zhang, J., Lin, J. (2015). &quot;Building Layout Optimization based on BIM and Sunlight Simulation&quot; <i>in Proceedings of the 1st National Conference on Building Information Modeling</i>. Beijing, China. (in Chinese)
+{{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
