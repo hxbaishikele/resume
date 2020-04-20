@@ -5,7 +5,7 @@ ref: projects/2013-LCM-based-digital-development-of-residential-projects
 collection: projects
 type: "National High Tech R&D Program"
 permalink: /en/projects/2013-LCM-based-digital-development-of-residential-projects
-venue: " Ministry of Science and Technology"
+venue: "Ministry of Science and Technology"
 date: 2013-10-01
 location: "Beijing, China"
 excerpt: ""
