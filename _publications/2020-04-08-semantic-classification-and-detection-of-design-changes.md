@@ -8,7 +8,7 @@ excerpt: '本研究提出一种考虑工程意义的设计变更分类与快速�
 date: 2020-04-08
 venue: 'Automation in Construction'
 paperurl: 'http://doi.org/10.1016/j.autcon.2020.103212'
-citation: 'Zhou, Y.C., and Lin, J.R.* (2020). &quot;Semantic classification and hash code accelerated detection of design changes in BIM models&quot; <i>Automation in Construction</i>. 115: 103212. doi: 10.1016/j.autcon.2020.103212'
+citation: 'Lin, J.R.*, and Zhou, Y.C. (2020). &quot;Semantic classification and hash code accelerated detection of design changes in BIM models&quot; <i>Automation in Construction</i>. 115: 103212. doi: 10.1016/j.autcon.2020.103212'
 
 comment: true
 category: journal
