@@ -111,6 +111,7 @@ redirect_from:
 * Reviewer of _Journal of Structural Integrity and Maintenance_
 * Reviewer of _Frontiers of Engineering Management_
 * Reviewer of _Energy and Built Environment_
+* Reviewer of _* Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction_
 * Reviewer of _Journal of Tsinghua University (Science & Technology)_
 * Reviewer of _China Civil Engineering Journal_
 * Reviewer of _Engineering Mechanics_

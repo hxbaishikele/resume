@@ -22,6 +22,10 @@ Recently, he was granted by the national natural science foundation, national ke
 
 {% include base_path %}
 
+
+## Join Us
+Our group welcome application for research assistant, postdoctoral fellow in the field of construction informatics, civil engineering, please email me for detail with your CV (email address could be found at the end of this page).
+
 ## News
 {% assign posts = site.posts | where:"lang", page.lang %}
 {% assign posts = posts | sort: 'date' %}

@@ -112,6 +112,7 @@ redirect_from:
 * Journal of Structural Integrity and Maintenance 审稿人
 * Frontiers of Engineering Management 审稿人
 * Energy and Built Environment 审稿人
+* Proceedings of the Institution of Civil Engineers - Smart Infrastructure and Construction 审稿人
 * 《清华大学学报（自然科学版）》 审稿人
 * 《土木工程学报》 审稿人
 * 《工程力学》 审稿人
