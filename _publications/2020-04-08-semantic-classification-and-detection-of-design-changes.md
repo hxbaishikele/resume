@@ -38,3 +38,11 @@ As the design process of a building or infrastructure is complex with iterative 
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research was funded by the Beijing Natural Science Foundation (No. 8194067), the Natural Science Foundation of China (No. 51908323) , the National Key R&D Program of China (No. 2018YFD1100900) and the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT).
+
+Accession Number: WOS:000528282500008
+
+ISSN: 0926-5805
+
+eISSN: 1872-7891
+
+IDS Number: LG7NI

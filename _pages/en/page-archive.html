@@ -10,5 +10,7 @@ author_profile: false
 {% include base_path %}
 {% assign pages = site.pages | where:"lang", page.lang %}
 {% for post in pages reversed %}
+  {% if post.ref!="404" %}
   {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

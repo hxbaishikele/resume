@@ -8,7 +8,7 @@ excerpt: 'This paper proposes a hybrid data mining method for the safety managem
 date: 2020-05-07
 venue: 'IEEE Access'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.2994115'
-citation: 'Leng, S., Lin, J.R., Hu, Z.Z.*, and Shen, X. (2020). &quot;A Hybrid Data Mining Method for Tunnel Engineering Based on Real-Time Monitoring Data from Tunnel Boring Machines&quot; <i>IEEE Access</i>. 115: 103212. doi: 10.1109/ACCESS.2020.2994115'
+citation: 'Leng, S., Lin, J.R., Hu, Z.Z.*, and Shen, X. (2020). &quot;A Hybrid Data Mining Method for Tunnel Engineering Based on Real-Time Monitoring Data from Tunnel Boring Machines&quot; <i>IEEE Access</i>. xx: xx-xx. doi: 10.1109/ACCESS.2020.2994115'
 
 comment: true
 category: journal
