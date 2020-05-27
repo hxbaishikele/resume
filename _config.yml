@@ -165,6 +165,9 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - "2020-Related Posts With Jekyll-Alligator.io.pdf"
+  - "2016-Making Jekyll related posts really related-Webjeda.pdf"
+  - "2020-How to create internal links in Jekyll Web Island Blog.pdf"
 keep_files:
   - .git
   - .svn
