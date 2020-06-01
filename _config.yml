@@ -135,14 +135,13 @@ author:
 
 # Reading Files
 include:
-#  - .htaccess
+  - .htaccess
   - _pages
   - files
   - videos
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - .htaccess
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -165,9 +164,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - "2020-Related Posts With Jekyll-Alligator.io.pdf"
-  - "2016-Making Jekyll related posts really related-Webjeda.pdf"
-  - "2020-How to create internal links in Jekyll Web Island Blog.pdf"
+  - private
 keep_files:
   - .git
   - .svn

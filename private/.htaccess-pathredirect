@@ -1,0 +1,6 @@
+RewriteEngine on
+## =========V3==========
+#redirect my site to _site folder
+RewriteRule !^(_site/|ahk/) _site%{REQUEST_URI}
+
+#use subfolder .htaccess file to deal with other redirects

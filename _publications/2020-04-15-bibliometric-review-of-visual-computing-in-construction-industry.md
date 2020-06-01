@@ -7,8 +7,8 @@ permalink: /publications/2020-04-15-bibliometric-review-of-visual-computing-in-c
 excerpt: '本研究系统综述了BIM、激光扫描、增强现实等施工领域可视计算技术的研究应用现状'
 date: 2020-04-15
 venue: 'Visual Computing for Industry, Biomedicine, and Art'
-paperurl: 'http://doi.org/xxxx'
-citation: 'Wang, H.W., Hu, Z.Z., and Lin, J.R.* (2020). &quot;A bibliometric review of visual computing in construction industry&quot; <i>Visual Computing for Industry, Biomedicine, and Art</i>. xx: xxxx. doi: xxxxx'
+paperurl: 'http://doi.org/10.1186/s42492-020-00050-0'
+citation: 'Wang, H.W., Hu, Z.Z., and Lin, J.R.* (2020). &quot;A bibliometric review of visual computing in construction industry&quot; <i>Visual Computing for Industry, Biomedicine, and Art</i>. xx: xxxx. doi: 10.1186/s42492-020-00050-0'
 
 comment: true
 category: journal
@@ -29,7 +29,7 @@ tags:
 
 In the construction are, visuals such as drawings, photos, videos, and 3D models, play a significant role in the design, build and maintenance of a facility, bringing efficiency to generate, transfer, and store information. Advanced visual computing techniques facilitate the understanding of design contents, work plans, and other types of information shared in the construction industry. Automatic visual data collection and analysis provide many possibilities to the construction industry and a large number of works have investigated how visual computing can improve construction management processes and other problems in the construction area. However, a comprehensive literature review is needed. This study uses bibliometric approaches to review the works published to date, and analyses the development of knowledge, significant research results, and trends. The purpose of this study is to help newcomers to this research field understand knowledge structure and formulate research directions, thereby enhancing knowledge development. From this study, it can be concluded that computer vision is a key axis of improvement. Moreover, building information modeling (BIM), laser scanning, and other visualization-related techniques are also important in advancing the construction area.
 
-[{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/xxxx)
+[{{site.data.ui-text[page.lang].download_paper}}](http://doi.org/10.1186/s42492-020-00050-0)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-04-15-bibliometric-review-of-visual-computing-in-construction-industry.pdf)
 

@@ -38,6 +38,7 @@ See more info at https://academicpages.github.io/
 2. Add new collections: a) add collection name and global config in _config.yml, b) add new collection in navigation.yml if needed, for multilingual support purpose, c) add collection name, permalink, etc. of each item in the collection, d) check layout, include template if needed.
 3. Check https://mmistakes.github.io/minimal-mistakes/docs/helpers/ for tutorials
 4. always remember to add a white space after character `:` 
+5. use .htaccess to redirect url if apache is used, and creating different .htaccess files for subfolders is recommended
 
 # Changelog -- bugfixes and enhancements
 
