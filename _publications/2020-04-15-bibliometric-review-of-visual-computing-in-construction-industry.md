@@ -8,7 +8,7 @@ excerpt: '本研究系统综述了BIM、激光扫描、增强现实等施工领�
 date: 2020-04-15
 venue: 'Visual Computing for Industry, Biomedicine, and Art'
 paperurl: 'http://doi.org/10.1186/s42492-020-00050-0'
-citation: 'Wang, H.W., Hu, Z.Z., and Lin, J.R.* (2020). &quot;A bibliometric review of visual computing in construction industry&quot; <i>Visual Computing for Industry, Biomedicine, and Art</i>. xx: xxxx. doi: 10.1186/s42492-020-00050-0'
+citation: 'Wang, H.W., Hu, Z.Z., and Lin, J.R.* (2020). &quot;A bibliometric review of visual computing in construction industry&quot; <i>Visual Computing for Industry, Biomedicine, and Art</i>. 3: 14. doi: 10.1186/s42492-020-00050-0'
 
 comment: true
 category: journal
