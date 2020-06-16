@@ -30,11 +30,13 @@ tags:
 1. [FreeCAD](https://freecadweb.org/)：开源3D参数化建模工具，支持多操作系统，支持python二次开发，可利用前述IfcOpenShell模块实现IFC的存取，源码在[GitHub](https://github.com/FreeCAD/FreeCAD)以LGPL协议开放。
 2. [BRL-CAD](http://brlcad.org/)：宣称100%开源免费，支持多操作系统，具备CSG和B-REP造型内核，美国军方长期将其作为武器系统建模工具。有关代码在[SourceForge](https://sourceforge.net/projects/brlcad/)开源。
 3. [Blender](https://www.blender.org/)：开源的三维建模及动画制作软件，具备三维建模、关键帧及骨骼动画制作等功能，支持导入多种三维数据格式，具备python二次开发接口，同时可利用IfcOpenShell存取IFC模型数据，采用GPL协议开源。
+4. [OpenSCAD](http://www.openscad.org/)：面向开发者的实体建模工具，支持通过内置脚本的方式创建三维形体，覆盖常见操作系统类型。我们实际使用的感觉是对复杂形体的处理效率和还比较低，浮点数精度较低。代码在[GitHub](https://github.com/openscad/openscad/)以GPL v2协议开源。
 
-## 3D可视化
+## 3D数据处理及可视化
 1. [Three.js](https://threejs.org/):基于WebGL的 网页三维显示库，支持多种三维数据格式，目前常见的前端WebGL三维显示多在其基础上实现，如Autodesk Forge的前端三维显示，广联达BIMFace的前端三维显示等，在[GitHub](https://github.com/mrdoob/three.js/)以MIT协议开源。
 2. [Cesium.js](https://cesium.com/cesiumjs/):基于javascript构建的前端三维GIS库，由AGI和Bentley共同发起，3DTiles规范的发起者，在[GitHub](https://github.com/CesiumGS/cesium)以Apache 2.0协议开源，商业友好。
 3. [Helix Toolkit](http://helix-toolkit.org/)：基于.Net平台的3D数据处理和可视化模块，包括WPF和SharpDX（DirectX 3D的C#封装）两种三维显示模式，在[GitHub](https://github.com/helix-toolkit/helix-toolkit)以MIT协议开源，商业友好。
+4. [Trimesh](https://trimsh.org)：基于python的三维数据处理和可视化库，支持多种3D格式和几何属性计算，并依托OpenSCAD支持实体布尔运算。有关代码在[GitHub](https://github.com/mikedh/trimesh)以MIT协议开源。我们课题组基于表面体素化算法实现了[实体体素化算法]({{ site.baseurl }}/publications/2018-11-24-automatic-space-detection-for-maintenance)，并将有关算法贡献到了Trimesh中。
 
 ## BIM服务器
 [BIMserver](http://bimserver.org/)：开源免费的BIM服务器平台，基于IFC存储BIM模型，支持版本管理、碰撞检测、可视化
