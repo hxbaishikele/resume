@@ -7,8 +7,8 @@ permalink: /publications/2020-06-11-status-and-trend-of-bim-based-on-baidu-index
 excerpt: '本研究通过分析2011-2019共10年间BIM百度搜索指数的时空特征及用户需求，指出我国未来BIM发展应在推动区域均衡、自主软件研发与人才培养等方面着力'
 date: 2020-06-11
 venue: '施工技术'
-paperurl: 'http://xxxxx.xxx/xxxxxx'
-citation: '林佳瑞*, 陈广峰. (2020). &quot;基于搜索大数据的 BIM 发展现状与趋势分析&quot; <i>施工技术</i>. 49(9): 96-99. doi: xxxx/xxxxxx'
+paperurl: 'http://dx.chinadoi.cn/10.7672/sgjs2020090096'
+citation: '林佳瑞*, 陈广峰. (2020). &quot;基于搜索大数据的 BIM 发展现状与趋势分析&quot; <i>施工技术</i>. 49(9): 96-99. doi: 10.7672/sgjs2020090096'
 
 comment: true
 category: journal

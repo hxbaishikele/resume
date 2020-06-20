@@ -7,8 +7,8 @@ permalink: /en/publications/2020-06-11-status-and-trend-of-bim-based-on-baidu-in
 excerpt: 'By analyzing baidu search index of BIM from 2011 to 2019, it is concluded that there exists significant differences of BIM development between different provinces of China, and new strategies to eliminate regional differences, development of BIM software and personnel trainning are suggested'
 date: 2020-06-11
 venue: 'Construction Technology'
-paperurl: 'http://xxxxx.xxx/xxxxxx'
-citation: 'Lin, J.R.*, and Cheng, G.F. (2020). &quot;Current Status and Trends of BIM in China based on Big Data and Search Engine&quot; <i>Construction Technology</i>. 49(9): 96-99. doi: xxxx/xxxxxx'
+paperurl: 'http://dx.chinadoi.cn/10.7672/sgjs2020090096'
+citation: 'Lin, J.R.*, and Cheng, G.F. (2020). &quot;Current Status and Trends of BIM in China based on Big Data and Search Engine&quot; <i>Construction Technology</i>. 49(9): 96-99. doi: 10.7672/sgjs2020090096'
 
 comment: true
 category: journal
