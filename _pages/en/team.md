@@ -37,23 +37,40 @@ author_profile: true
 
 | No. | Name  | Thesis Title | Admission Time | Graduate Time | Major | Info |
 | --- | ------ | -------- | -------- | -------- | ---- | ---- |
-| 1 | Zi-Zhe Yuan | Status and Cases of BIM-based Compilance Checking | 2016/8 | 2020/6 | Construction Management |  |
-| 2 | Yi Liu | Automatic Knowledge Acquisition in AEC Area | 2016/8 | 2020/6 | Civil Engineering | Co-supervised with Prof. Zhen-Zhong Hu |
+| 1 | Zi-Zhe Yuan | Status and Cases of BIM-based Compilance Checking | 2016/8 | 2020/6 | Construction Management | Graduated |
+| 2 | Yi Liu | Automatic Knowledge Acquisition in AEC Area | 2016/8 | 2020/6 | Civil Engineering | Graduated, co-supervised with Prof. Zhen-Zhong Hu |
 | 3 | Jian Xiao | Design Optimization of Steel Frames based on Parametric Modeling and Genetic Algorithm | 2015/8 | 2019/6 | Civil Engineering | Graduated |
 | 4 | Mansour | BIM-based Compliance Checking for Fire Protection Design | 2013/8 | 2019/6 | Civil Engineering | Graduated |
 
 ## Undergraduate Research Training
+### Student Research Training Program (SRT)
 
 | No. | Name | Research Topic | Admission Time | Period | Major | Info |
 | ---- | ---- | -------- | ---- | -------- | ---- | ---- |
-| 1 | Ming-Hui Wu | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-now | Civil Engineering | SRT |
-| 2 | Jie-Xun Feng | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-now | Civil Engineering | SRT |
-| 3 | Yi Gu | Quantitative Analysis of BIM-based Design Behaviors | 2018/8 | 2019/3-now | Civil Engineering | SRT |
-| 4 | Jia-Cheng Yao | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering | Teaching Apitude Program |
-| 5 | Jia-Tian Wei | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering | Teaching Apitude Program |
-| 6 | Zi-Xu Yang | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering | Teaching Apitude Program |
-| 7 | Zhen Wang | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering | Teaching Apitude Program |
-| 8 | Fang-Yin Shen | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering | Teaching Apitude Program |
-| 9 | Pang-Yu Liao | Structurization of Building Codes based on Text Mining | 2016/8 | 2019/3-7 | Civil Engineering | CAD Course |
-| 10 | Yu-Wei Zhou | Spatial Analytics for Building Information Models | 2016/8 | 2017/10-2018/10 | Civil Engineering | SRT |
-| 11 | Xin Guan | Spatial Analytics for Building Information Models | 2015/8 | 2017/10-2018/10 | Hydraulic Engineering | SRT |
+| 1 | Ming-Hui Wu | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-now | Civil Engineering |  |
+| 2 | Jie-Xun Feng | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-now | Civil Engineering |  |
+| 3 | Yi Gu | Quantitative Analysis of BIM-based Design Behaviors | 2018/8 | 2019/3-now | Civil Engineering |  |
+| 4 | Yu-Wei Zhou | Spatial Analytics for Building Information Models | 2016/8 | 2017/10-2018/10 | Civil Engineering |  |
+| 5 | Xin Guan | Spatial Analytics for Building Information Models | 2015/8 | 2017/10-2018/10 | Hydraulic Engineering |  |
+
+### CAD Challenge Program
+
+| No. | Name | Research Topic | Admission Time | Period | Major | Info |
+| ---- | ---- | -------- | ---- | -------- | ---- | ---- |
+| 1 | Pang-Yu Liao | Structurization of Building Codes based on Text Mining | 2016/8 | 2019/3-2019/7 | Civil Engineering |  |
+| 2 | Wang Chen | Data Cleaning and Mining for Building Performance Management | 2017/8 | 2020/3-2020/6 | Civil Engineering |  |
+| 3 | Ming-Hui Wu | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2020/3-2020/6 | Civil Engineering |  |
+| 4 | Zhong-Tian She | Automatic Crawling and Cleaning of Online Building Codes | 2017/8 | 2020/3-2020/6 | Civil Engineering |  |
+
+### Teaching Apitude Program
+
+| No. | Name | Research Topic | Admission Time | Period | Major | Info |
+| ---- | ---- | -------- | ---- | -------- | ---- | ---- |
+| 1 | Jia-Cheng Yao | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering |  |
+| 2 | Jia-Tian Wei | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering |  |
+| 3 | Zi-Xu Yang | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering |  |
+| 4 | Zhen Wang | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering |  |
+| 5 | Fang-Yin Shen | Analysis of Pros and Cons of Automatic Compilance Checking | 2018/8 | 2019/9-2019/12 | Civil Engineering |  |
+| 6 | Long-Long Xu | Spatial-Temporal Analysis of Public Attentions of BIM in China | 2018/8 | 2020/3-2020/6 | Civil Engineering |  |
+| 7 | Jun-Yi Chen | Impact Factors of Public Attentions of BIM in China | 2018/8 | 2020/3-2020/6 | Civil Engineering |  |
+| 8 | Yi-Run Jiang | Visualization of Public Attentions of BIM in China | 2018/8 | 2020/3-2020/6 | Civil Engineering |  |
