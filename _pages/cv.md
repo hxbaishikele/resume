@@ -64,15 +64,33 @@ redirect_from:
 {% assign publications = site.publications | where:"lang", page.lang %}
 {% assign journals = publications | where:"category", 'journal' %}
 {% assign proceedings = publications | where:"category", 'conference' %}
-
+{% assign books = publications | where:"category", 'book' %}
+{% assign chapters = publications | where:"category", 'chapter' %}
+  
+{% if journals.size>0 %}
 ### 期刊论文
-<ul>{% for post in journals reversed%}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+  <ul>{% for post in journals reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
+{% if proceedings.size>0 %}
 ### 会议论文
-<ul>{% for post in proceedings reversed%}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+  <ul>{% for post in proceedings reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
+{% if books.size>0 %}
+### 教材专著
+  <ul>{% for post in books reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
+{% if chapters.size>0 %}
+### 参编教材专著
+  <ul>{% for post in chapters reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
   
 ## 学术报告
 {% assign talks = site.talks | where:"lang", page.lang %}

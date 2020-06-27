@@ -39,3 +39,9 @@ Tunnel engineering is one of the typical megaprojects given its long constructio
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This research is supported by the National Natural Science Foundation of China (No. 51778336, No. 51908323) and the Tsinghua University-Glodon Joint Research Centre for Building Information Model (RCBIM). 
+
+Accession Number: WOS:000538727700119
+
+ISSN: 2169-3536
+
+IDS Number: LV8XZ

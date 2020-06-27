@@ -61,17 +61,36 @@ redirect_from:
 * Aug, 2009, Special Award of the 7th National Zhou Peiyuan Mechanics Competition for College Students
 
 ## Publications
-  {% assign publications = site.publications | where:"lang", page.lang %}
-  {% assign journals = publications | where:"category", 'journal' %}
-  {% assign proceedings = publications | where:"category", 'conference' %}
+{% assign publications = site.publications | where:"lang", page.lang %}
+{% assign journals = publications | where:"category", 'journal' %}
+{% assign proceedings = publications | where:"category", 'conference' %}
+{% assign books = publications | where:"category", 'book' %}
+{% assign chapters = publications | where:"category", 'chapter' %}
+  
+{% if journals.size>0 %}
 ### Journal Publications
   <ul>{% for post in journals reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
+{% if proceedings.size>0 %}
 ### Conference Publications
   <ul>{% for post in proceedings reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
+{% if books.size>0 %}
+### Books
+  <ul>{% for post in books reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
+{% if chapters.size>0 %}
+### Book Chapters
+  <ul>{% for post in chapters reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endif %}
   
 ## Talks
 {% assign talks = site.talks | where:"lang", page.lang %}
