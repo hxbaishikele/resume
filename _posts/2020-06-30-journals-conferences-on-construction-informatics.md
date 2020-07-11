@@ -1,5 +1,5 @@
 ---
-title: "™土木建管与信息科学交叉方向期刊、会议列表"
+title: "土木、建管与信息科学交叉方向期刊、会议列表"
 lang: zh
 ref: posts/2020-06-30-journals-conferences-on-construction-informatics
 permalink: /posts/2020-06-30-journals-conferences-on-construction-informatics

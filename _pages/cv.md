@@ -17,6 +17,7 @@ redirect_from:
 * 2007年8月-2011年7月，清华大学土木系，工学学士
 
 ## 工作经历
+* 2018年10月-今，清华大学土木系，力学计算与仿真实验室主任
 * 2018年8月-今，清华大学土木系，助理研究员
 * 2016年6月-2018年8月，清华大学土木系，博士后
   * 研究方向：基于BIM和物联网的大型基础设施运维管理技术
@@ -120,6 +121,7 @@ redirect_from:
 ## 社会服务
 * 中国图学学会 BIM 专委会委员
 * 北京城市规划学会BIM研究与应用中心特聘专家
+* Advances in Civil Engineering 特刊客座编辑
 * Automation in Construction 审稿人
 * Journal of Computing in Civil Engineering 审稿人
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 审稿人

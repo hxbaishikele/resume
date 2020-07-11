@@ -32,6 +32,10 @@ See more info at https://academicpages.github.io/
 4. Clone the repository, and run `bundle install` or `bundle clean` if needed
 5. Run `bundle exec jekyll serve`
 6. Add `gem “faraday”, “< 1.0”` if needed
+7. build and test:
+7.1 sudo mount -t drvfs d: /mnt/d
+7.2 cd /mnt/d/Documents/dev/linjiarui.github.io
+7.3 sudo bundle exec jekyll build
 
 ## Tips (JR Lin)
 1. Do not use `'` in front matter, it causes strange issues.

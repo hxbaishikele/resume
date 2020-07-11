@@ -17,6 +17,7 @@ redirect_from:
 * Aug, 2007-Jul, 2011: B.S. in Department of Civil Engineering, Tsinghua University
 
 ## Work experience
+* Dec, 2018-Now: Director of the Mechanics Computing and Simulation Laboratory, Tsinghua University
 * Aug, 2018-Now: Research Assistant Professor, Tsinghua University
 * Jul, 2016-Aug, 2018: Postdoctoral Research Associate, Tsinghua University
   * Research area: Maintenance of buildings and infrastructures based on BIM and IoT
@@ -120,6 +121,7 @@ redirect_from:
 ## Service and leadership
 * Member of building information modeling committee of China Graphics Society
 * Special Expert of building information modeling center of Beijing City Planning Society
+* Guest Editor of _Advances in Civil Engineering_
 * Reviewer of _Automation in Construction_
 * Reviewer of _Journal of Computing in Civil Engineering_
 * Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
