@@ -32,4 +32,6 @@ Compliance checking of building design is essential to provide a correct design 
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-12-18-BIM-for-automatic-compliance-checking.pdf)
 
+This paper is selected as one of the two hot papers of _Journal of Tsinghua University (Science & Technology)_ on July 12, 2020, see [here]({{ site.baseurl }}/en/posts/2020-07-12-hot-paper-bim-for-acc) for detail.
+
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
