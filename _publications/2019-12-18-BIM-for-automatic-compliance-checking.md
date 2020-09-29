@@ -32,6 +32,6 @@ tags:
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-12-18-BIM-for-automatic-compliance-checking.pdf)
 
-本论文于2020年7月被《清华大学学报（自然科学版）》选为首页2篇热点论文之一，详见[这里]({{ site.baseurl }}/posts/2020-07-12-hot-paper-bim-for-acc)。
+本论文于2020年7月被《清华大学学报（自然科学版）》选为首页2篇热点论文之一并入选2020年下载排行榜，详见[这里]({{ site.baseurl }}/posts/2020-07-12-hot-paper-bim-for-acc)和[这里]({{ site.baseurl }}/posts/2020-09-29-bim-for-acc-is-one-of-most-downloaded-papers-of-jst)。
 
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
