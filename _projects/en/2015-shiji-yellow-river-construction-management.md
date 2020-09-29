@@ -18,6 +18,14 @@ tags:
   - 4D
   - bridge
   - safety
+
+header:
+  overlay_image: 2015-shiji-yellow-river-bridge.jpg
+  #image: 2015-shiji-yellow-river-bridge.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Shi-ji Yellow River Bridge"
+  #cta_label: "More Info"
+  #cta_url: "https://linjiarui.net"
 ---
 
 I was the technical leader of the project, and led the development and application of the BIM system, which integrates 3D design model, structural simulation model, sensing data and schedule into an unified model, and dynamically comparing the simulated results and sensing data to assess the risk of the construction process. The project is awarded the first prize of "Longtu Cup" National BIM Competition.
