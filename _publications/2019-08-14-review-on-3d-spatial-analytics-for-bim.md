@@ -8,7 +8,7 @@ excerpt: '本研究全面综述了BIM模型3D空间数据分析挖掘方法的�
 date: 2019-08-14
 venue: 'Archives of Computational Methods in Engineering'
 paperurl: 'https://doi.org/10.1007/s11831-019-09356-6'
-citation: 'Zhou, Y.W., Hu, Z.Z., Lin, J.R.*, and Zhang, J.P. (2019). &quot;A Review on 3D Spatial Data Analytics for Building Information Models&quot; <i>Archives of Computational Methods in Engineering</i>. 1-15. doi: 10.1016/10.1007/s11831-019-09356-6'
+citation: 'Zhou, Y.W., Hu, Z.Z., Lin, J.R.*, and Zhang, J.P. (2020). &quot;A Review on 3D Spatial Data Analytics for Building Information Models&quot; <i>Archives of Computational Methods in Engineering</i>. 27(5): 1449-1463. doi: 10.1016/10.1007/s11831-019-09356-6'
 
 comment: true
 category: journal
