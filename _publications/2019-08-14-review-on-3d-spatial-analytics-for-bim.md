@@ -33,3 +33,12 @@ Except for various properties, accurate and intuitive 3D representations of buil
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2019-08-14-review-on-3d-spatial-analytics-for-bim.pdf)
 
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
+
+
+Accession Number: WOS:000575368900004
+
+ISSN: 1134-3060
+
+eISSN: 1886-1784
+
+IDS Number: NW9WD
