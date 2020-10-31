@@ -19,6 +19,10 @@ tags:
   - semantic
   - integration
   - residential design
+
+grants:
+  - 2013AA041307
+  - 51278274
 ---
 
 

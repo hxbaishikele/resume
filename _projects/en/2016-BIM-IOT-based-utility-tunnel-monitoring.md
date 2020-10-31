@@ -8,6 +8,7 @@ permalink: /en/projects/2016-BIM-IOT-based-utility-tunnel-monitoring
 venue: "Chinese Postdoctoral Science Foundation Commission"
 date: 2016-09-01
 location: "Beijing, China"
+grant_id: 2016M601038
 excerpt: ""
 
 sponsor: government

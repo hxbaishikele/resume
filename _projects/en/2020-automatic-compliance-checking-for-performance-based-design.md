@@ -8,6 +8,7 @@ permalink: /en/projects/2020-automatic-compliance-checking-for-performance-based
 venue: "National Science Foundation of China"
 date: 2020-01-01
 location: "Beijing, China"
+grant_id: 51908323
 excerpt: ""
 
 sponsor: government

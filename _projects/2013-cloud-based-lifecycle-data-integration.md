@@ -8,6 +8,7 @@ permalink: /projects/2013-cloud-based-lifecycle-data-integration
 venue: "国家自然科学基金委"
 date: 2013-01-01
 location: "中国北京"
+grant_id: 51278274
 excerpt: ""
 
 sponsor: government

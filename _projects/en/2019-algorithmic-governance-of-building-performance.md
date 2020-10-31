@@ -8,6 +8,7 @@ permalink: /en/projects/2019-algorithmic-governance-of-building-performance
 venue: "Tsinghua University"
 date: 2019-01-01
 location: "Beijing, China"
+grant_id: 2019Z02UOT
 excerpt: ""
 
 sponsor: government

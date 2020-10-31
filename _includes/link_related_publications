@@ -1,0 +1,12 @@
+{% assign related_pubs = site.publications | where:"lang", page.lang %}
+  
+{% if page.grant_id and related_pubs.size > 0 %}
+
+<h3>{{site.data.ui-text[page.lang].related_publications}}:</h3>
+
+  {% for post in related_pubs %}
+    {% if post.grants and post.grants contains page.grant_id %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+{% endif %}

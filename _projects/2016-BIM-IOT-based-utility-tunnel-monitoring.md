@@ -8,6 +8,7 @@ permalink: /projects/2016-BIM-IOT-based-utility-tunnel-monitoring
 venue: "中国博士后基金会"
 date: 2016-09-01
 location: "中国北京"
+grant_id: 2016M601038
 excerpt: ""
 
 sponsor: government

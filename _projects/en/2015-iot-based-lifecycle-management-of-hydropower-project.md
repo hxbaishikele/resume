@@ -8,6 +8,8 @@ permalink: /en/projects/2015-iot-based-lifecycle-management-of-hydropower-projec
 venue: "Chengdu Engineering Corporation Limited"
 date: 2015-01-01
 location: "Chengdu, China"
+grant_id: 2011BAB05B05-4
+
 excerpt: ""
 
 sponsor: company

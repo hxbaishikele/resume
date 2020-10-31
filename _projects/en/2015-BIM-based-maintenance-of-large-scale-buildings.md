@@ -8,6 +8,7 @@ permalink: /en/projects/2015-BIM-based-maintenance-of-large-scale-buildings
 venue: "National Natural Science Foundation of China"
 date: 2015-01-01
 location: "Beijing, China"
+grant_id: 51478249
 excerpt: ""
 
 sponsor: government

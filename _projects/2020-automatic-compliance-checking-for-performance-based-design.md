@@ -8,6 +8,7 @@ permalink: /projects/2020-automatic-compliance-checking-for-performance-based-de
 venue: "国家自然科学基金委"
 date: 2020-01-01
 location: "中国北京"
+grant_id: 51908323
 excerpt: ""
 
 sponsor: government

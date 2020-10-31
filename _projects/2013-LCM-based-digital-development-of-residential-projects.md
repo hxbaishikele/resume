@@ -8,6 +8,7 @@ permalink: /projects/2013-LCM-based-digital-development-of-residential-projects
 venue: "科技部"
 date: 2013-10-01
 location: "中国北京"
+grant_id: 2013AA041307
 excerpt: ""
 
 sponsor: government

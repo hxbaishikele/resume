@@ -8,6 +8,7 @@ permalink: /projects/2017-spatial-data-analytics-for-BIM-based-FM
 venue: "清华-广联达BIM联合研究中心"
 date: 2017-10-01
 location: "中国北京"
+grant_id: RCBIM
 excerpt: ""
 
 sponsor: company

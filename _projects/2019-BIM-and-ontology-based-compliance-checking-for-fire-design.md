@@ -8,6 +8,7 @@ permalink: /projects/2019-BIM-and-ontology-based-compliance-checking-for-fire-de
 venue: "北京市自然科学基金委"
 date: 2019-01-01
 location: "中国北京"
+grant_id: 8194067
 excerpt: ""
 
 sponsor: government

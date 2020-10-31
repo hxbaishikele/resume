@@ -8,6 +8,7 @@ permalink: /en/projects/2018-BIM-based-standard-house-design-for-rural-area
 venue: "Ministry of Science and Technology"
 date: 2018-12-01
 location: "Beijing, China"
+grant_id: 2018YFD1100900
 excerpt: ""
 
 sponsor: government

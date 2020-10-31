@@ -8,6 +8,7 @@ permalink: /en/projects/2015-BIM-based-lifecycle-management-of-large-scale-build
 venue: "Beijing Municipal Science and Technology Commission"
 date: 2015-06-01
 location: "Beijing, China"
+grant_id: Z151100002115054
 excerpt: ""
 
 sponsor: government

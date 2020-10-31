@@ -8,6 +8,7 @@ permalink: /projects/2016-BIM-GIS-based-utility-tunnel-simulation-monitoring-man
 venue: "中国科协"
 date: 2016-7-01
 location: "中国北京"
+grant_id: QNRC2016001
 excerpt: ""
 
 sponsor: government

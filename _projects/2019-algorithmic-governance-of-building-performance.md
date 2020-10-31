@@ -8,6 +8,7 @@ permalink: /projects/2019-algorithmic-governance-of-building-performance
 venue: "清华大学"
 date: 2019-01-01
 location: "中国北京"
+grant_id: 2019Z02UOT
 excerpt: ""
 
 sponsor: government

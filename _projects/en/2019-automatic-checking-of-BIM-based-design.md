@@ -8,6 +8,7 @@ permalink: /en/projects/2019-automatic-checking-of-BIM-based-design
 venue: "Tsinghua-Glodon Joint Research Center for BIm"
 date: 2019-10-01
 location: "Beijing, China"
+grant_id: RCBIM
 excerpt: ""
 
 sponsor: company

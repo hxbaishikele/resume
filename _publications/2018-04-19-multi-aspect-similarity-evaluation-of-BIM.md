@@ -21,6 +21,12 @@ tags:
   - semantic
   - spatial
   - retrieval
+
+grants:
+  - 2013AA041307
+  - 51278274
+  - 2016M601038
+  - QNRC2016001
 ---
 
 

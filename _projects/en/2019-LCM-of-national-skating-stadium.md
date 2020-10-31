@@ -7,7 +7,8 @@ type: "Company Sponsored"
 permalink: /en/projects/2019-LCM-of-national-skating-stadium
 venue: "Beijing National Skating Stadium O&M Co., Ltd."
 date: 2019-06-01
-location: "B"
+location: "Beijing, China"
+grant_id: Z181100005918006
 excerpt: ""
 
 sponsor: company

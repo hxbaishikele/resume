@@ -21,6 +21,13 @@ tags:
   - BIM
   - constraint programming
   - optimization
+
+grants:
+  - 2018YFD1100900
+  - 2013AA041307
+  - 8194067
+  - 51908323
+  - QNRC2016001
 ---
 
 

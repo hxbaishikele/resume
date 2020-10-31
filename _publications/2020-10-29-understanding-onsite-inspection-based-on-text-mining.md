@@ -22,6 +22,11 @@ tags:
   - keyword extraction
   - decision-making
   - SCI
+
+grants:
+  - 51908323
+  - Z181100005918006
+  - 2019Z02UOT
 ---
 
 

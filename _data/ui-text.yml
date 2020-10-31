@@ -63,6 +63,8 @@ zh: &DEFAULT_ZH
   rec_citation               : "引用方式"
   download_paper             : "论文下载链接"
   download_preprint          : "预印本下载链接"
+  related_publications       : "相关论著发表情况"
+  related_grants             : "相关项目资助情况"
 
 
 # English (default)
@@ -129,6 +131,8 @@ en: &DEFAULT_EN
   rec_citation               : "Recommended citation"
   download_paper             : "Download paper here"
   download_preprint          : "Download preprint here"
+  related_publications       : "Related Publications"
+  related_grants             : "Financial Sources"
 
 en-US:
   <<: *DEFAULT_EN

@@ -8,6 +8,7 @@ permalink: /en/projects/2018-BIM-based-performance-simulation-of-buildings
 venue: "National Natural Science Foundation of China"
 date: 2018-01-01
 location: "Beijing, China"
+grant_id: 51778336
 excerpt: ""
 
 sponsor: government

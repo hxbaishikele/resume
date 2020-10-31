@@ -8,6 +8,7 @@ permalink: /projects/2019-LCM-of-national-skating-stadium
 venue: "北京国家速滑馆经营有限责任公司"
 date: 2019-06-01
 location: "中国北京"
+grant_id: Z181100005918006
 excerpt: ""
 
 sponsor: company

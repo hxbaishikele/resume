@@ -1,0 +1,12 @@
+{% assign related_prjs = site.projects | where:"lang", page.lang %}
+  
+{% if page.grants and related_prjs.size > 0 %}
+
+<h3>{{site.data.ui-text[page.lang].related_grants}}:</h3>
+
+  {% for post in related_prjs %}
+    {% if post.grant_id and page.grants contains post.grant_id %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+{% endif %}

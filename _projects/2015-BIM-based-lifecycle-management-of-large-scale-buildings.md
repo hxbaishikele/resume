@@ -8,6 +8,7 @@ permalink: /projects/2015-BIM-based-lifecycle-management-of-large-scale-building
 venue: "北京市科委"
 date: 2015-06-01
 location: "中国北京"
+grant_id: Z151100002115054
 excerpt: ""
 
 sponsor: government

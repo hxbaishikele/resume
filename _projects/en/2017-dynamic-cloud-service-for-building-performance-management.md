@@ -8,6 +8,7 @@ permalink: /en/projects/2017-dynamic-cloud-service-for-building-performance-mana
 venue: "Ministry of Science and Technology"
 date: 2017-07-01
 location: "Beijing, China"
+grant_id: 2017YFC0704200
 excerpt: ""
 
 sponsor: government

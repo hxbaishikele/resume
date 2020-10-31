@@ -58,6 +58,14 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        {% if page.collection == 'projects' %}
+          {%include link_related_publications%}
+        {% endif %}
+        
+        {% if page.collection == 'publications' %}
+          {%include link_related_grants%}
+        {% endif %}
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[lang].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

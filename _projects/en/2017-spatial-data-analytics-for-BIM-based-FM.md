@@ -8,6 +8,7 @@ permalink: /en/projects/2017-spatial-data-analytics-for-BIM-based-FM
 venue: "Tsinghua-Glodon Joint Research Center for BIM"
 date: 2017-10-01
 location: "Beijing, China"
+grant_id: RCBIM
 excerpt: ""
 
 sponsor: company

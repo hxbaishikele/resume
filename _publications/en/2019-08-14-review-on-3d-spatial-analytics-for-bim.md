@@ -20,6 +20,12 @@ tags:
   - spatio-semantic
   - interoperability
   - BIM
+
+grants:
+  - 2018YFD1100900
+  - 8194067
+  - QNRC2016001
+  - RCBIM
 ---
 
 

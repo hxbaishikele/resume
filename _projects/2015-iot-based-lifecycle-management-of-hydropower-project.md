@@ -8,6 +8,8 @@ permalink: /projects/2015-iot-based-lifecycle-management-of-hydropower-project
 venue: "成都勘测设计院"
 date: 2015-01-01
 location: "中国成都"
+grant_id: 2011BAB05B05-4
+
 excerpt: ""
 
 sponsor: company

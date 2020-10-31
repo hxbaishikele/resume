@@ -8,6 +8,7 @@ permalink: /en/projects/2019-BIM-and-ontology-based-compliance-checking-for-fire
 venue: "Beijing Natural Science Foundation"
 date: 2019-01-01
 location: "Beijing, China"
+grant_id: 8194067
 excerpt: ""
 
 sponsor: government

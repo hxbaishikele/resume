@@ -8,6 +8,7 @@ permalink: /projects/2019-automatic-checking-of-BIM-based-design
 venue: "清华-广联达BIM联合研究中心"
 date: 2019-10-01
 location: "中国北京"
+grant_id: RCBIM
 excerpt: ""
 
 sponsor: company
