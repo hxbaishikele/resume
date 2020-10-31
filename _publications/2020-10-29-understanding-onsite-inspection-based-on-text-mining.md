@@ -8,7 +8,7 @@ excerpt: '基于关键字提取和主题建模技术，本文提出了一种新�
 date: 2020-10-29
 venue: 'IEEE Access'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.3035214'
-citation: 'Lin, J.R.*, Hu, Z.Z., Li, J.L., Chen, L.M. (2020). &quot;Understanding On-Site Inspection of Construction Projects based on Keyword Extraction and Topic Modeling&quot; <i>IEEE Access</i>. x: xxxxx-xxxxx. doi: 10.1109/ACCESS.2020.3035214'
+citation: 'Lin, J.R.*, Hu, Z.Z., Li, J.L., and Chen, L.M. (2020). &quot;Understanding On-Site Inspection of Construction Projects based on Keyword Extraction and Topic Modeling&quot; <i>IEEE Access</i>. x: xxxxx-xxxxx. doi: 10.1109/ACCESS.2020.3035214'
 
 comment: true
 category: journal
