@@ -7,6 +7,7 @@ permalink: /en/publications/2020-10-14-ABM-for-human-robot-collaboration-in-bric
 excerpt: 'This research proposes an agent-based modeling approach to simulate human-robot collaboration in bricklaying, result shows that communication model and human factors have a significant impact on construction productivity'
 date: 2020-10-14
 venue: '2020 Proceedings of the 37th ISARC'
+doi: '10.22260/ISARC2020/0110'
 paperurl: 'https://doi.org/10.22260/ISARC2020/0110'
 citation: 'Wu, M.H., Lin, J.R.* (2020). &quot;An Agent-based Approach for Modeling Human-robot Collaboration in Bricklaying&quot; <i>2020 Proceedings of the 37th ISARC</i>. 797-804. Kitakyshu, Japan. doi: 10.22260/ISARC2020/0110'
 

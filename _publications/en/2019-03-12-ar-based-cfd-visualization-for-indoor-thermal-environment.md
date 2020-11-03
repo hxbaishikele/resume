@@ -7,6 +7,7 @@ permalink: /en/publications/2019-03-12-ar-based-cfd-visualization-for-indoor-the
 excerpt: 'This research proposes an approach to AR-based CFD visualization on mobile devices for indoor thermal environment. Comparing to the widely used vtk format, a data compression ratio of 63.4% and a loading time saving ratio of 89.3% are achieved. Source code and test data are available on github.'
 date: 2019-03-12
 venue: 'Automation in Construction'
+doi: '10.1016/j.autcon.2019.02.007'
 paperurl: 'https://doi.org/10.1016/j.autcon.2019.02.007'
 citation: 'Lin, J.*, Cao, J., Zhang, J., van Treeck, C. and Frisch, J. (2019). &quot;Visualization of Indoor Thermal Environment on Mobile Devices based on Augmented Reality and Computational Fluid Dynamics&quot; <i>Automation in Construction</i>. 103: 26-40. doi: 10.1016/j.autcon.2019.02.007'
 

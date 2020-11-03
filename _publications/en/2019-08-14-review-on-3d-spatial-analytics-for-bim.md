@@ -7,6 +7,7 @@ permalink: /en/publications/2019-08-14-review-on-3d-spatial-analytics-for-bim
 excerpt: 'This paper provides a systematic review on 3D spatial data analytics for BIM, state-of-the-art, challenges and potential directions are provided'
 date: 2019-08-14
 venue: 'Archives of Computational Methods in Engineering'
+doi: '10.1007/s11831-019-09356-6'
 paperurl: 'https://doi.org/10.1007/s11831-019-09356-6'
 citation: 'Zhou, Y.W., Hu, Z.Z., Lin, J.R.*, and Zhang, J.P. (2020). &quot;A Review on 3D Spatial Data Analytics for Building Information Models&quot; <i>Archives of Computational Methods in Engineering</i>. 27(5): 1449-1463. doi: 10.1016/10.1007/s11831-019-09356-6'
 

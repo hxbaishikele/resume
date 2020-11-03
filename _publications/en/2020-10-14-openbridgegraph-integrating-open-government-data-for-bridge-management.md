@@ -7,6 +7,7 @@ permalink: /en/publications/2020-10-14-openbridgegraph-integrating-open-governme
 excerpt: 'This research investigates how to integrate the bridge information and the environmental data opened by the government based on graph modeling for bridge maintenance'
 date: 2020-10-14
 venue: '2020 Proceedings of the 37th ISARC'
+doi: '10.22260/ISARC2020/0172'
 paperurl: 'https://doi.org/10.22260/ISARC2020/0172'
 citation: 'Lin, J.R.* (2020). &quot;OpenBridgeGraph: Integrating Open Government Data for Bridge Management&quot; <i>2020 Proceedings of the 37th ISARC</i>. 1255-1262. Kitakyshu, Japan. doi: 10.22260/ISARC2020/0172'
 

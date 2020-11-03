@@ -7,6 +7,7 @@ permalink: /en/publications/2013-02-01-bim-based-planning-platform-for-residenti
 excerpt: 'This paper proposes a BIM- and 4D-based planning and evaluation method and prototype system for planning of residential projects'
 date: 2013-02-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
+doi: '10.16670/j.cnki.cn11-5823/tu.2013.01.004'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.01.004'
 citation: 'Lin, J.*, Zhang, J., He, T., Jia, W., Wu, Z. (2013). &quot;Research and Development of BIM-based Housing Project Planning System&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 5(1): 22-26. doi: 10.16670/j.cnki.cn11-5823/tu.2013.01.004 (in Chinese)'
 

@@ -7,6 +7,7 @@ permalink: /en/publications/2014-06-23-bim-based-plan-modeling-for-residential-p
 excerpt: 'This paper proposes an fast plan modeling system for residential design based standard BIM model library.'
 date: 2014-06-23
 venue: 'Computing in Civil and Building Engineering'
+doi: 'doi/10.1061/9780784413616.061'
 paperurl: 'https://ascelibrary.org/doi/10.1061/9780784413616.061'
 citation: 'He, T., Lin, J., Hu, Z., Zhang, J., Jia, W. and Su, J. (2014). &quot;BIM-Based Plan Modeling System at Preliminary Stage for Residential Real Estate Projects&quot; <i>Computing in Civil and Building Engineering</i>. 61: 488-495.'
 

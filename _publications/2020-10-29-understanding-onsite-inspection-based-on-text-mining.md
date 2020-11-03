@@ -7,6 +7,7 @@ permalink: /publications/2020-10-29-understanding-onsite-inspection-based-on-tex
 excerpt: '基于关键字提取和主题建模技术，本文提出了一种新颖的文本挖掘方法来识别施工现场质量安全问题的关注点及其动态变化过程。使用该方法，决策者可以提取现场问题类别、数量等特征及其随时间的变化规律，从而支持更加有效的现场检查和以数据为中心的决策过程。'
 date: 2020-10-29
 venue: 'IEEE Access'
+doi: '10.1109/ACCESS.2020.3035214'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.3035214'
 citation: 'Lin, J.R.*, Hu, Z.Z., Li, J.L., and Chen, L.M. (2020). &quot;Understanding On-Site Inspection of Construction Projects based on Keyword Extraction and Topic Modeling&quot; <i>IEEE Access</i>. x: xxxxx-xxxxx. doi: 10.1109/ACCESS.2020.3035214'
 

@@ -7,6 +7,7 @@ permalink: /en/publications/2017-10-12-hybrid-data-mining-for-operation-maintena
 excerpt: 'This paper proposes a BIM-based hybrid data mining approach for building operation and maintenance.'
 date: 2017-10-12
 venue: 'Building and Environment'
+doi: '10.1016/j.buildenv.2017.09.030'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360132317304444'
 citation: 'Peng, Y., Lin, J., Zhang, J. and Hu, Z.* (2017). &quot;A hybrid data mining approach on BIM-based building operation and maintenance&quot; <i>Building and Environment</i>. 126: 483-495. doi: 10.1016/j.buildenv.2017.09.030'
 

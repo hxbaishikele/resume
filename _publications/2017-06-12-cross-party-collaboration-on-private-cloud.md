@@ -7,7 +7,8 @@ permalink: /publications/2017-06-12-cross-party-collaboration-on-private-cloud
 excerpt: '本研究提出一种基于分布式私有环境的多参与方协同与信息共享方法，可保障各方数据所有权及私密性'
 date: 2017-06-12
 venue: 'Automation in Construction'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0926580517302042'
+doi: '10.1016/j.autcon.2017.06.021'
+paperurl: 'https://doi.org/10.1016/j.autcon.2017.06.021'
 citation: 'Zhang, J., Liu, Q., Hu, Z., Lin, J.* and Yu, F. (2017). &quot;A multi-server information-sharing environment for cross-party collaboration on a private cloud&quot; <i>Automation in Construction</i>. 81: 180-195. doi: 10.1016/j.autcon.2017.06.021'
 
 comment: true

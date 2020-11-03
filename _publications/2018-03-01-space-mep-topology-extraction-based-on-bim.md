@@ -7,6 +7,7 @@ permalink: /publications/2018-03-01-space-mep-topology-extraction-based-on-bim
 excerpt: '本文提出从BIM提取空间及设备拓扑信息，并将之应用于室内路径计算、设备维护维修的方法'
 date: 2018-03-01
 venue: '清华大学学报 (自然科学版)'
+doi: '10.16511/j.cnki.qhdxxb.2018.26.018'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2018.26.018'
 citation: '张建平, 何田丰, 林佳瑞*, 等. (2018). &quot;基于 BIM 的建筑空间与设备拓扑信息提取及应用&quot; <i>清华大学学报 (自然科学版)</i>. 58(6): 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018'
 

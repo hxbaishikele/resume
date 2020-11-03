@@ -7,6 +7,7 @@ permalink: /publications/2018-10-01-ontology-based-retrieval-for-energy-consumpt
 excerpt: '本研究提出面向能耗管理的语义信息提取方法。'
 date: 2018-10-01
 venue: 'Advances in Informatics and Computing in Civil and Construction Engineering'
+doi: '10.1007/978-3-030-00220-6_28'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-00220-6_28'
 citation: 'Xiao, Y., Hu, Z.*and  Lin, J. (2019). &quot;Ontology-Based Semantic Retrieval Method of Energy Consumption Management&quot; <i>in Advances in Informatics and Computing in Civil and Construction Engineering</i>. 231-238. Springer International Publishing. Chicago,Illinois, US.'
 

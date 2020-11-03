@@ -7,6 +7,7 @@ permalink: /publications/2020-10-14-openbridgegraph-integrating-open-government-
 excerpt: '本研究提出一种面向桥梁运维管理的开放数据集成模型及方法'
 date: 2020-10-14
 venue: '2020 Proceedings of the 37th ISARC'
+doi: '10.22260/ISARC2020/0172'
 paperurl: 'https://doi.org/10.22260/ISARC2020/0172'
 citation: 'Lin, J.R.* (2020). &quot;OpenBridgeGraph: Integrating Open Government Data for Bridge Management&quot; <i>2020 Proceedings of the 37th ISARC</i>. 1255-1262. Kitakyshu, Japan. doi: 10.22260/ISARC2020/0172'
 

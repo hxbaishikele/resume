@@ -7,6 +7,7 @@ permalink: /en/publications/2018-11-22-bim-and-iot-framework-for-building-perfor
 excerpt: 'This paper proposes a BIM- and IoT-based monitoring for building performance management'
 date: 2018-11-22
 venue: 'Journal of Structural Integrity and Maintenance'
+doi: '10.1080/24705314.2018.1536318'
 paperurl: 'https://doi.org/10.1080/24705314.2018.1536318'
 citation: 'Kang, K., Lin, J.* and Zhang, J. (2018). &quot;BIM- and IoT-based monitoring framework for building performance management&quot; <i>Journal of Structural Integrity and Maintenance</i>. 3(4): 254-261.'
 

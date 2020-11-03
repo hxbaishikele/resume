@@ -7,7 +7,8 @@ permalink: /publications/2018-03-02-applicability-of-ifc-for-green-building-in-c
 excerpt: '本研究提取了我国绿色建筑评价的信息需求，并分析了IFC标准对我国绿色建筑评价的适用性，对有关标准编制、完善具有重要意义'
 date: 2018-03-02
 venue: '图学学报'
-paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018040765 '
+doi: '10.11996/JG.j.2095-302X.2018040765'
+paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018040765'
 citation: '林佳瑞*, 张建平. (2018). &quot;面向我国绿色建筑评价的Ifc适用性分析&quot; <i>图学学报</i>. 39(4): 765-770. doi: 10.11996/JG.j.2095-302X.2018040765'
 
 comment: true

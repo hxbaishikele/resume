@@ -7,6 +7,7 @@ permalink: /publications/2019-05-23-classification-and-examples-of-design-change
 excerpt: '本研究对设计变更进行了分类，并给出了相应的BIM模型示例，可以用于有关变更识别算法的测试、验证依据'
 date: 2019-05-24
 venue: '2019 Proceedings of the 36th ISARC'
+doi: '10.22260/ISARC2019/0017'
 paperurl: 'https://doi.org/10.22260/ISARC2019/0017'
 citation: 'Lin, J.R.*, Zhou, Y.C., Zhang, J.P., Hu, Z.Z. (2019). &quot;Classification and Exemplary BIM Models Development of Design Changes&quot; <i>2019 Proceedings of the 36th ISARC</i>. 122-127. Banff, Alberta, Canada. doi: 10.22260/ISARC2019/0017'
 

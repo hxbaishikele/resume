@@ -60,6 +60,7 @@ baidu_push               : true
 bing_site_verification   : "B19BC2084ECBB5D7974AD149472A1D3A"
 alexa_site_verification  :
 yandex_site_verification :
+scopus_citation_apikey   : "4b62bef61c57e8686f7493f7b06e8334"
 
 # Social Sharing
 twitter:

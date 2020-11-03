@@ -7,6 +7,7 @@ permalink: /en/publications/2020-04-08-semantic-classification-and-detection-of-
 excerpt: 'This research proposes a semantic classification and hash-code-accelerated detection of design changes in BIM models'
 date: 2020-04-08
 venue: 'Automation in Construction'
+doi: '10.1016/j.autcon.2020.103212'
 paperurl: 'http://doi.org/10.1016/j.autcon.2020.103212'
 citation: 'Lin, J.R.*, and Zhou, Y.C. (2020). &quot;Semantic classification and hash code accelerated detection of design changes in BIM models&quot; <i>Automation in Construction</i>. 115: 103212. doi: 10.1016/j.autcon.2020.103212'
 

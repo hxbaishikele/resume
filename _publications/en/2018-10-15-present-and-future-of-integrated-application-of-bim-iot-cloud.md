@@ -7,6 +7,7 @@ permalink: /en/publications/2018-10-15-present-and-future-of-integrated-applicat
 excerpt: 'This paper reviews studies on the integration of BIM, IoT, Cloud Computing, and future trends and challenges are summarized'
 date: 2018-10-15
 venue: 'Journal of Graphics'
+doi: '10.11996/JG.j.2095-302X.2018050806'
 paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018050806'
 citation: 'Zhang, Y., Lin, J.*, Zhang, J. (2018). &quot;Present and Future of Integrated Applications of BIM, Cloud Computing, Big Data and Internet of Things&quot; <i>Journal of Graphics</i>. 39(5): 806-816. doi: 10.11996/JG.j.2095-302X.2018050806'
 

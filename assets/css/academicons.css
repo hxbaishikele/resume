@@ -363,3 +363,15 @@ video {
   height: auto   !important;
 }
 /* .dropdown:hover .dropbtn {background-color: #3e8e41;} */
+
+.scopus_crop {
+    width: 156px;
+    height: 20px;
+    overflow: hidden;
+}
+
+.scopus_crop img {
+    width: 196px;
+    height: 26px;
+    margin: -3px -20px -3px -20px;/*top right bottom left*/
+}

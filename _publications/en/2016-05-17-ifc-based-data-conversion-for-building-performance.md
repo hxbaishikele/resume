@@ -7,6 +7,7 @@ permalink: /en/publications/2016-05-17-ifc-based-data-conversion-for-building-pe
 excerpt: 'This paper proposes an algorithm converting IFC to gbXML for building performance analyses'
 date: 2016-05-17
 venue: 'Journal of Tsinghua University (Science & Technology)'
+doi: '10.16511/j.cnki.qhdxxb.2016.21.057'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2016.21.057'
 citation: 'Lin, J., Zhang, J.* (2016). &quot;Data conversion and sharing for building performance analyses based on IFC&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 56(9): 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057 (in Chinese)'
 

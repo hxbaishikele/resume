@@ -7,6 +7,7 @@ permalink: /en/publications/2020-10-29-understanding-onsite-inspection-based-on-
 excerpt: 'This paper proposed a novel text mining approach to identify key concerns and their dynamics of on-site issues based on keyword extraction and topic modeling. With the proposed method, decision-makers could extract key concerns (i.e. categories of on-site issues) and their changes with time. Therefore, a more efficient on-site inspection and data-centric decision-making process is possible.'
 date: 2020-10-29
 venue: 'IEEE Access'
+doi: '10.1109/ACCESS.2020.3035214'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.3035214'
 citation: 'Lin, J.R.*, Hu, Z.Z., Li, J.L., and Chen, L.M. (2020). &quot;Understanding On-Site Inspection of Construction Projects based on Keyword Extraction and Topic Modeling&quot; <i>IEEE Access</i>. x: xxxxx-xxxxx. doi: 10.1109/ACCESS.2020.3035214'
 

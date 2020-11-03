@@ -7,6 +7,7 @@ permalink: /en/publications/2013-06-01-web3d-for-bim-visualization
 excerpt: 'This paper proposes a BIM visualization and management framework based on WebGL'
 date: 2013-06-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
+doi: '10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 citation: 'Wang, H., Hu, Z., Lin, J., Zhang, J.* (2013). &quot;Web-oriented BIM 3D Viewing and Information Management&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 5(3): 1-7. doi: 10.16670/j.cnki.cn11-5823/tu.2013.03.011 (in Chinese)'
 

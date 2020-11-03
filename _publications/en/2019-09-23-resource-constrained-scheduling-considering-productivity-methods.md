@@ -7,6 +7,7 @@ permalink: /en/publications/2019-09-23-resource-constrained-scheduling-consideri
 excerpt: 'This research proposes a novel method that considers productivity and construction methods in modeling and solving resource-constrained project problem'
 date: 2019-09-23
 venue: 'Journal of Tsinghua University (Science & Technology)'
+doi: '10.16511/j.cnki.qhdxxb.2019.21.035'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035'
 citation: 'Wang, H., Lin, J.*, and Zhang, J. (2020). &quot;Resource-constrained project scheduling problem considering productivity and construction methods&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
 

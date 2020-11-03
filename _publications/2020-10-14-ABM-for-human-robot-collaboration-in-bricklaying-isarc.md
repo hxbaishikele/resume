@@ -7,6 +7,7 @@ permalink: /publications/2020-10-14-ABM-for-human-robot-collaboration-in-brickla
 excerpt: '本研究提出一种基于智能体的人机协作仿真模型，研究排砖机器人与工人的协作过程，发现人机协作模式、人因特征对施工效率具有明显影响'
 date: 2020-10-14
 venue: '2020 Proceedings of the 37th ISARC'
+doi: '10.22260/ISARC2020/0110'
 paperurl: 'https://doi.org/10.22260/ISARC2020/0110'
 citation: 'Wu, M.H., Lin, J.R.* (2020). &quot;An Agent-based Approach for Modeling Human-robot Collaboration in Bricklaying&quot; <i>2020 Proceedings of the 37th ISARC</i>. 797-804. Kitakyshu, Japan. doi: 10.22260/ISARC2020/0110'
 

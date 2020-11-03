@@ -7,6 +7,7 @@ permalink: /publications/2019-09-23-resource-constrained-scheduling-considering-
 excerpt: '本文提出一种考虑生产效率与不同施工工艺的资源首先施工进度优化调度方法'
 date: 2019-09-23
 venue: '清华大学学报（自然科学版）'
+doi: '10.16511/j.cnki.qhdxxb.2019.21.035'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2019.21.035'
 citation: '王珩玮, 林佳瑞*, 张建平 (2020). &quot;考虑生产效率与工艺的资源受限项目调度问题&quot; <i>清华大学学报（自然科学版）</i>. 60(3): 271-277. doi: 10.16511/j.cnki.qhdxxb.2019.21.035'
 

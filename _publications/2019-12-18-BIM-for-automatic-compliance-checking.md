@@ -7,6 +7,7 @@ permalink: /publications/2019-12-18-BIM-for-automatic-compliance-checking
 excerpt: '本文系统综述了国内外基于BIM的合规性自动审查研究现状，建立了有关研究框架，并指明了未来研究方向'
 date: 2019-12-18
 venue: '清华大学学报（自然科学版）'
+doi: '10.16511/j.cnki.qhdxxb.2020.25.013'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2020.25.013'
 citation: '林佳瑞,* 郭建锋 (2020). &quot;基于BIM的合规性自动审查&quot; <i>清华大学学报（自然科学版）</i>. 60(10): 873-879. doi: 10.16511/j.cnki.qhdxxb.2020.25.013'
 

@@ -7,6 +7,7 @@ permalink: /en/publications/2018-03-01-space-mep-topology-extraction-based-on-bi
 excerpt: 'This paper proposes a BIM-based method for space and MEP topological information extraction and application for path finding and facility management'
 date: 2018-03-01
 venue: 'Journal of Tsinghua University (Science & Technology)'
+doi: '10.16511/j.cnki.qhdxxb.2018.26.018'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2018.26.018'
 citation: 'Zhang, J., He, T., Lin, J.*, et al. (2018). &quot;Space and MEP topology extraction and application based on BIM&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 58(6): 587-592. doi: 10.16511/j.cnki.qhdxxb.2018.26.018 (in Chinese)'
 

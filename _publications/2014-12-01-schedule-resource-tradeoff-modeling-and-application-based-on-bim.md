@@ -7,6 +7,7 @@ permalink: /publications/2014-12-01-schedule-resource-tradeoff-modeling-and-appl
 excerpt: '本文提出基于 4D-BIM 的进度-资源均衡模型构建、仿真及应用方法，可减少重复建模、提升工作效率'
 date: 2014-12-01
 venue: '土木建筑工程信息技术'
+doi: '10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 citation: '林佳瑞*, 张建平, 钟耀锋 (2014). &quot;基于 4D-BIM 的施工进度-资源均衡模型自动构建与应用&quot; <i>土木建筑工程信息技术</i>. 6(6): 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 

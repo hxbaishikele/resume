@@ -7,6 +7,7 @@ permalink: /publications/2020-02-20-BIM-based-CPS-for-building-performance-monit
 excerpt: '本研究提出一种面向建筑能耗监测的可扩展信息物理融合系统及其自动构建方法'
 date: 2020-02-20
 venue: 'International Journal of Distributed Sensor Networks'
+doi: '10.1177/1550147720908170'
 paperurl: 'http://doi.org/10.1177/1550147720908170'
 citation: 'Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., and Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring&quot; <i>International Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170'
 

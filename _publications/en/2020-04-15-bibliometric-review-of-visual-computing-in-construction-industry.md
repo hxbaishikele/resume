@@ -7,6 +7,7 @@ permalink: /en/publications/2020-04-15-bibliometric-review-of-visual-computing-i
 excerpt: 'This paper conducts a bibliometric review of visual computing techniques including BIM, CV, laser scanning, AR in the construction industry'
 date: 2020-04-15
 venue: 'Visual Computing for Industry, Biomedicine, and Art'
+doi: '10.1186/s42492-020-00050-0'
 paperurl: 'http://doi.org/10.1186/s42492-020-00050-0'
 citation: 'Wang, H.W., Hu, Z.Z., and Lin, J.R.* (2020). &quot;A bibliometric review of visual computing in construction industry&quot; <i>Visual Computing for Industry, Biomedicine, and Art</i>. 3: 14. doi: 10.1186/s42492-020-00050-0'
 

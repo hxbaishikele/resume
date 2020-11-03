@@ -7,6 +7,7 @@ permalink: /en/publications/2020-02-20-BIM-based-CPS-for-building-performance-mo
 excerpt: 'This research presents a scalable BIM-based cyber-physical platform for building performance monitoring.'
 date: 2020-02-20
 venue: 'International Journal of Distributed Sensor Networks'
+doi: '10.1177/1550147720908170'
 paperurl: 'http://doi.org/10.1177/1550147720908170'
 citation: 'Zhang, Y.Y., Kang, K., Lin, J.R.*, Zhang, J.P., and Zhang, Y. (2020). &quot;Building information modeling–based cyber-physical platform for building performance monitoring&quot; <i>International Journal of Distributed Sensor Networks</i>. 16(2): 1-21. doi: 10.1177/1550147720908170'
 

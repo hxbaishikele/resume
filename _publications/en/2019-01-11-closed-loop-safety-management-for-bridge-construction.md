@@ -7,6 +7,7 @@ permalink: /en/publications/2019-01-11-closed-loop-safety-management-for-bridge-
 excerpt: 'This paper proposes an integrated framework automates closed-loop management of structural safety during bridge construction.'
 date: 2019-01-11
 venue: 'Advances in Engineering Software'
+doi: '10.1016/j.advengsoft.2018.11.013'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0965997818306689'
 citation: 'Lin, J., Zhang, J., Zhang, X. and Hu, Z.* (2019). &quot;Automating closed-loop structural safety management for bridge construction through multisource data integration&quot; <i>Advances in Engineering Software</i>. 128: 152-168. doi: 10.1016/j.advengsoft.2018.11.013'
 

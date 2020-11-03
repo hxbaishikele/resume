@@ -57,12 +57,21 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>{{ site.data.ui-text[lang].citation }}: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>
+      {{ site.data.ui-text[lang].citation }}: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a>
+      
+      {% if post.doi and site.scopus_citation_apikey %}
+      <!--object height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&apiKey={{site.scopus_citation_apikey}}&httpAccept=text/html"></object-->
+      <!--div class="scopus_crop"-->
+      <image alt="cited by count" border="0" height="50" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
+      <!--/div-->
+      {% endif %}
+      </p>
     {% elsif post.citation %}
       <p>{{ site.data.ui-text[lang].citation }}: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>{{ site.data.ui-text[lang].download }} <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
-
+    
   </article>
 </div>

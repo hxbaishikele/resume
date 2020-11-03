@@ -7,6 +7,7 @@ permalink: /publications/2013-06-01-web3d-for-bim-visualization
 excerpt: '本文提出基于 WebGL 的网页端 BIM 模型三维显示与管理方法'
 date: 2013-06-01
 venue: '土木建筑工程信息技术'
+doi: '10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 citation: '王珩玮, 胡振中, 林佳瑞, 张建平* (2013). &quot;面向 Web 的 BIM 三维浏览与信息管理&quot; <i>土木建筑工程信息技术</i>. 5(3): 1-7. doi: 10.16670/j.cnki.cn11-5823/tu.2013.03.011'
 

@@ -7,6 +7,7 @@ permalink: /en/publications/2020-05-07-hybrid-data-mining-for-TBM-monitoring
 excerpt: 'This paper proposes a hybrid data mining method for the safety management of TBM construction'
 date: 2020-05-07
 venue: 'IEEE Access'
+doi: '10.1109/ACCESS.2020.2994115'
 paperurl: 'http://doi.org/10.1109/ACCESS.2020.2994115'
 citation: 'Leng, S., Lin, J.R., Hu, Z.Z.*, and Shen, X. (2020). &quot;A Hybrid Data Mining Method for Tunnel Engineering Based on Real-Time Monitoring Data from Tunnel Boring Machines&quot; <i>IEEE Access</i>. 8: 90430-90449. doi: 10.1109/ACCESS.2020.2994115'
 

@@ -7,6 +7,7 @@ permalink: /en/publications/2019-12-18-BIM-for-automatic-compliance-checking
 excerpt: 'This paper reviews state-of-the-art of BIM-based compliance checking, and provides suggestions for future research'
 date: 2019-12-18
 venue: 'Journal of Tsinghua University (Science & Technology)'
+doi: '10.16511/j.cnki.qhdxxb.2020.25.013'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2020.25.013'
 citation: 'Lin, J.*, and Guo J. (2020). &quot;Automatic compliance checking in building and construction area&quot; <i>Journal of Tsinghua University (Science & Technology)</i>. 60(10): 873-879. doi: 10.16511/j.cnki.qhdxxb.2020.25.013'
 

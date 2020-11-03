@@ -7,6 +7,7 @@ permalink: /en/publications/2017-03-24-classification-system-for-lifecycle-manag
 excerpt: 'This research established an information classification system for lifecycle management of hydroelectric projects'
 date: 2017-03-24
 venue: ' Journal of Engineering Management'
+doi: '10.13991/j.cnki.jem.2017.04.024'
 paperurl: 'http://doi.org/10.13991/j.cnki.jem.2017.04.024'
 citation: 'Zhang, Z., Wang, H., Lin, J., Feng, Y., Zhang, J.* (2017). &quot;Information Classification System for Lifecycle Management of Hydroelectric Projects&quot; <i> Journal of Engineering Management</i>. 31(4): 131-136. doi: 10.13991/j.cnki.jem.2017.04.024'
 

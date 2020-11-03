@@ -7,6 +7,7 @@ permalink: /publications/2016-05-17-ifc-based-data-conversion-for-building-perfo
 excerpt: '本文针对绿色建筑性分析提出一种IFC与gbXML的转换方法，可降低充分建模成本、提高效率'
 date: 2016-05-17
 venue: '清华大学学报（自然科学版）'
+doi: '10.16511/j.cnki.qhdxxb.2016.21.057'
 paperurl: 'http://doi.org/10.16511/j.cnki.qhdxxb.2016.21.057'
 citation: '林佳瑞, 张建平* (2016). &quot;基于IFC的绿色性能分析数据转换与共享&quot; <i>清华大学学报（自然科学版）</i>. 56(9): 997-1002. doi: 10.16511/j.cnki.qhdxxb.2016.21.057'
 

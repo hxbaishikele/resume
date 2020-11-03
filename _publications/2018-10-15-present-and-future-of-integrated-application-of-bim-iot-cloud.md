@@ -7,6 +7,7 @@ permalink: /publications/2018-10-15-present-and-future-of-integrated-application
 excerpt: '本文综述了BIM、物联网、云等技术的集成应用现状与未来，指出未来仍需深入研究基础理论及多技术融合方法'
 date: 2018-10-15
 venue: '图学学报'
+doi: '10.11996/JG.j.2095-302X.2018050806'
 paperurl: 'http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2018050806'
 citation: '张云翼, 林佳瑞*, 张建平. (2018). &quot;BIM 与云、大数据、物联网等技术的集成应用现状与未来&quot; <i>图学学报</i>. 39(5): 806-816. doi: 10.11996/JG.j.2095-302X.2018050806'
 

@@ -7,6 +7,7 @@ permalink: /en/publications/2014-12-01-schedule-resource-tradeoff-modeling-and-a
 excerpt: 'This research proposes an automatic schedule-resource tradeoff modeling and simulation approach for construction, which could avoid rework and improve work efficiency'
 date: 2014-12-01
 venue: 'Journal of Information Technology in Civil Engineering and Architecture'
+doi: '10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2014.06.009'
 citation: 'Lin, J.*, Zhang, J., Zhong, Y. (2014). &quot;Schedule-resource Trade-off Modeling and Application based on 4D-BIM&quot; <i>Journal of Information Technology in Civil Engineering and Architecture</i>. 6(6): 44-49. doi: 10.16670/j.cnki.cn11-5823/tu.2014.06.009 (in Chinese)'
 

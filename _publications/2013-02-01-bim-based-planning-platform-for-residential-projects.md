@@ -7,6 +7,7 @@ permalink: /publications/2013-02-01-bim-based-planning-platform-for-residential-
 excerpt: '本文提出 BIM 和 4D 技术相结合的住宅方案策划与分析评价方法'
 date: 2013-02-01
 venue: '土木建筑工程信息技术'
+doi: '10.16670/j.cnki.cn11-5823/tu.2013.01.004'
 paperurl: 'http://doi.org/10.16670/j.cnki.cn11-5823/tu.2013.01.004'
 citation: '林佳瑞*, 张建平, 何田丰, 贾卫东, 吴峥 (2013). &quot;基于 BIM 的住宅项目策划系统研究与开发&quot; <i>土木建筑工程信息技术</i>. 5(1): 22-26. doi: 10.16670/j.cnki.cn11-5823/tu.2013.01.004'
 
