@@ -48,7 +48,12 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
-          <p>{{ site.data.ui-text[lang].citation }}: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p>
+          {{ site.data.ui-text[lang].citation }}: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a>
+          {% if page.doi and site.scopus_citation_apikey %}
+            <image alt="cited by count" border="0" height="50" style="position:absolute;clip:rect(3px,160px,23px,10px);" src="https://api.elsevier.com/content/abstract/citation-count?doi={{page.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
+          {% endif %}
+          </p>
         {% elsif page.citation %}
           <p>{{ site.data.ui-text[lang].citation }}: {{ page.citation }} </p>
         {% endif %}

@@ -45,7 +45,16 @@
         {% if post.collection == 'teaching' or post.collection == 'projects' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>{{ site.data.ui-text[lang].pubIn }} <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>
+          {{ site.data.ui-text[lang].pubIn }} <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {% if post.doi and site.scopus_citation_apikey %}
+            <image alt="cited by count" border="0" height="50" style="position:absolute;clip:rect(3px,160px,23px,10px);" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
+            <!--div class="scopus_crop">
+              <image alt="cited by count" border="0" height="50" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
+            </div-->            
+            <!--object height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&apiKey={{site.scopus_citation_apikey}}&httpAccept=text/html"></object-->
+          {% endif %}
+          </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[lang].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -59,13 +68,6 @@
     {% if post.citation and post.paperurl %}
       <p>
       {{ site.data.ui-text[lang].citation }}: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a>
-      
-      {% if post.doi and site.scopus_citation_apikey %}
-      <!--object height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&apiKey={{site.scopus_citation_apikey}}&httpAccept=text/html"></object-->
-      <!--div class="scopus_crop"-->
-      <image alt="cited by count" border="0" height="50" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
-      <!--/div-->
-      {% endif %}
       </p>
     {% elsif post.citation %}
       <p>{{ site.data.ui-text[lang].citation }}: {{ post.citation }} </p>

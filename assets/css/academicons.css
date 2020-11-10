@@ -371,7 +371,6 @@ video {
 }
 
 .scopus_crop img {
-    width: 196px;
-    height: 26px;
-    margin: -3px -20px -3px -20px;/*top right bottom left*/
+  position: absolute;
+  clip: rect(3px,160px,23px,10px);/*top,right,bottom,left*/
 }
