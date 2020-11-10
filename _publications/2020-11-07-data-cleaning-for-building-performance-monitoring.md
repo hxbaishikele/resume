@@ -32,6 +32,10 @@ grants:
 
 建筑能耗预测建筑节能调控与用能优化具有重要意义。然而，目前有关建筑能耗预测方法只针对特定的数据类型、省略数据清洗过程，且往往实现过程较为复杂，可借鉴性较差。本研究提出一个预测建筑能耗的完整流程，详细论述了流程的四个步骤：确定主要影响因素、脏数据识别与标记、数据清洗、模型构建与对比，并对比了流程中可以采用的几种清洗大数据和构建预测模型的方法。最后通过一个工程实例验证了该流程的科学性与有效性。
 
+本文获得了第六届全国BIM学术会议的优秀论文。
+
+![优秀论文奖状]({{ site.baseurl }}/images/2020-11-07-best-paper-of-6th-national-BIM-conference.jpg)
+
 [{{site.data.ui-text[page.lang].download_paper}}](https://cnki.net)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf)

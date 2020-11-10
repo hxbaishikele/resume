@@ -32,15 +32,18 @@ redirect_from:
 
 ## Honors&Awards
 ### Research
-* Jan, 2019, Best Paper Award of _Journal of Graphics_
 * Jan, 2019, Second Prize of the 2018 China Construction Science and Technology Award (rank 3)
 * Nov, 2018, Third Prize of the 2018 Beijing Science and Technology Award (rank 4)
 * Oct, 2016, Young Elite Scientists Sponsorship Program by the China Association for Science and Technology
 * Oct, 2016, RWTH Aachen – Tsinghua Senior Research Fellowship
+* Nov, 2020, Best Paper Award of 4th National Conference on Building Information Modeling
+* Jan, 2019, Best Paper Award of _Journal of Graphics_
+* Nov, 2018, Best Paper Award of 4th National Conference on Building Information Modeling
 * Nov, 2014, Best Paper of 17th Conference on Computing in Civil Engineering in China
 * Nov, 2014, Best Presentation of Tsinghua University Doctoral Academic Forum
 
 ### Teaching
+* Jul, 2020, Excellence Award of Tsinghua University for Online Teaching during the COVID-19 Pandemic
 * Dec, 2019, Excellent Advisor (First Prize) of Student Research Trainning Program of Tsinghua University
 * Jul, 2019, Third Prize of the 11th Teaching Competition for Young Faculties in Beijing
 * Dec, 2018, First Prize of 8th Teaching Competition for Young Faculties in Tsinghua

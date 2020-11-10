@@ -31,6 +31,9 @@ grants:
 ====
 
 
+This work was selected as one of the best papers of the 6th national conference on building information modeling.
+![Best Paper Award]({{ site.baseurl }}/images/2020-11-07-best-paper-of-6th-national-BIM-conference.jpg)
+
 [{{site.data.ui-text[page.lang].download_paper}}](https://cnki.net)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf)
