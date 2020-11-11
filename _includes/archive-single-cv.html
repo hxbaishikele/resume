@@ -40,7 +40,7 @@
       <p class="archive__item-excerpt" itemprop="description">
       {{ post.citation }}
       {% if post.doi and site.scopus_citation_apikey %}
-      <image alt="cited by count" border="0" height="50" style="position:absolute;clip:rect(3px,160px,23px,10px);" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
+      <img loading="auto" alt="cited by count" border="0" height="50" style="position:absolute;clip:rect(3px,160px,23px,10px);" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
       <!--object height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&apiKey={{site.scopus_citation_apikey}}&httpAccept=text/html"></object-->
       <!--div class="scopus_crop">
       <image alt="cited by count" border="0" height="36" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
