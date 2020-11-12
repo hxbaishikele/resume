@@ -48,7 +48,7 @@
           <p>
           {{ site.data.ui-text[lang].pubIn }} <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
           {% if post.doi and site.scopus_citation_apikey %}
-            <img loading="auto" alt="cited by count" border="0" height="50" style="position:absolute;clip:rect(3px,160px,23px,10px);" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
+            <img alt="cited by count" border="0" height="50" style="position:absolute;clip:rect(3px,160px,23px,10px);" class="lozad" data-src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
             <!--div class="scopus_crop">
               <image alt="cited by count" border="0" height="50" src="https://api.elsevier.com/content/abstract/citation-count?doi={{post.doi}}&amp;httpAccept=image%2Fjpeg&amp;apiKey={{site.scopus_citation_apikey}}"/>
             </div-->            
