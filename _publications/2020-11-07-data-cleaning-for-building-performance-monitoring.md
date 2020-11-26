@@ -7,6 +7,7 @@ permalink: /publications/2020-11-07-data-cleaning-for-building-performance-monit
 excerpt: '本研究探索了如何清洗建筑能耗大数据，并提出一个通用的数据清洗框架'
 date: 2020-11-07
 venue: '第六届全国 BIM 学术会议'
+doi: 10.26914/c.cnkihy.2020.022359
 paperurl: 'https://linjiarui.net/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf'
 citation: '陈旺，张云翼，林佳瑞 (2020). &quot;建筑能耗大数据清洗与案例研究&quot; <i>第六届全国 BIM 学术会议论文集</i>. 321-325. 中国建筑工业出版社. 中国, 太原.'
 
@@ -36,7 +37,7 @@ grants:
 
 ![优秀论文奖状]({{ site.baseurl }}/images/2020-11-07-best-paper-of-6th-national-BIM-conference.jpg)
 
-[{{site.data.ui-text[page.lang].download_paper}}](https://cnki.net)
+[{{site.data.ui-text[page.lang].download_paper}}](https://doi.org/10.26914/c.cnkihy.2020.022359)
 
 [{{site.data.ui-text[page.lang].download_preprint}}]({{ site.baseurl }}/files/2020-11-07-data-cleaning-for-building-performance-monitoring.pdf)
 

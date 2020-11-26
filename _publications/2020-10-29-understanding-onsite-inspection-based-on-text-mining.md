@@ -33,9 +33,9 @@ grants:
 
 {{site.data.ui-text[page.lang].abstract}}
 ====
+作为保障工程建设质量与安全的重要措施，施工现场检查至关重要。随着移动终端及手机App的普及，施工现场检查积累的文本数据快速增长。然而，由于缺乏对现场检查文本的高效分析与知识抽取工具，我们往往会忽视或遗漏现场问题并难以高效的做出决策响应。因此，本文提出一种基于关键词提取与主题建模的文本挖掘方法，可以识别施工现场隐患的关键关注点及其动态变化，从而支持更加高效、精准的决策。
 
-As an essential way to ensure success of construction projects, on-site inspection involves intensive paperwork, while generating large amounts of textual data. Lack of understanding of information hidden  in  text-based  inspection  records  always  leads  to  overlooking  of  important  issues  and  deferred decisions.  Therefore,  a  novel  text  mining  approach  based  on  keyword  extraction  and  topic  modeling  is introduced to identify key concerns and their dynamics of on-site issues for better decision-making process. Then, the proposed approach was demonstrated in a real world project and tested with 7250 issue records. Results showed that the proposed method could successfully extract key concerns hidden in texts and identify their changes with time, thereby enabling a more efficient on-site inspection and data-centric decision-making 
-process.  This  research  contributes:  (1)  to  the  body  of  knowledge  a  new  framework  for  discovering  key concerns and their changes with time in texts, and (2) to the state of practice by providing insights on hot topics and their changes with time to reduce on-site issues and make decisions efficiently. 
+有关方法在某实际项目现场质安隐患检查的额文本数据上进行了测试验证。结果表明，该方法可以从质安隐患关键词及主题分布两个角度准确抽取文本中隐藏的关键信息，并可分析有关信息随时间的变化，从而支持更加高效的现场隐患检查与以数据为中心的决策过程。
 
 ![Graph Abstract]({{ site.baseurl }}/images/2020-10-29-understanding-onsite-inspection-based-on-text-mining-ga.jpg)
 
