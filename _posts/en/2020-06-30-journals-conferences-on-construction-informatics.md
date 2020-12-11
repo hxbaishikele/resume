@@ -62,7 +62,7 @@ In this post, we collected journals and conferences related to construction info
 * ECPPM (European Conference on Product & Process Modelling)：organized by [(the European Association of Product and Process Modelling ,EAPPM)](http://www.ecppm.org/), usually held in summer or autumn in even-numbered years
 * EC3 (European Conference on Computing in Construction)：organized by the European Council for Computing in Construction, usually held in the summer or autumn in odd-numbered years, details could be found [here](https://ec-3.org/)
 * ICCEPM (International Conference on Construction Engineering and Project Management)：initiated by the Korea Institute of Construction Engineering and Management since 2005, usually held in autumn or winter in odd-numbered years. The 2019 conference was posponed due to the COVID-19 pandemic.
-* IPC (International Conference on Innovative Production and Construction)：usually held in the autumn or winter in odd-numbered years. The 2019 conference was posponed due to the COVID-19 pandemic
+* IPC (International Conference on Innovative Production and Construction)：usually held in the autumn or winter annually. The 2019 conference was posponed due to the COVID-19 pandemic
 * ICCREM (International Conference on Construction and Real Estate Management): held every summer since 2003, details could be found [here](http://www.iccrem.com/)
 * ISARC (International Symposium on Automation and Robotics in Construction): organized by [(the International Association for Automation and Robotics in Construction, IAARC)](http://www.iaarc.org/), held every summer or autumn
 * EG-ICE International Workshop: organized by [(the European Group for Intelligent Computing in Engineering, EG-ICE)](https://eg-ice.org/), held every june or july

@@ -62,7 +62,7 @@ tags:
 * ECPPM (European Conference on Product & Process Modelling)：由欧洲产品与流程建模协会[(the European Association of Product and Process Modelling ,EAPPM)](http://www.ecppm.org/)主办，每2年举办1次，通常在偶数年的夏、秋举办
 * EC3 (European Conference on Computing in Construction)：由欧洲建造工程计算理事会(European Council for Computing in Construction)主办，每2年举办1次，通常在奇数年的夏、秋举办，最新会议信息在[这里](https://ec-3.org/)
 * ICCEPM (International Conference on Construction Engineering and Project Management)：由韩国建造工程与管理学会创办(Korea Institute of Construction Engineering and Management)，自2005年起每2年举办1次，通常在奇数年的秋、冬举办，2019年会议因新冠肺炎疫情推迟到2020年末举办
-* IPC (International Conference on Innovative Production and Construction)：每2年举办1次，通常在奇数年的秋、冬举办
+* IPC (International Conference on Innovative Production and Construction)：每年举办1次，通常在秋、冬举办，2019年会议因新冠肺炎疫情推迟到2020年末举办
 * ICCREM (International Conference on Construction and Real Estate Management):建设与房地产管理国际学术研讨会，自2003年起每年召开一届，会议简介及其最新信息在[这里](http://www.iccrem.com/)
 * ISARC (International Symposium on Automation and Robotics in Construction): 国际建筑自动化和机器人技术研讨会，由国际建筑自动化与机器人协会[( International Association for Automation and Robotics in Construction, IAARC)](http://www.iaarc.org/)主办，每年夏、秋举办
 * EG-ICE International Workshop: 由智能工程计算欧洲组[(European Group for Intelligent Computing in Engineering, EG-ICE)](https://eg-ice.org/)举办，通常每年6-7月举办

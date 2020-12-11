@@ -46,3 +46,9 @@ process.  This  research  contributes:  (1)  to  the  body  of  knowledge  a  ne
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
 This  research  is  supported  by  the  Natural  Science  Foundation  of  China  (No.  51908323),  the  Beijing  Municipal  Science  and  Technology  Project  (No. Z181100005918006) and the Tsinghua University Initiative Scientific Research Program (No. 2019Z02UOT). 
+
+Accession Number: WOS:000589748900001
+
+ISSN: 2169-3536
+
+IDS Number: OR8WZ
