@@ -47,11 +47,12 @@ author_profile: true
 
 | No. | Name | Research Topic | Admission Time | Period | Major | Info |
 | ---- | ---- | -------- | ---- | -------- | ---- | ---- |
-| 1 | Ming-Hui Wu | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-now | Civil Engineering |  |
-| 2 | Jie-Xun Feng | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-now | Civil Engineering |  |
-| 3 | Yi Gu | Quantitative Analysis of BIM-based Design Behaviors | 2018/8 | 2019/3-now | Civil Engineering |  |
-| 4 | Yu-Wei Zhou | Spatial Analytics for Building Information Models | 2016/8 | 2017/10-2018/10 | Civil Engineering |  |
-| 5 | Xin Guan | Spatial Analytics for Building Information Models | 2015/8 | 2017/10-2018/10 | Hydraulic Engineering |  |
+| 1 | Zhi-Gang Cheng | Speech-Recognition-Assisted BIM Model Checking | 2018/8 | 2020/9-now | Civil Engineering |  |
+| 2 | Ming-Hui Wu | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-2020/12 | Civil Engineering |  |
+| 3 | Jie-Xun Feng | Simulation of Human-Robot Collaboration in Construction | 2017/8 | 2019/3-2002/12 | Civil Engineering |  |
+| 4 | Yi Gu | Quantitative Analysis of BIM-based Design Behaviors | 2018/8 | 2019/3-now | Civil Engineering |  |
+| 5 | Yu-Wei Zhou | Spatial Analytics for Building Information Models | 2016/8 | 2017/10-2018/10 | Civil Engineering |  |
+| 6 | Xin Guan | Spatial Analytics for Building Information Models | 2015/8 | 2017/10-2018/10 | Hydraulic Engineering |  |
 
 ### CAD Challenge Program
 
