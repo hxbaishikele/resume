@@ -132,7 +132,10 @@ redirect_from:
 * Reviewer of _IEEE Transactions on Systems, Man and Cybernetics: Systems_
 * Reviewer of _Journal of Management in Engineering_
 * Reviewer of _Engineering, Construction and Architectural Management_
+* Reviewer of _IEEE Access_
+* Reviewer of _Sensors_
 * Reviewer of _Mobile Information Systems_
+* Reviewer of _Advances in Civil Engineering_
 * Reviewer of _Canadian Journal of Civil Engineering_
 * Reviewer of _Journal of Structural Integrity and Maintenance_
 * Reviewer of _Frontiers of Engineering Management_

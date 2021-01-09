@@ -133,7 +133,10 @@ redirect_from:
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 审稿人
 * Journal of Management in Engineering 审稿人
 * Engineering, Construction and Architectural Management 审稿人
+* IEEE Access 审稿人
+* Sensors 审稿人
 * Mobile Information Systems 审稿人
+* Advances in Civil Engineering 审稿人
 * Canadian Journal of Civil Engineering 审稿人
 * Journal of Structural Integrity and Maintenance 审稿人
 * Frontiers of Engineering Management 审稿人
