@@ -30,6 +30,8 @@ author_profile: true
 {% assign books = publications | where:"category", 'book' %}
 {% assign chapters = publications | where:"category", 'chapter' %}
 
+{% include pub_chart stacked="true" %}
+
 {% if journals.size>0 %}
 ## 期刊论文
 {% for post in journals reversed %}

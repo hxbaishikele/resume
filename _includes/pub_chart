@@ -1,0 +1,200 @@
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="https://unpkg.com/chartjs-plugin-colorschemes"></script>
+<canvas id="pubChart"></canvas>
+<script>
+{% assign lang = site.locale%}
+{% if page.lang %}
+{% assign lang = page.lang%}
+{% endif %}
+
+{% assign years="" | split:',' %}
+{% for pub in publications %}
+    {% assign year= pub.date | date: "%Y" %}
+    {% if years contains year %}
+    {% else %}
+        {% assign years= years| push:year %}
+    {% endif %}
+{% endfor %}
+
+{% assign pub_each="" | split:',' %}
+{% for year in years %}
+    {% assign yearCount = 0 %}
+    {% for pub in publications %}
+        {% assign cur_year= pub.date | date: "%Y" %}
+        {% if cur_year==year %}
+            {% assign yearCount = yearCount | plus:1 %}
+        {% endif %}
+    {% endfor %}
+    {% assign pub_each=pub_each | push:yearCount %}
+{% endfor %}
+
+{% assign journal_each="" | split:',' %}
+{% for year in years %}
+    {% assign yearCount = 0 %}
+    {% for pub in journals %}
+        {% assign cur_year= pub.date | date: "%Y" %}
+        {% if cur_year==year %}
+            {% assign yearCount = yearCount | plus:1 %}
+        {% endif %}
+    {% endfor %}
+    {% assign journal_each=journal_each | push:yearCount %}
+{% endfor %}
+
+{% assign conf_each="" | split:',' %}
+{% for year in years %}
+    {% assign yearCount = 0 %}
+    {% for pub in proceedings %}
+        {% assign cur_year= pub.date | date: "%Y" %}
+        {% if cur_year==year %}
+            {% assign yearCount = yearCount | plus:1 %}
+        {% endif %}
+    {% endfor %}
+    {% assign conf_each=conf_each | push:yearCount %}
+{% endfor %}
+
+{% assign other_each="" | split:',' %}
+{% for year in years %}
+    {% assign idx= year | minus:years[0] %}
+    {% assign other = pub_each[idx] | minus: journal_each[idx] %}
+    {% assign other = other | minus: conf_each[idx] %}
+    {% assign other_each=other_each | push:other %}
+{% endfor %}
+
+{% assign pub_total="" | split:',' %}
+{% assign tmp_count=0 %}
+{% for count in pub_each %}
+    {% assign tmp_count= tmp_count | plus:count %}
+    {% assign pub_total=pub_total | push:tmp_count %}
+{% endfor %}
+
+{% if include.stacked and include.stacked=="true" %}
+    
+new Chart(
+document.getElementById("pubChart"),
+ {
+   "type":"bar",
+   "data":{
+      "labels":{{years | jsonify}},
+      "datasets":[
+        {
+          "label":"{{site.data.chart-text[lang].journalEach}}",
+          "data":{{journal_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].confEach}}",
+          "data":{{conf_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].otherEach}}",
+          "data":{{other_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].pubTotal}}",
+          "data":{{pub_total | jsonify}},
+          "yAxisID": "total",
+          "type":"line"
+        }
+      ]
+    },
+    "options":{
+      "scales":{
+          "xAxes":[{"stacked":true,"gridLines":{"display":false}}],
+          "yAxes":[{"id":"each","stacked":true,"gridLines":{"display":false},"ticks":{"beginAtZero":true}},{"id":"total","position":"right","gridLines":{"display":false}}]
+      },
+      "plugins":{"colorschemes":{"scheme":"tableau.Tableau20"}}
+    }
+ }
+);
+
+{% else %}
+
+    {% assign journal_total="" | split:',' %}
+    {% assign tmp_count=0 %}
+    {% for count in journal_each %}
+        {% assign tmp_count= tmp_count | plus:count %}
+        {% assign journal_total=journal_total | push:tmp_count %}
+    {% endfor %}
+    
+    {% assign conf_total="" | split:',' %}
+    {% assign tmp_count=0 %}
+    {% for count in conf_each %}
+        {% assign tmp_count= tmp_count | plus:count %}
+        {% assign conf_total=conf_total | push:tmp_count %}
+    {% endfor %}
+    
+    {% assign other_total="" | split:',' %}
+    {% assign tmp_count=0 %}
+    {% for count in other_each %}
+        {% assign tmp_count= tmp_count | plus:count %}
+        {% assign other_total=other_total | push:tmp_count %}
+    {% endfor %}
+
+
+new Chart(
+document.getElementById("pubChart"),
+ {
+   "type":"bar",
+   "data":{
+      "labels":{{years | jsonify}},
+      "datasets":[
+        {
+          "label":"{{site.data.chart-text[lang].pubEach}}",
+          "data":{{pub_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].pubTotal}}",
+          "data":{{pub_total | jsonify}},
+          "yAxisID": "total",
+          "type":"line"
+        },
+        {
+          "label":"{{site.data.chart-text[lang].journalEach}}",
+          "data":{{journal_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].journalTotal}}",
+          "data":{{journal_total | jsonify}},
+          "yAxisID": "total",
+          "type":"line"
+        },
+        {
+          "label":"{{site.data.chart-text[lang].confEach}}",
+          "data":{{conf_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].confTotal}}",
+          "data":{{conf_total | jsonify}},
+          "yAxisID": "total",
+          "type":"line"
+        },
+        {
+          "label":"{{site.data.chart-text[lang].otherEach}}",
+          "data":{{other_each | jsonify}},
+          "yAxisID": "each",
+        },
+        {
+          "label":"{{site.data.chart-text[lang].otherTotal}}",
+          "data":{{other_total | jsonify}},
+          "yAxisID": "total",
+          "type":"line"
+        }
+      ]
+    },
+    "options":{
+      "scales":{
+          "xAxes":[{"stacked":true,"gridLines":{"display":false}}],
+          "yAxes":[{"id":"each","stacked":true,"gridLines":{"display":false},"ticks":{"beginAtZero":true}},{"id":"total","position":"right","gridLines":{"display":false}}]
+      },
+      "plugins":{"colorschemes":{"scheme":"tableau.Tableau20"}}
+    }
+ }
+);
+{% endif %}
+</script>
+ 

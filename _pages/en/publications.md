@@ -30,6 +30,8 @@ You can also find my publications on:
 {% assign books = publications | where:"category", 'book' %}
 {% assign chapters = publications | where:"category", 'chapter' %}
 
+{% include pub_chart stacked="true" %}
+
 {% if journals.size>0 %}
 ## Journal Papers
 {% for post in journals reversed %}

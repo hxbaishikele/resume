@@ -1,0 +1,33 @@
+# User interface text and labels
+# Chinese (default)
+# -----------------
+zh: &DEFAULT_ZH
+  pubEach                   : "逐年(全)"
+  pubTotal                  : "累计(全)"
+  journalEach               : "逐年(期刊)"
+  journalTotal              : "累计(期刊)"
+  confEach                  : "逐年(会议)"
+  confTotal                 : "累计(会议)"
+  otherEach                 : "逐年(其他)"
+  otherTotal                : "累计(其他)"
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  pubEach                   : "All"
+  pubTotal                  : "Sum(All)"
+  journalEach               : "Journal"
+  journalTotal              : "Sum(Journal)"
+  confEach                  : "Conference"
+  confTotal                 : "Sum(Conference)"
+  otherEach                 : "Other"
+  otherTotal                : "Sum(Other)"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
