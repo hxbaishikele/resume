@@ -9,7 +9,7 @@ date: 2020-12-07
 venue: 'Proceedings of the 8th International Conference on Innovative Production and Construction (IPC 2020)'
 doi: '10.13140/RG.2.2.17120.84481'
 paperurl: 'https://doi.org/10.13140/RG.2.2.17120.84481'
-citation: 'Zhou, Y.C., and Lin, J.R. (2020). &quot;Ontology-based Risk Assessment and Solution During Shield Tunnel Construction&quot; <i>Proceedings of the 8th International Conference on Innovative Production and Construction (IPC 2020)</i>. xxx-xxx. Hong Kong.'
+citation: 'Zhou, Y.C., and Lin, J.R. (2020). &quot;Ontology-based Risk Assessment and Solution During Shield Tunnel Construction&quot; <i>Proceedings of the 8th International Conference on Innovative Production and Construction (IPC 2020)</i>. 167-177. Hong Kong.'
 
 comment: true
 category: conference
@@ -41,6 +41,8 @@ We won the Best Award of the IPC 2020, check the announcement [here](https://ipc
 [{{site.data.ui-text[page.lang].download_preprint}}](https://doi.org/10.13140/RG.2.2.17120.84481)
 
 [{{site.data.ui-text[page.lang].download_paper}}]({{ site.baseurl }}/files/2020-12-07-ontology-based-risk-assessment-during-shield-tunnel-construction.pdf)
+
+Full proceedings could be found [here](https://ipc2019.org/wp-content/uploads/2021/01/ipc2020_proceedings.pdf), and we also provide a copy [here]({{ site.baseurl }}/files/ipc2020_proceedings.pdf)。
 
 {{site.data.ui-text[page.lang].rec_citation}}: {{page.citation}}
 
