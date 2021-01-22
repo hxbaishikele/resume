@@ -23,11 +23,16 @@ tags:
   - laser scanning
 ---
 
+![banner]({{ site.baseurl }}/images/2021-01-21-sensors-SSBC-banner.png)
+
+
 A special issue of Sensors (ISSN 1424-8220). This special issue belongs to the section "Intelligent Sensors".
 
 Deadline for manuscript submissions: 31 October 2021.
 
 Click [here](https://www.mdpi.com/journal/sensors/special_issues/SSBC) to go to the website of this special issue and submit your paper.
+
+[Download flyer]({{ site.baseurl }}/files/2021-01-21-sensors-SSBC-flyer.pdf) and share it with your friends.
 
 Dear Colleagues,
 
