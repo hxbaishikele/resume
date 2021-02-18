@@ -8,16 +8,16 @@
 # Site Settings
 locale                   : "zh"
 title                    : 
-  en: "Jia-Rui Lin's Page"
-  zh: "林佳瑞的个人网站"
+  en: "Yue Shi's Page"
+  zh: "石越的个人网站"
 title_separator          : "-"
-name                     : &name "Jia-Rui Lin"
+name                     : &name "Yue Shi"
 description              : 
-  en: &description "Faculty of Tsinghua University"
-  zh: &description "清华大学助理研究员"
-url                      : https://linjiarui.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+  en: &description "Doctor of Texas Tech University"
+  zh: &description "德州理工大学博士生"
+# url                      : https://linjiarui.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "linjiarui.github.io"
+# repository               : "linjiarui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -27,7 +27,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "jrlin"
+    shortname            : "ShiYue"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -89,20 +89,20 @@ analytics:
 # Site Author
 author:
   name             : 
-    en: "Jia-Rui Lin"
-    zh: "林佳瑞"
+    en: "Yue Shi"
+    zh: "石越"
   avatar           : "profile.jpg"
   bio              : 
-    en: "Assistant Professor"
-    zh: "助理研究员"
+    en: "Doctor"
+    zh: "博士"
   location         : 
-    en: "Beijing, China"
-    zh: "中国北京"
+    en: "America"
+    zh: "美国"
   employer         : 
-    en: "Civil Eng, Tsinghua Univ."
-    zh: "清华大学土木系"
+    en: "Texas Tech University."
+    zh: "德州理工大学"
   googlescholar    : "https://scholar.google.com/citations?user=asGD5xgAAAAJ"
-  email            : "lin611@tsinghua.edu.cn"
+  email            : "yue.shi@ttu.edu"
   researchgate     : "https://www.researchgate.net/profile/Jia-Rui_Lin"
   uri              :
   bitbucket        :
@@ -111,14 +111,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "linjiarui"
+#   github           : "linjiarui"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "linjiarui"
-  orcid            : "http://orcid.org/0000-0003-2195-8675"
-  publons          : "https://publons.com/researcher/1713931/jia-rui-lin/"
+  linkedin         : "ShiYue"
+#   orcid            : "http://orcid.org/0000-0003-2195-8675"
+#   publons          : "https://publons.com/researcher/1713931/jia-rui-lin/"
   mendeley         : #"https://www.mendeley.com/profiles/jia-rui-lin/"
   pinterest        :
   soundcloud       :
